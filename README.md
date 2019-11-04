@@ -1,2 +1,2 @@
-# LibreLadies-Theme
-Ladies Theme for LibreOffice
+# LibreLadies
+LibreLadies Theme for LibreOffice
