@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_fontworkshapetype.fontwork-open-circle-curve.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 10/lc_fontworkshapetype.fontwork-open-circle-curve.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview36"
+     showgrid="true"
+     inkscape:zoom="118"
+     inkscape:cx="11.325974"
+     inkscape:cy="22.074054"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4168" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#7c9fcf"
+       id="stop5" />
+    <stop
+       offset=".5"
+       stop-color="#7c9ece"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#7b9dcf"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="b">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop12" />
+    <stop
+       offset=".53340602"
+       stop-color="#fff"
+       id="stop14" />
+    <stop
+       offset=".9375"
+       stop-color="#f1f1f1"
+       id="stop16" />
+    <stop
+       offset=".96875"
+       stop-color="#eaeaea"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#dfdfdf"
+       id="stop20" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="0"
+     x2="128"
+     xlink:href="#a"
+     y1="64"
+     y2="64"
+     gradientTransform="scale(0.125,0.125)" />
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="64"
+     x2="64"
+     xlink:href="#b"
+     y1="128"
+     y2="0"
+     gradientTransform="scale(0.125,0.125)" />
+  <linearGradient
+     id="e"
+     gradientUnits="userSpaceOnUse"
+     x1="64"
+     x2="64"
+     xlink:href="#b"
+     y1="88"
+     y2="60.090096"
+     gradientTransform="scale(0.125,0.125)" />
+  <linearGradient
+     id="f"
+     gradientUnits="userSpaceOnUse"
+     x1="64"
+     x2="64"
+     xlink:href="#a"
+     y1="88"
+     y2="60.090096"
+     gradientTransform="scale(0.125,0.125)" />
+  <g
+     id="g4196"
+     transform="matrix(1.5072786,0,0,1.5024881,-0.05411724,-3.8696813)">
+    <g
+       id="g4204"
+       transform="translate(-0.0070788,2.5505827)">
+      <g
+         id="g4188"
+         transform="matrix(0.97986055,0,0,0.97986055,0.16527051,0.1907154)">
+        <path
+           d="m 8,-0.04029403 c -4.418278,0 -8,3.58172203 -8,8.00000003 l 3,0 c 0,-2.7614238 2.2385762,-5 5,-5 2.761424,0 5,2.2385762 5,5 l 3,0 C 16,3.541428 12.418278,-0.04029403 8,-0.04029403 Z"
+           id="path28"
+           style="fill:#f3b7d9;fill-opacity:1;stroke:#e820bb;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 8,1 C 4.5229839,1.0035074 1.5755725,3.5586445 1.0788574,7 L 2.0905761,7 C 2.5781251,4.1156104 5.0746971,2.0032454 8,2 c 2.927426,5.125e-4 5.427135,2.1135194 5.915039,5 l 1.004395,0 C 14.422812,3.5592858 11.476367,1.0043555 8,1 Z"
+           id="path30"
+           style="fill:#f0e3ec;fill-opacity:1;stroke:#a0409e;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4192"
+         transform="translate(0,-0.58717563)">
+        <path
+           d="M 3,8.864258 A 1.0055331,1.0055331 0 0 0 1.9946289,9.869629 l 0,1 A 1.0055331,1.0055331 0 0 0 3,11.875 l 10,0 a 1.0055331,1.0055331 0 0 0 1.005371,-1.005371 l 0,-1 A 1.0055331,1.0055331 0 0 0 13,8.864258 Z"
+           id="path32"
+           style="fill:#f3b7d9;fill-opacity:1;stroke:#e820bb;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3,9.869629 10,0 0,1 -10,0 z"
+           id="path34"
+           style="fill:#f0e3ec;fill-opacity:1;stroke:#a0409e;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
