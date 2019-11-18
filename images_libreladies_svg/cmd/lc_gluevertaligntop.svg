@@ -1,1 +1,184 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m2 2h10c0 .7135735.16353 1.3793162.433594 2h-8.433594v16h16v-4.566406c1.185038-.699567 2-1.976737 2-3.433594v10h-20zm8 10c0-1.1.9-2 2-2h4v-4.5410156c-1.236022-.713616-1.998173-2.0317504-2-3.4589844h8c-.0018 1.427234-.763978 2.7453684-2 3.4589844v6.5410156c0 1.1-.91 2-2 2h-6c-1.1 0-2-.9-2-2z"/><path d="m10 18v-4h-4v-4h4v-4h4v4h4v4h-4v4z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_gluevertaligntop.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 15/lc_gluevertaligntop.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview52"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="7.8270236"
+     inkscape:cy="7.8644068"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4184" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(0.06477706,0,0,0.1431311,-68.204115,-54.65389)"
+     gradientUnits="userSpaceOnUse"
+     x1="399.77466"
+     x2="399.77466"
+     y1="1164.6696"
+     y2="549.06134">
+    <stop
+       offset="0"
+       stop-color="#a7a7a9"
+       id="stop5" />
+    <stop
+       offset=".5"
+       stop-color="#7d7d83"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#aaaab1"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(0.5000001,0,0,1.0000001,-64.000001,-132)"
+     gradientUnits="userSpaceOnUse"
+     x1="-63.999985"
+     x2="124.09152"
+     y1="135.99998"
+     y2="27.999992">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop12" />
+    <stop
+       offset=".42597079"
+       stop-color="#fff"
+       id="stop14" />
+    <stop
+       offset=".5892781"
+       stop-color="#f1f1f1"
+       id="stop16" />
+    <stop
+       offset=".80219781"
+       stop-color="#eaeaea"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#dfdfdf"
+       id="stop20" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientTransform="matrix(1.9227921,0,0,2.0000003,-98.656196,-16)"
+     gradientUnits="userSpaceOnUse"
+     x1="102.31124"
+     x2="74.330322"
+     y1="-5.8302131"
+     y2="32">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop23" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop25" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientTransform="matrix(-0.540151,-0.540151,-0.48613592,0.48613592,3.671372,79.955834)"
+     gradientUnits="userSpaceOnUse"
+     x1="-21.213205"
+     x2="25.455845"
+     y1="-80.024391"
+     y2="-104.6518">
+    <stop
+       offset="0"
+       stop-color="#0968ef"
+       id="stop28" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop30" />
+  </linearGradient>
+  <g
+     id="g4191"
+     transform="translate(26,-9)">
+    <g
+       transform="matrix(0,-1,1,0,-26,33)"
+       id="g4942">
+      <rect
+         height="22"
+         rx="0.74832696"
+         ry="0.87031615"
+         transform="matrix(0,1,1,0,0,0)"
+         width="22"
+         x="1"
+         y="1"
+         id="rect54-3"
+         style="opacity:1;fill:#9e3a9c;fill-opacity:1" />
+      <rect
+         style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd"
+         id="rect58-6"
+         y="2"
+         x="2"
+         width="20"
+         transform="matrix(0,1,1,0,0,0)"
+         ry="1.25"
+         rx="1.2499988"
+         height="20" />
+    </g>
+    <g
+       id="g4924"
+       transform="matrix(0,1,-1,0,-2.0771163,8.9228839)">
+      <path
+         style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#9d3a9b;stroke-width:0.24420547;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 15.644531,8 c -0.421922,0 -0.761719,0.3397984 -0.761719,0.7617188 l 0,9.2246092 -9.0820308,0 0,-0.591797 c 0,-0.386001 -0.3093116,-0.695312 -0.6953124,-0.695312 l -3.2109376,0 c -0.3860008,0 -0.6953124,0.309311 -0.6953124,0.695312 l 0,2.710938 c 0,0.386001 0.3093116,0.695312 0.6953124,0.695312 l 3.2109376,0 c 0.3860008,0 0.6953124,-0.309311 0.6953124,-0.695312 l 0,-0.591797 9.4667968,0 c 0.06818,0 0.128949,-0.02063 0.191406,-0.03906 0.06089,0.01558 0.119673,0.03711 0.185547,0.03711 0.421922,0 0.761719,-0.339799 0.761719,-0.761719 l 0,-9.9882812 C 16.40625,8.3397984 16.066453,8 15.644531,8 Z"
+         id="rect4260"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e602b4;fill-opacity:1;stroke:#9d3a9b;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path44"
+         d="m 11.273167,5.0780749 3.277999,3.278038 -3.277999,3.2780371 1.092667,1.09268 3.278,-3.2780371 3.278,3.2780371 1.092666,-1.09268 -3.277999,-3.2780371 3.277999,-3.278038 -1.092667,-1.092681 -3.277999,3.278039 -3.278,-3.278039 z" />
+    </g>
+  </g>
+</svg>
