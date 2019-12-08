@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_hscrollbar.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 21/sc_hscrollbar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata81">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs79" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview77"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="11.491998"
+     inkscape:cy="8.9627241"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4209" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#bbb"
+       id="stop7" />
+  </linearGradient>
+  <linearGradient
+     id="b">
+    <stop
+       offset="0"
+       stop-color="#cbcbcd"
+       id="stop10" />
+    <stop
+       offset=".5"
+       stop-color="#e0e0e2"
+       id="stop12" />
+    <stop
+       offset="1"
+       stop-color="#f2f2f2"
+       id="stop14" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="72"
+     x2="72"
+     y1="-16"
+     y2="128"
+     gradientTransform="matrix(0.125,0,0,0.125,0,-16)">
+    <stop
+       offset="0"
+       stop-color="#959391"
+       id="stop17" />
+    <stop
+       offset="1"
+       stop-color="#828282"
+       id="stop19" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="56"
+     x2="24"
+     xlink:href="#b"
+     y1="64"
+     y2="64"
+     gradientTransform="matrix(0.125,0,0,0.125,0,-16)" />
+  <linearGradient
+     id="e"
+     gradientUnits="userSpaceOnUse"
+     x1="32"
+     x2="96"
+     xlink:href="#a"
+     y1="64"
+     y2="64"
+     gradientTransform="matrix(0.125,0,0,0.125,0,-16)" />
+  <filter
+     id="f"
+     color-interpolation-filters="sRGB"
+     height="1.229086"
+     width="1.168"
+     x="-.084"
+     y="-.114543">
+    <feGaussianBlur
+       stdDeviation=".56"
+       id="feGaussianBlur24" />
+  </filter>
+  <filter
+     id="g"
+     color-interpolation-filters="sRGB"
+     height="1.219135"
+     width="1.336"
+     x="-.168"
+     y="-.109568">
+    <feGaussianBlur
+       stdDeviation=".56"
+       id="feGaussianBlur27" />
+  </filter>
+  <linearGradient
+     id="h"
+     gradientUnits="userSpaceOnUse"
+     x1="40"
+     x2="88"
+     xlink:href="#a"
+     y1="64"
+     y2="64"
+     gradientTransform="matrix(0.125,0,0,0.125,0,-16)" />
+  <linearGradient
+     id="i"
+     gradientTransform="matrix(0.08333333,0,0,0.0625,2.6666668,-12)"
+     gradientUnits="userSpaceOnUse"
+     x1="64"
+     x2="15.999999"
+     xlink:href="#b"
+     y1="64"
+     y2="64" />
+  <g
+     id="g4233">
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="16"
+       rx="2"
+       ry="2"
+       width="10"
+       x="3"
+       id="rect33"
+       style="fill:#9d3a9b"
+       y="-16" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="14"
+       rx="2"
+       ry="2"
+       width="8"
+       x="4"
+       y="-15"
+       id="rect35"
+       style="fill:#f3b7d9" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="12"
+       rx="1.2345545"
+       ry="1.2782941"
+       width="6"
+       x="5"
+       y="-14"
+       id="rect37"
+       style="fill:#f0e3ec" />
+    <g
+       transform="matrix(0,0.125,-0.125,0,16,0)"
+       id="g47"
+       style="fill:#9d3a9b">
+      <path
+         style="fill:#9d3a9b"
+         d="m 56,16 16,0 0,12 -16,0 z"
+         id="path49"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9d3a9b"
+         d="m 48,28 8,0 0,12 -8,0 z"
+         id="path51"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9d3a9b"
+         d="m 72,28 8,0 0,12 -8,0 z"
+         id="path53"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="6"
+       ry="1"
+       width="8"
+       x="4"
+       y="-11"
+       id="rect55"
+       style="fill:#e602b4" />
+    <g
+       transform="matrix(0,0.125,0.125,0,-1.5333014,0)"
+       id="g65"
+       style="fill:#9d3a9b">
+      <path
+         style="fill:#9d3a9b"
+         d="m 56,28.266411 16,0 0,8 -16,0 z"
+         id="path67"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9d3a9b"
+         d="m 48,36.266411 8,0 0,12 -8,0 z"
+         id="path69"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9d3a9b"
+         d="m 72,36.266411 8,0 0,12 -8,0 z"
+         id="path71"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="4"
+       ry="0.43302351"
+       width="6"
+       x="5"
+       y="-10"
+       id="rect73"
+       style="fill:#f3b7d9" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       height="2"
+       ry="0.21651176"
+       width="4"
+       x="6"
+       y="-9"
+       id="rect75"
+       style="fill:#f0e3ec" />
+  </g>
+</svg>

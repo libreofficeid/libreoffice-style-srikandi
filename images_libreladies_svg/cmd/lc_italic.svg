@@ -1,1 +1,111 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m14 2-.599609 3h3l.599609-3zm-1.199219 6-2.800781 14h3l2.800781-14z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   viewBox="0 0 6.3499999 6.3500002"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_italic.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/lc_italic.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview22"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="7.9339155"
+     inkscape:cy="11.466295"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4154" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="16.202049"
+     x2="21.913328"
+     y1="10.308693"
+     y2="10.308693">
+    <stop
+       offset="0"
+       stop-color="#3b3e22"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#454545"
+       stop-opacity="0"
+       id="stop7" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="22.742989"
+     x2="23.964148"
+     y1="31.14403"
+     y2="3.05739">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop10" />
+    <stop
+       offset="1"
+       id="stop12" />
+  </linearGradient>
+  <g
+     transform="matrix(0.20135046,0,0,0.20135046,-0.39987624,-0.24208163)"
+     id="g14"
+     style="stroke-width:1.015378">
+    <text
+       font-size="40.615143"
+       letter-spacing="0"
+       word-spacing="0"
+       x="8.5561895"
+       y="30.893702"
+       id="text16"
+       style="font-size:40.61514282px;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#9d3a9b">
+      <tspan
+         font-size="42.740532"
+         font-style="italic"
+         x="8.5561895"
+         y="30.893702"
+         id="tspan18"
+         style="font-style:italic;font-size:42.74053192px;font-family:FreeSerif;fill:#9d3a9b;stroke-width:1.015378">I</tspan>
+    </text>
+  </g>
+</svg>

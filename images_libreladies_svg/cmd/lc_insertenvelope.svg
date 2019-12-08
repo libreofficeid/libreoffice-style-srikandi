@@ -1,1 +1,159 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 4-9 6v11h18v-11zm0 2.4042969 5.720703 3.8125001-5.052734 3.783203h-1.335938l-5.0527341-3.783203zm-7 5.2324221 4.5 2.863281-4.5 4.5zm14 0v7.363281l-4.5-4.5zm-8.416016 4.363281h2.832032l2.833984 3h-8.5z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_insertenvelope.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 25/lc_insertenvelope.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs37" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview35"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="13.597554"
+     inkscape:cy="13.432084"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4167" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="104"
+     x2="104"
+     y1="-15.86471"
+     y2="-104.2276">
+    <stop
+       offset="0"
+       stop-color="#dee1e5"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#fafafa"
+       id="stop7" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="48"
+     x2="48"
+     y1="216.35635"
+     y2="-55.7724">
+    <stop
+       offset="0"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop12" />
+  </linearGradient>
+  <radialGradient
+     id="c"
+     cx="61.999996"
+     cy="36.682388"
+     fx="61.767456"
+     fy="44.699276"
+     gradientTransform="matrix(1.4082959,0,0,0.78999908,13.13011,-3.418119)"
+     gradientUnits="userSpaceOnUse"
+     r="38"
+     spreadMethod="reflect">
+    <stop
+       offset="0"
+       stop-color="#80b3ff"
+       id="stop15" />
+    <stop
+       offset="1"
+       stop-color="#254b99"
+       id="stop17" />
+  </radialGradient>
+  <g
+     id="g4742">
+    <rect
+       height="17"
+       rx="1.4973717"
+       width="24"
+       y="4"
+       id="rect21"
+       style="opacity:1;fill:#9d3a9b"
+       x="0" />
+    <rect
+       rx="1.49737"
+       y="5"
+       x="1"
+       height="15"
+       width="22"
+       id="rect4738"
+       style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       x="7.3637123"
+       y="16.531824"
+       id="text25"
+       style="font-size:2.24605751px;font-family:'Liberation Sans'">
+      <tspan
+         font-size="10.2079"
+         x="7.3637123"
+         y="16.531824"
+         id="tspan27"
+         style="font-size:1.9106276px" />
+    </text>
+    <text
+       x="2.3922029"
+       y="12.039711"
+       id="text31"
+       style="font-size:2.24605751px;font-family:'Liberation Sans'">
+      <tspan
+         font-size="10.2079"
+         x="2.3922029"
+         y="12.039711"
+         id="tspan33"
+         style="font-size:1.9106276px">TO:</tspan>
+    </text>
+    <rect
+       ry="1"
+       rx="1"
+       y="7"
+       x="16"
+       height="6"
+       width="5"
+       id="rect4740"
+       style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

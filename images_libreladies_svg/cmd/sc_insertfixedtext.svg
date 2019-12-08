@@ -1,1 +1,108 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m1 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-10c0-.554-.446-1-1-1z" opacity=".35"/><path d="m6.0000001 4v2h3.9999998v1h-3.4999998c-1.3807118 0-2.5 1.1192881-2.5 2.5 0 1.380712 1.1192882 2.5 2.5 2.5h5.4999999v-2-1-2-1c0-1.1045695-.89543-2-2.0000001-2zm.5 5h3.4999998v1h-3.4999998c-.2761424 0-.5-.223858-.5-.5s.2238576-.5.5-.5z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333334"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_insertfixedtext.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 25/sc_insertfixedtext.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview22"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.164791"
+     inkscape:cy="7.9034363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4154" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="1.14271"
+     x2="1.124065"
+     y1="-35.700258"
+     y2="-35.979931">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop5" />
+    <stop
+       offset="1"
+       id="stop7" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="3.665901"
+     x2="3.146537"
+     y1=".879202"
+     y2="2.437293">
+    <stop
+       offset="0"
+       stop-color="#3b3e22"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-color="#454545"
+       stop-opacity="0"
+       id="stop12" />
+  </linearGradient>
+  <g
+     id="g4156"
+     style="stroke:#9d3a9b;stroke-opacity:1;stroke-width:0.06614584;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;fill:#e602b4">
+    <g
+       style="fill:#e602b4;stroke:#9d3a9b;stroke-opacity:1;stroke-width:0.06739431;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       id="g14"
+       transform="matrix(.98147508 0 0 .98147508 .030354 -.938572)"
+       stroke-width=".076993"
+       fill="url(#a)">
+      <path
+         style="fill:#e602b4;stroke:#9d3a9b;stroke-opacity:1;stroke-width:0.06739431;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+         id="path16"
+         d="m2.2594587 4.1358709v.058515h-.7853273v-.058515q.1231886-.00308.1693843-.024638.046196-.021558.046196-.080073 0-.073913-.058515-.2063408l-.1262681-.295652h-.8068853l-.14166688.3603267q-.0246377.064674-.0246377.1201088 0 .1262683.20942061.1262683v.058515h-.60978355v-.058515q.11394945-.00616.17554374-.086232.064674-.083152.20634089-.4188412l.64058069-1.5121399h.061594l.766849 1.749278q.073913.1693843.1231886.21558.049275.046196.153986.052355zm-1.50906025-.7329721h.71141415l-.357247-.8469215z" />
+      <path
+         style="fill:#e602b4;stroke:#9d3a9b;stroke-opacity:1;stroke-width:0.06739431;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+         id="path18"
+         d="m4.1248516 3.6400369q0 .092391-.033877.1817031-.033877.089312-.1139495.1786235-.076993.086232-.2309786.1416669-.1539857.052355-.366486.052355h-1.0286246v-.058515q.1909423-.00616.2432975-.055435.052355-.049276.052355-.2217395v-1.3673926q0-.1693844-.052355-.2155801-.049275-.049275-.2432975-.061594v-.058515h.8623202q.8068852 0 .8068852.5235516 0 .1016305-.036956.1817031-.036957.076993-.076993.1201089-.036957.040036-.1170292.076993-.080073.036957-.1016306.043116-.021558.00308-.089312.021558.070833.018478.1047103.027717.036957.00924.129348.052355.095471.043116.1478263.092391.052355.049276.098551.1416669.046196.089312.046196.2032612zm-.9701101.4403992q.1385871 0 .2402177-.018478.1016306-.018478.1909424-.061594.089312-.046196.1355074-.1355075.049275-.089312.049275-.2217394 0-.1262683-.049275-.2125003-.0461957-.0893124-.1139494-.1355081-.0677538-.0461957-.1878626-.0708334-.1201089-.0246377-.2125004-.0277175-.0923914-.0061594-.2463771-.0061594v.7637693q0 .073913.040036.1016306.040036.024638.153986.024638zm-.194022-1.0132262h.2925729q.21558 0 .3326092-.095471.1201088-.098551.1201088-.2802541 0-.2063409-.1385871-.3141309-.1385872-.10779-.4034427-.10779h-.1355074q-.067754 0-.067754.092391z" />
+    </g>
+  </g>
+</svg>

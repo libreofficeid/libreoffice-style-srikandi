@@ -1,1 +1,181 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m17 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-9 1-5 5v4h18v-1l-2.5-2.46875-3.060547 2.830078z" opacity=".35"/><path d="m1 2v16h22v-16zm2 2h18v10.3l-2.5-2.5-2.976562 3-7.5000005-8.5304688-5.0234375 5.0304688zm14 1c-1.656854 0-3 1.3431458-3 3s1.343146 3 3 3 3-1.3431458 3-3-1.343146-3-3-3zm0 1c1.1 0 2 .9 2 2s-.9 2-2 2c-1.104569 0-2-.9-2-2s.895431-2 2-2zm-9.0234375 1.7304688 6.8378905 7.7480472-.582031.521484h-11.232422v-3zm10.5234375 5.4765622 2.5 2.5v.292969h-5.292969zm-17.5 6.792969v2h22v-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 128 128"
+   height="24"
+   viewBox="0 0 24 24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_insertcaptiondialog.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 23/lc_insertcaptiondialog.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata64">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs62" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview60"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="7.5393524"
+     inkscape:cy="11.506009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4211" />
+  </sodipodi:namedview>
+  <filter
+     id="a">
+    <feGaussianBlur
+       stdDeviation="1.0394514"
+       id="feGaussianBlur5" />
+  </filter>
+  <filter
+     id="b">
+    <feGaussianBlur
+       stdDeviation=".50063244"
+       id="feGaussianBlur8" />
+  </filter>
+  <radialGradient
+     id="c"
+     cx="145.32799"
+     cy="148.18817"
+     gradientUnits="userSpaceOnUse"
+     r="139.5585"
+     gradientTransform="scale(0.125,0.125)">
+    <stop
+       offset="0"
+       stop-color="#00537d"
+       id="stop11" />
+    <stop
+       offset=".0151"
+       stop-color="#186389"
+       id="stop13" />
+    <stop
+       offset=".0558"
+       stop-color="#558ca8"
+       id="stop15" />
+    <stop
+       offset=".0964"
+       stop-color="#89afc3"
+       id="stop17" />
+    <stop
+       offset=".1357"
+       stop-color="#b3ccd8"
+       id="stop19" />
+    <stop
+       offset=".1737"
+       stop-color="#d4e2e9"
+       id="stop21" />
+    <stop
+       offset=".2099"
+       stop-color="#ecf2f5"
+       id="stop23" />
+    <stop
+       offset=".2435"
+       stop-color="#fafcfd"
+       id="stop25" />
+    <stop
+       offset=".2722"
+       stop-color="#fff"
+       id="stop27" />
+  </radialGradient>
+  <radialGradient
+     id="d"
+     cx="125.30434"
+     cy="133.25926"
+     gradientTransform="matrix(-0.12234042,0,0,0.12272727,16.792287,-0.85454538)"
+     gradientUnits="userSpaceOnUse"
+     r="139.55859">
+    <stop
+       offset="0"
+       stop-color="#e3e4e4"
+       id="stop30" />
+    <stop
+       offset=".11366145"
+       stop-color="#ececed"
+       id="stop32" />
+    <stop
+       offset=".20296688"
+       stop-color="#ececec"
+       id="stop34" />
+    <stop
+       offset=".2363"
+       stop-color="#fafafa"
+       id="stop36" />
+    <stop
+       offset=".2722"
+       stop-color="#fff"
+       id="stop38" />
+    <stop
+       offset=".5313"
+       stop-color="#fafafa"
+       id="stop40" />
+    <stop
+       offset=".8449"
+       stop-color="#ebecec"
+       id="stop42" />
+    <stop
+       offset="1"
+       stop-color="#e1e2e3"
+       id="stop44" />
+  </radialGradient>
+  <g
+     id="g4813">
+    <path
+       d="m 21,19 -20,0 0,4 20,0 z"
+       id="path58"
+       inkscape:connector-curvature="0"
+       style="fill:#e602b4;fill-rule:evenodd" />
+    <rect
+       ry="2"
+       rx="2"
+       y="3"
+       x="1"
+       height="14"
+       width="22"
+       id="rect4213"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="2"
+       rx="2"
+       y="4"
+       x="2"
+       height="12"
+       width="20"
+       id="rect4215"
+       style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

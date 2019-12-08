@@ -1,1 +1,146 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m12 5a10 5 0 0 0 -10 5 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 5 0 0 0 -10-5z" opacity=".35"/><path d="m12 5a10 5 0 0 0 -10 5 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 5 0 0 0 -10-5zm0 2c2.491204 0 4.730097.5310644 6.175781 1.2539062 1.445684.7228423 1.824219 1.4462622 1.824219 1.7460938 0 .299832-.378535 1.023252-1.824219 1.746094s-3.684577 1.253906-6.175781 1.253906c-2.4912037 0-4.7300972-.531064-6.1757812-1.253906-1.4456841-.722842-1.8242188-1.446262-1.8242188-1.746094 0-.0749579.0239548-.1755961.0820312-.296875.1742294-.3638366.6579245-.9070871 1.7421876-1.4492188 1.4456839-.7228418 3.6845775-1.2539062 6.1757812-1.2539062zm-7.2167969 6.451172a10 5 0 0 0 7.2167969 1.548828 10 5 0 0 0 7.212891-1.537109c-1.284257 2.689236-4.015864 4.537109-7.212891 4.537109-3.2014036 0-5.9347728-1.853592-7.2167969-4.548828z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="24"
+   width="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lc_halfsphere.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 19/lc_halfsphere.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview34"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="11.556749"
+     inkscape:cy="13.998669"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4166" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#cbff10"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#004d00"
+       id="stop7" />
+  </linearGradient>
+  <radialGradient
+     id="b"
+     cx="72"
+     cy="56"
+     gradientUnits="userSpaceOnUse"
+     r="55.851028"
+     xlink:href="#a" />
+  <filter
+     id="c"
+     height="1.108706"
+     width="1.053825"
+     x="-0.026913"
+     y="-0.054352999"
+     style="color-interpolation-filters:sRGB">
+    <feGaussianBlur
+       stdDeviation="1.2525832"
+       id="feGaussianBlur11" />
+  </filter>
+  <radialGradient
+     id="d"
+     cx="64.405708"
+     cy="96.659279"
+     gradientTransform="matrix(1,0,0,0.52093381,0,46.306194)"
+     gradientUnits="userSpaceOnUse"
+     r="58.857224">
+    <stop
+       offset="0"
+       stop-color="#272727"
+       id="stop14" />
+    <stop
+       offset="1"
+       stop-color="#272727"
+       stop-opacity="0"
+       id="stop16" />
+  </radialGradient>
+  <linearGradient
+     id="e"
+     gradientUnits="userSpaceOnUse"
+     x1="64"
+     x2="64"
+     xlink:href="#a"
+     y1="48"
+     y2="88" />
+  <radialGradient
+     id="f"
+     cx="64.016602"
+     cy="91.914062"
+     gradientTransform="matrix(1,0,0,0.50035854,0,45.924075)"
+     gradientUnits="userSpaceOnUse"
+     r="55.834961">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop20" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop22" />
+  </radialGradient>
+  <g
+     id="g4182"
+     transform="matrix(1.6923077,0,0,1.6470588,41.615383,-2.7058827)">
+    <path
+       sodipodi:nodetypes="csssscccc"
+       inkscape:connector-curvature="0"
+       id="rect4175"
+       d="m -24,7.0000005 0,2.9932712 C -24,12.209272 -21.77,15 -19,15 l 3,0 c 2.77,0 5,-2.790727 5,-5.0067284 l 0,-2.9932711 -5,0 -3,0 z"
+       style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <ellipse
+       ry="0.5"
+       rx="6.5"
+       cy="7"
+       cx="-17.5"
+       id="path4173"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
