@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_insertobjectfloatingframe.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 6/sc_insertobjectfloatingframe.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview15"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-3.2542373"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4147" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="66.463715"
+     x2="65.14431"
+     y1="160.25569"
+     y2="17.654984">
+    <stop
+       offset="0"
+       stop-color="#0968ef"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop7" />
+  </linearGradient>
+  <g
+     id="g4151">
+    <rect
+       ry="0.26458335"
+       rx="0.26458359"
+       y="0"
+       x="0"
+       height="3.96875"
+       width="4.2333336"
+       id="rect4149"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       style="fill:#f0e3ec;fill-opacity:1;opacity:1"
+       id="g9"
+       transform="matrix(.125 0 0 .125 -.000129 -32.891665)">
+      <path
+         opacity=".628019"
+         fill="#f4f4f4"
+         style="fill:#f0e3ec;fill-opacity:1"
+         id="path13"
+         d="m2.1177013 273.71667h29.6333327l-.001034 19.04998h-29.633333z" />
+    </g>
+  </g>
+</svg>

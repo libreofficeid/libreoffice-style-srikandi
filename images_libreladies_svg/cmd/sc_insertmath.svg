@@ -1,1 +1,114 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m6 1c-.3901466 0-.8170169.4-.94.875l-2.06 9.125-.6-5.0664062c-.0745519-.5335236-.5282856-.9336773-1.0660156-.9335938h-1.3339844v2h1l1 8c.1214093 1.185286 1.5820895 1.494701 2 0l3-12h7v1h2v-2c0-.554-.446-1-1-1zm2 4v2h4c.552285 0 1 .4477152 1 1v1h-4c-1.656855 0-3 1.343146-3 3s1.343145 3 3 3h6v-7c0-1.6568543-1.343146-3-3-3zm1 6h4v2h-4c-.552285 0-1-.447715-1-1s.447715-1 1-1z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_insertmath.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 5/sc_insertmath.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="6.9764497"
+     inkscape:cy="8.2764888"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4164" />
+  </sodipodi:namedview>
+  <filter
+     id="a">
+    <feGaussianBlur
+       stdDeviation="2.0786429"
+       id="feGaussianBlur5" />
+  </filter>
+  <radialGradient
+     id="b"
+     cx="108"
+     cy="128.54001"
+     gradientTransform="matrix(0.125,0,0,0.12495816,-0.24999975,1.500377)"
+     gradientUnits="userSpaceOnUse"
+     r="139.55859">
+    <stop
+       offset="0"
+       stop-color="#b7b8b9"
+       id="stop8" />
+    <stop
+       offset=".18851049"
+       stop-color="#ececec"
+       id="stop10" />
+    <stop
+       offset=".25718147"
+       stop-color="#fafafa"
+       id="stop12" />
+    <stop
+       offset=".30111277"
+       stop-color="#fff"
+       id="stop14" />
+    <stop
+       offset=".5313"
+       stop-color="#fafafa"
+       id="stop16" />
+    <stop
+       offset=".8449"
+       stop-color="#ebecec"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#e1e2e3"
+       id="stop20" />
+  </radialGradient>
+  <g
+     id="g4172">
+    <rect
+       ry="1"
+       y="1"
+       x="1"
+       height="14"
+       width="14"
+       id="rect4166"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 12.701206,14 2.9666426,14 8.9709021,7.9787096 2.9666426,2 l 9.6153304,0 0.400285,3.2107899 -0.298084,0 Q 12.59049,4.699788 12.30944,4.222852 12.036907,3.7459207 11.628106,3.3882175 11.219305,3.0219989 10.708305,2.8005687 10.197304,2.5791335 9.6522361,2.5791335 l -3.3129884,0 q -0.1873668,0 -0.2980838,0.085167 -0.1021999,0.076652 -0.1021999,0.1958846 0,0.1362682 0.1362666,0.2725314 l 4.4457074,4.4286735 -4.8630246,4.871544 5.5784246,0 q 0.579135,0 0.962385,-0.425835 0.38325,-0.43435 0.502483,-1.251954 l 0.332152,0 z"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#f0e3ec;stroke-width:3.89490604" />
+  </g>
+</svg>

@@ -1,1 +1,92 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m1 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-10c0-.554-.446-1-1-1zm1 2h12v8h-12z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_insertframe.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 25/sc_insertframe.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview15"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.6779661"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4147" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="66.463715"
+     x2="65.14431"
+     y1="160.25569"
+     y2="17.654984">
+    <stop
+       offset="0"
+       stop-color="#0968ef"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop7" />
+  </linearGradient>
+  <g
+     id="g4727">
+    <g
+       id="g9"
+       transform="matrix(.125 0 0 .125 -.000129 -32.891665)">
+      <path
+         style="fill:#e602b4"
+         id="path11"
+         transform="matrix(.26458333 0 0 .26458333 0 263.13332)"
+         fill="url(#a)"
+         d="m4.4375 0c-2.5037505 0-4.43475187 2.0970519-4.43359375 4.6328125l.00523689 110.7936375c.001158 2.5358 1.84452846 4.58722 4.34827886 4.58722h119.124998c2.50376 0 4.51874-2.04037 4.51758-4.57617l-.00004-111.4257812c-.00113-2.5357606-1.9337-4.0117188-4.43746-4.0117188zm3.5625 8h112v104h-112z" />
+      <path
+         style="fill:#f3b7d9"
+         id="path13"
+         opacity=".628019"
+         fill="#f4f4f4"
+         d="m2.116667 265.25h29.633333v27.51665h-29.633333z" />
+    </g>
+  </g>
+</svg>

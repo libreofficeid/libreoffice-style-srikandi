@@ -1,1 +1,143 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m1 0v2h14v-2zm0 4v2h7v-2zm12 1c-.30945 0-.55232.0903-.75.28125-1.016078.769594-1.524849 1.3210991-2.25 1.9394531v1.6152344l2.25 1.8828125c.19768.19095.44055.28125.75.28125h.587891.412109v-1c0-.256892-.12983-.528462-.3125-.71875l-.371094-.28125-1.316406-1 1.316406-1 .371094-.28125c.18267-.190301.3125-.494728.3125-.71875v-1h-.412109zm-12 5v2h7v-2zm0 4v2h14v-2z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sc_incrementlevel.svg"
+   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 22/sc_incrementlevel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview37"
+     showgrid="true"
+     inkscape:zoom="41.7193"
+     inkscape:cx="3.5357449"
+     inkscape:cy="7.1374324"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4169" />
+  </sodipodi:namedview>
+  <filter
+     id="a">
+    <feGaussianBlur
+       stdDeviation=".385"
+       id="feGaussianBlur5" />
+  </filter>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="87.231171"
+     x2="114.63911"
+     y1="9.712187"
+     y2="112">
+    <stop
+       offset="0"
+       stop-color="#2c72c7"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#00438a"
+       id="stop10" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="114.37838"
+     x2="112.9539"
+     y1="25.786964"
+     y2="115.69691">
+    <stop
+       offset="0"
+       stop-color="#bbd6ff"
+       id="stop13" />
+    <stop
+       offset="1"
+       stop-color="#0057ae"
+       id="stop15" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="124.5"
+     x2="135.74562"
+     y1="108.5"
+     y2="-13.567197">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop20" />
+  </linearGradient>
+  <linearGradient
+     id="e"
+     gradientTransform="matrix(1 0 0 -1 0 140)"
+     gradientUnits="userSpaceOnUse"
+     x1="104"
+     x2="104"
+     y1="120"
+     y2="57.11084">
+    <stop
+       offset="0"
+       stop-color="#d4e2f3"
+       id="stop23" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop25" />
+  </linearGradient>
+  <g
+     id="g4766">
+    <path
+       d="m 0.99995859,8 4.00000001,-4 0,3 10.0000004,0 0,2 -10.0000004,0 0,3 z"
+       id="path29"
+       style="fill:#e602b4;stroke:#9d3a9b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0" />
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f3b7d9;fill-rule:evenodd"
+     id="path31"
+     d="m 1,8 4.0099396,-4 0,3 L 15,7 l 0,2 -9.9900604,0 0,3 z"
+     sodipodi:nodetypes="cccccccc" />
+</svg>
