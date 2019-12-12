@@ -4,17 +4,19 @@
  xmlns:dep="http://openoffice.org/extensions/description/2006"
  xmlns:lo="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
-    <identifier value="org.iconset.sifr"/>
-	<version value="6.1.0"/>
-    <display-name name="Breeze SVG Icon Set"/>
+    <identifier value="org.iconset.srikandisvg"/>
+	<version value="6.4.0"/>
+    <display-name>
+		<name lang="en">Srikandi SVG Icon Set</name>
+	</display-name>
     <dependencies>
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://sundara-os.blogspot.co.id">Rizal Muttaqin</name>
+	    <name xlink:href="https://example.com">Nama Di Sini</name>
     </publisher>
     <icon>
-        <default xlink:href="icons/Breeze-Theme.png"/>
+        <default xlink:href="icons/Srikandi-Theme.png"/>
     </icon>
     <extension-description>
        <src xlink:href="pkg-desc/pkg-description.txt" />
