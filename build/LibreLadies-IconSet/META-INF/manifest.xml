@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<m:manifest xmlns:m="http://openoffice.org/2001/manifest">
- <m:file-entry m:media-type="application/vnd.sun.star.configuration-data"
-   m:full-path="config.xcu"/>
-</m:manifest>
+<!DOCTYPE manifest:manifest PUBLIC "-//OpenOffice.org//DTD Manifest 1.0//EN" "Manifest.dtd">
+<manifest:manifest xmlns:manifest="http://openoffice.org/2001/manifest">
+    <manifest:file-entry manifest:media-type="application/vnd.sun.star.configuration-data"
+                         manifest:full-path ="config.xcu"/>
+</manifest:manifest>
