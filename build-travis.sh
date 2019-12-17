@@ -12,6 +12,9 @@ rm "images_libreladies_svg/links.txt"
 cd "images_libreladies"
 
 echo "=> Export SVG to PNG ..."
+NUMFILE=$(find -name "*.svg" -o -name "*.SVG" | wc -l)
+echo "=> Processing $NUMFILE files ..."
+counter=1
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
 #	echo "This $i file is compressed"
@@ -22,6 +25,11 @@ do
 	inkscape -f "$i" -e "${i%.*}.png" 2>/dev/null 1>/dev/null
 	optipng -quiet -o7 "${i%.*}.png" 
 	#convert "$i" -quality 75 "$i"
+    current=$((counter%100))
+    if [[ "$current" == "0" ]];then
+        echo "[$counter/$NUMFILE] ..."
+    fi
+    let counter++
 done
 
 echo "=> Delete SVG files ..."
