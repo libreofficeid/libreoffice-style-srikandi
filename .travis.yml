@@ -11,7 +11,7 @@ before_deploy:
     - git config --global user.name "Travis CI"
     - export GIT_TAG=$TRAVIS_BRANCH-0.1.$TRAVIS_BUILD_NUMBER
     - git tag $GIT_TAG -a -m "Generated tag from TravisCI for build $TRAVIS_BUILD_NUMBER"
-    - git push -q https://$GITHUBTOKENPERM@github.com/libreofficeid/libreoffice-style-srikandi --tags
+    - git push -q https://$GITHUBTOKEN@github.com/libreofficeid/libreoffice-style-srikandi --tags
     - ls -R
 
 deploy:
@@ -24,6 +24,7 @@ deploy:
         - "build/images_srikandi.zip"
         - "build/images_srikandi_svg.zip"
     skip_cleanup: true
+    draft: true
     on:
         tags: false
         all_branched: true
