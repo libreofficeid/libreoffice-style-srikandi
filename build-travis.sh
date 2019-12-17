@@ -14,13 +14,13 @@ cd "images_libreladies"
 echo "=> Export SVG to PNG ..."
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
-	echo "This $i file is compressed"
+#	echo "This $i file is compressed"
 	fname=$( basename "$i")
 #	echo "has the name: $fname"
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png"
-	optipng -o7 "${i%.*}.png"
+	inkscape -f "$i" -e "${i%.*}.png" 2>/dev/null 1>/dev/null
+	optipng -quiet -o7 "${i%.*}.png" 
 	#convert "$i" -quality 75 "$i"
 done
 
