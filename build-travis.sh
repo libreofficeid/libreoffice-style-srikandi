@@ -23,7 +23,7 @@ do
 	fdir=$( dirname "$i")
 #	echo "and is in the directory: ${fdir##*/}"
 	inkscape -f "$i" -e "${i%.*}.png" 2>/dev/null 1>/dev/null
-	optipng -quiet -o7 "${i%.*}.png" 
+#	optipng -quiet -o7 "${i%.*}.png" 
 	#convert "$i" -quality 75 "$i"
     current=$((counter%100))
     if [[ "$current" == "0" ]];then
