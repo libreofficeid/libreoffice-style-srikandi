@@ -12,7 +12,6 @@ before_deploy:
     - export GIT_TAG=$TRAVIS_BRANCH-0.1.$TRAVIS_BUILD_NUMBER
     - git tag $GIT_TAG -a -m "Generated tag from TravisCI for build $TRAVIS_BUILD_NUMBER"
     - git push -q https://$GITHUBTOKEN@github.com/libreofficeid/libreoffice-style-srikandi --tags
-    - ls -R
 
 deploy:
     provider: releases
