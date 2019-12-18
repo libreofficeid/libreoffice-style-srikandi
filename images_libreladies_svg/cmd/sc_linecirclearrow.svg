@@ -11,8 +11,8 @@
    width="16"
    version="1.1"
    id="svg15"
-   sodipodi:docname="sc_linecirclearrow.svg"
-   inkscape:export-filename="/home/annisaauliarasyidah/Desktop/4_242 (aulia)/sc_linecirclearrow.png"
+   sodipodi:docname="lc_linecirclearrow.svg"
+   inkscape:export-filename="/home/annisaauliarasyidah/Desktop/4_242 (aulia)/revisi/sc_linecirclearrow.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92.4 (unknown)">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,20 +43,20 @@
      inkscape:window-height="707"
      id="namedview17"
      showgrid="true"
-     inkscape:snap-global="false"
-     inkscape:zoom="22.791866"
-     inkscape:cx="0.017059339"
-     inkscape:cy="8.8002464"
+     inkscape:snap-global="true"
+     inkscape:zoom="12.063664"
+     inkscape:cx="-4.0175786"
+     inkscape:cy="8.3124999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg15">
+     inkscape:current-layer="g820">
     <inkscape:grid
        type="xygrid"
-       id="grid817"
+       id="grid818"
+       empspacing="2"
        spacingx="0.5"
-       spacingy="0.5"
-       empspacing="2" />
+       spacingy="0.5" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -74,21 +74,30 @@
        stop-color="#aecffc"
        id="stop4" />
   </linearGradient>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.98999999;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path7"
-     d="M 15.045256,7.5959904 H 1.0438751 v 1 H 15.045256 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path9"
-     d="m 16.045256,8.0959904 -4.125,-2.5 1,2.5 -1,2.4999996 z" />
-  <circle
-     style="opacity:0.98999999;fill:#a84fa6;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle11"
-     transform="scale(-1,1)"
-     r="2.5013008"
-     cy="8.0959902"
-     cx="-2.5437946" />
+  <g
+     id="g820"
+     transform="matrix(1.4934048,0,0,1.4934048,6.8158807e-4,-18.881929)">
+    <g
+       id="g825"
+       transform="matrix(0.61786935,0,0,0.61786935,0.3919308,8.5334438)"
+       style="stroke-width:1.61846519">
+      <path
+         inkscape:connector-curvature="0"
+         id="path824"
+         d="M 5.3456733,15.321987 H 14.385419"
+         style="fill:none;stroke:#e602b4;stroke-width:1.08374178px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <circle
+         r="2.0088325"
+         style="opacity:0.98999999;fill:#f3b7d9;fill-opacity:1;stroke:#e602b4;stroke-width:1.08374178;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11"
+         transform="scale(-1,1)"
+         cy="15.352377"
+         cx="-3.0235629" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path826"
+         d="m 12.376587,12.643544 2.678443,2.678443 -2.678443,2.678444"
+         style="fill:none;stroke:#e602b4;stroke-width:1.08374178px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+  </g>
 </svg>
