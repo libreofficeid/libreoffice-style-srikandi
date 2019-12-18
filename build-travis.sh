@@ -1,10 +1,10 @@
 #!/bin/bash
 
-if ! command -v optipng >/dev/null
-then
-    echo "Please install optipng"
-    exit 1
-fi
+#if ! command -v optipng >/dev/null
+#then
+#    echo "Please install optipng"
+#    exit 1
+#fi
 # BUILDING PNG
 cp -Rf "images_libreladies_svg" \
    "images_libreladies"
