@@ -5,11 +5,11 @@ then
     echo "Please install optipng"
     exit 1
 fi
-
+# BUILDING PNG
 cp -Rf "images_libreladies_svg" \
    "images_libreladies"
 rm "images_libreladies_svg/links.txt"
-cd "images_libreladies"
+pushd "images_libreladies"
 
 echo "=> Export SVG to PNG ..."
 NUMFILE=$(find -name "*.svg" -o -name "*.SVG" | wc -l)
@@ -17,14 +17,7 @@ echo "=> Processing $NUMFILE files ..."
 counter=1
 find -name "*.svg" -o -name "*.SVG" | while read i;
 do 
-#	echo "This $i file is compressed"
-	fname=$( basename "$i")
-#	echo "has the name: $fname"
-	fdir=$( dirname "$i")
-#	echo "and is in the directory: ${fdir##*/}"
-	inkscape -f "$i" -e "${i%.*}.png" 2>/dev/null 1>/dev/null
-#	optipng -quiet -o7 "${i%.*}.png" 
-	#convert "$i" -quality 75 "$i"
+    rsvg-convert "$i" -o "${i%.*}.png"
     current=$((counter%100))
     if [[ "$current" == "0" ]];then
         echo "[$counter/$NUMFILE] ..."
@@ -39,7 +32,9 @@ do
     fdir=$( dirname "$i")
     rm "$i"
 done
+popd
 
+# BUILD TO EXTENSION
 gh_repo="libreoffice-style-srikandi"
 gh_desc="Srikandi LibreOffice icon themes"
 

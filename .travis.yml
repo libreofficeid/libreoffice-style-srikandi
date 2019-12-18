@@ -1,7 +1,7 @@
 dist: bionic
 before_install:
     - sudo apt-get update
-    - sudo apt-get install -y optipng inkscape
+    - sudo apt-get install -y librsvg2-bin
 
 script:
     - bash build-travis.sh
