@@ -1,0 +1,34 @@
+dist: bionic
+before_install:
+    - sudo apt-get update
+    - sudo apt-get install -y librsvg2-bin
+
+script:
+    - bash build-travis.sh
+
+before_deploy:
+    - git config --global user.email "builds@travis-ci.com"
+    - git config --global user.name "Travis CI"
+    - export GIT_TAG=$TRAVIS_BRANCH-0.1.$TRAVIS_BUILD_NUMBER
+    - git tag $GIT_TAG -a -m "Generated tag from TravisCI for build $TRAVIS_BUILD_NUMBER"
+    - git push -q https://$GITHUBTOKEN@github.com/libreofficeid/libreoffice-style-srikandi --tags
+    - ls -R
+
+deploy:
+    provider: releases
+    api_key: $GITHUBTOKEN
+    file:
+        - "README.md"
+        - "build/Srikandi-IconSet.oxt"
+        - "build/Srikandi-SVG-IconSet.oxt"
+        - "build/images_srikandi.zip"
+        - "build/images_srikandi_svg.zip"
+    skip_cleanup: true
+    draft: true
+    on:
+        tags: false
+        all_branched: true
+
+branches:
+    except:
+        - /^*-v[0-9]/
