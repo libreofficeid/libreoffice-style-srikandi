@@ -1,7 +1,5 @@
-build/Srikandi-IconSet.oxt
-build/Srikandi-SVG-IconSet.oxt
-build/images_srikandi.zip
-build/images_srikandi_svg.zip
-build/LibreLadies-IconSet/iconsets/images_srikandi.zip
-build/LibreLadies-SVG-IconSet/iconsets/images_srikandi_svg.zip
+build/*.oxt
+build/*.zip
+build/LibreLadies-IconSet/iconsets/*.zip
+build/LibreLadies-SVG-IconSet/iconsets/*.zip
 mages_libreladies/images_libreladies_svg/
