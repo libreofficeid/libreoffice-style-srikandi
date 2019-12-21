@@ -1,10 +1,10 @@
 dist: bionic
 before_install:
     - sudo apt-get update
-    - sudo apt-get install -y librsvg2-bin
+    - sudo apt-get install -y librsvg2-bin optipng
 
 script:
-    - bash build-travis.sh
+    - bash build.sh
 
 before_deploy:
     - git config --global user.email "builds@travis-ci.com"
