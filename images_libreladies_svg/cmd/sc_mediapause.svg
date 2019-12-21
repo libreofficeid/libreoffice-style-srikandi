@@ -42,9 +42,9 @@
      inkscape:window-height="707"
      id="namedview57"
      showgrid="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:zoom="29.5"
-     inkscape:cx="8.2363993"
+     inkscape:cx="2.4058908"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -154,26 +154,14 @@
        stop-color="#666"
        id="stop36" />
   </radialGradient>
-  <ellipse
-     style="fill:#e602b4;stroke:#9d3a9b;stroke-width:0.24636699;stroke-miterlimit:4;stroke-dasharray:none"
-     id="circle39"
-     cy="8.0162363"
-     cx="8"
-     rx="7.9176464"
-     ry="7.849987" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#f0e3ec;stroke:#f3b7d9;stroke-width:0.24949194;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#f0e3ec;stroke:#e602b4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="path45"
      d="m 1.5132092,8.0162363 c 0,3.5767887 2.9100011,6.4867907 6.4867906,6.4867907 3.5767892,0 6.4867912,-2.910002 6.4867912,-6.4867907 0,-3.5767895 -2.910002,-6.4867906 -6.4867912,-6.4867906 -3.5767896,0 -6.4867906,2.9100011 -6.4867906,6.4867906 z" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;stroke:#9d3a9b;stroke-width:0.22658022;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path47"
-     d="M 7.1460628,5.1544029 H 8.8539371 V 10.925911 H 7.1460628 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;stroke:#9d3a9b;stroke-width:0.231;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
-     id="path51"
-     d="M 7.1125723,5.1328734 H 8.8874277 V 10.92352 H 7.1125723 Z" />
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 8,6 v 4"
+     id="path840"
+     inkscape:connector-curvature="0" />
 </svg>

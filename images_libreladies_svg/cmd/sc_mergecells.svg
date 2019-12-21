@@ -42,9 +42,9 @@
      inkscape:window-height="707"
      id="namedview36"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:zoom="10.429825"
+     inkscape:cx="1.1525424"
+     inkscape:cy="20.542373"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,29 +120,32 @@
        stop-color="#aecffc"
        id="stop19" />
   </linearGradient>
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect829"
+     width="12.863053"
+     height="13"
+     x="1.5684733"
+     y="1.5"
+     rx="1.05169"
+     ry="1.1797799" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#f0e3ec;stroke-width:0.125"
-     id="path22"
-     d="M 1,1 H 15 V 14.060662 H 1 Z" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 5.5,2 V 14"
+     id="path831"
+     inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.26291103;fill:#ffffff;stroke-width:0.125"
-     inkscape:connector-curvature="0"
-     id="path24"
-     d="M 2.1817875,16 H 16.681787 v 0.5 H 2.1817875 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#9d3a9b;stroke-width:0.125;fill-opacity:1"
-     id="path26"
-     d="M 0,1 V 1.5883884 4 4.5 10 10.5 13.514063 14 h 1 4 1 4 1 4 1 V 13.514063 1 H 1 Z M 1,1.5883884 H 5 V 4 H 1 Z m 5,0 h 4 V 4 H 6 Z m 5,0 h 4 V 4 H 11 Z M 1,4.5 H 5 V 10 H 1 Z m 5,0 h 4 V 10 H 6 Z m 5,0 h 4 V 10 h -4 z m -10,6 h 4 v 3.014063 H 1 Z m 5,0 h 4 v 3.014063 H 6 Z m 5,0 h 4 v 3.014063 h -4 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#f3b7d9;stroke-width:0.125"
-     id="path28"
-     d="m 1,4 h 13.999999 v 7 H 1 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;stroke-width:0.125;fill-opacity:1"
-     id="path30"
-     d="m 0,4 v 7 H 16 V 4 Z m 1,0.625 h 14 v 5.75 H 1 Z" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 10.5,2 V 14"
+     id="path833"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect835"
+     width="13"
+     height="4"
+     x="1.5"
+     y="6"
+     rx="0"
+     ry="0" />
 </svg>
