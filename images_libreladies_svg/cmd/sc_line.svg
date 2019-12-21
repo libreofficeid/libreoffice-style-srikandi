@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_line.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/sc_line.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -54,11 +54,8 @@
        id="grid4138" />
   </sodipodi:namedview>
   <path
-     d="m.87096125 124.08089 14.12114775-9.21463"
-     fill="none"
-     stroke="#4d4d4d"
-     stroke-width=".875"
-     transform="translate(0 -112)"
+     d="M 1.4354807,12.283619 14.564519,3.716381"
      id="path4"
-     style="fill:#9d3a9b;stroke:#9d3a9b" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.875;stroke-linecap:round"
+     inkscape:connector-curvature="0" />
 </svg>

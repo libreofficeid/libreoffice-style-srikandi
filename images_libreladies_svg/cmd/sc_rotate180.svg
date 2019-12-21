@@ -44,8 +44,8 @@
      inkscape:window-height="707"
      id="namedview59"
      showgrid="true"
-     inkscape:zoom="20.784725"
-     inkscape:cx="1.9175585"
+     inkscape:zoom="14.69702"
+     inkscape:cx="-6.3577494"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -181,14 +181,19 @@
        stop-color="#d1dff1"
        id="stop42" />
   </linearGradient>
-  <path
-     inkscape:connector-curvature="0"
-     id="path45"
-     style="opacity:1;fill:#f3b7d9;stroke:#e602b4;stroke-width:0.26458341;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.08780003"
-     d="M 2.237748,3.8343504 2.2429199,0.39641948 3.8247987,3.8403887 Z" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path51"
-     style="opacity:1;fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.08780003"
-     d="M 1.7197918,0.3968751 1.7146195,3.8348047 0.1327415,0.3908371 Z" />
+  <g
+     id="g841"
+     transform="matrix(0.93162105,0,0,0.92027644,0.27320281,0.16971798)"
+     style="stroke-width:1.07999361">
+    <path
+       d="M 2.237748,3.8343504 2.2429199,0.39641948 3.8247987,3.8403887 Z"
+       style="opacity:1;fill:#f3b7d9;stroke:#e602b4;stroke-width:0.28574842;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.08780003"
+       id="path45"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 1.7197918,0.3968751 1.7146195,3.8348047 0.1327415,0.3908371 Z"
+       style="opacity:1;fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.28574836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08780003"
+       id="path51"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

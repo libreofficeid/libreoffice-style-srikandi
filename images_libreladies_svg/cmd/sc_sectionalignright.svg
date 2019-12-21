@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview66"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.69702"
-     inkscape:cx="1.9175585"
+     inkscape:cx="-9.7854942"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg64" />
+     inkscape:current-layer="svg64">
+    <inkscape:grid
+       type="xygrid"
+       id="grid845" />
+  </sodipodi:namedview>
   <linearGradient
      id="a">
     <stop
@@ -181,74 +185,49 @@
      xlink:href="#c"
      y1="96"
      y2="96" />
-  <rect
-     height="6"
-     rx="0.35714287"
-     ry="0.34615389"
-     width="7.0058999"
-     x="5.9687252"
-     y="9"
-     id="rect38"
-     style="fill:#e602b4;stroke-width:0.125" />
   <g
-     id="g44"
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     transform="matrix(0.125,0,0,0.125,2.968725,8)">
+     id="g869"
+     transform="matrix(-1,0,0,1,14.99428,-10.06765)">
     <rect
-       height="32"
-       rx="1.5"
-       ry="1.444445"
-       width="40.047199"
-       x="32"
-       y="16"
+       style="fill:#f3b7d9;fill-rule:evenodd;stroke:#e602b4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect40"
-       style="fill:#f3b7d9" />
-    <path
-       d="M 60.0472,16 C 49.363634,25.428082 39.348778,35.625616 33.1097,48 H 60.32845 C 61.85292,36.153017 66.611894,25.450846 73.1722,16 Z"
-       id="path42"
-       style="fill:#f3b7d9"
-       inkscape:connector-curvature="0" />
-  </g>
-  <rect
-     y="0"
-     x="-15.974625"
-     style="fill:#9d3a9b;stroke-width:0.125"
-     id="rect48"
-     width="2"
-     rx="0.84647912"
-     height="16"
-     transform="scale(-1,1)" />
-  <rect
-     height="6"
-     rx="0.35714287"
-     ry="0.34615389"
-     width="10"
-     x="2.9746251"
-     y="1"
-     id="rect50"
-     style="fill:#e602b4;stroke-width:0.125" />
-  <g
-     id="g56"
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     transform="matrix(0.125,0,0,0.125,-0.025375,-8)">
+       y="-23"
+       x="3.5000007"
+       width="4.3343167"
+       transform="scale(1,-1)"
+       ry="0.18055563"
+       rx="0.1875"
+       height="3.4674525" />
     <rect
-       height="32"
-       rx="1.5"
-       ry="1.444445"
-       width="64"
-       x="32"
-       y="80"
-       id="rect52"
-       style="fill:#f3b7d9" />
+       height="3.4674532"
+       rx="0.1875"
+       ry="0.18055563"
+       transform="scale(1,-1)"
+       width="6.9349065"
+       x="3.4942787"
+       y="-16.06765"
+       id="rect44"
+       style="fill:#f3b7d9;fill-rule:evenodd;stroke:#e602b4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g873"
+       transform="rotate(90,2.9633145,12.030965)">
+      <path
+         style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.93235,1.4942792 9,5"
+         id="path845"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 7.43235,2.9942792 9,5 10.43235,2.9942792"
+         id="path847"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
     <path
-       d="M 68.5,80 C 57.816434,89.428082 47.801578,99.625616 41.5625,112 H 68.78125 C 70.30572,100.15302 75.064694,89.450846 81.625,80 Z"
-       id="path54"
-       style="fill:#f3b7d9"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0.494279,11.56765 v 13"
+       id="path843"
        inkscape:connector-curvature="0" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#9d3a9b;stroke-width:0.125"
-     id="path60"
-     d="M 4.9909812,9.5012379 1.989755,11.999766 1.493145,11.502667 2.468725,10 -0.0059,9.99328 l 5e-4,-0.9999991 2.474625,0.00672 -0.974115,-1.4784655 0.4971112,-0.52177 z" />
 </svg>
