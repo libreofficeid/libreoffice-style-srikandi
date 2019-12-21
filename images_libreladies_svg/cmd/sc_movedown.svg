@@ -42,8 +42,8 @@
      inkscape:window-height="707"
      id="namedview37"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     inkscape:zoom="29.5"
+     inkscape:cx="1.6579283"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -128,14 +128,18 @@
        stop-opacity="0"
        id="stop22" />
   </linearGradient>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;stroke:#e602b4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="path25"
-     d="M 8,15 4,11 H 7 V 1 h 2 v 10 h 3 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#f3b7d9;fill-rule:evenodd;stroke-width:0.125"
-     id="path27"
-     d="M 8,14.75 4,11 H 7 V 1 h 2 v 10 h 3 z" />
+  <g
+     id="g837"
+     style="stroke:#e602b4;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round">
+    <path
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="m 8,1.5 v 13"
+       style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path833"
+       d="m 3.5,10.5 4.5,4 4.5,-4"
+       style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
 </svg>

@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_italic.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/sc_italic.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g14">
     <inkscape:grid
        type="xygrid"
        id="grid4154" />
@@ -91,25 +91,20 @@
      transform="scale(.125)"
      id="g14">
     <text
-       fill="url(#b)"
-       font-family="sans-serif"
        font-size="40.615143"
        letter-spacing="0"
        word-spacing="0"
-       x="8.55619"
-       y="30.893702"
+       x="12.066481"
+       y="29.455711"
        id="text16"
-       style="fill:#9d3a9b;">
+       style="font-size:33.75792313px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#9d3a9b;stroke-width:1.015378">
       <tspan
-         fill="url(#b)"
-         font-family="FreeSerif"
          font-size="42.740532"
          font-style="italic"
-         stroke-width="1.015378"
-         x="8.55619"
-         y="30.893702"
+         x="12.066481"
+         y="29.455711"
          id="tspan18"
-         style="fill:#9d3a9b;">I</tspan>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.5244751px;font-family:Nunito;-inkscape-font-specification:'Nunito Italic';fill:#9d3a9b;stroke-width:1.015378">I</tspan>
     </text>
   </g>
 </svg>
