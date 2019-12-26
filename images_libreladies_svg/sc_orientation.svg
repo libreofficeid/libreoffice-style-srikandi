@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="sc_orientation.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/annisaauliarasyidah/Desktop/4_242 (aulia)/sc 222/sc_orientation.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     id="namedview30"
+     showgrid="true"
+     inkscape:zoom="16.8125"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(0.02735927,0,0,0.05144676,0.3718375,-1.1841975)"
+     gradientUnits="userSpaceOnUse"
+     x1="112.00001"
+     x2="112.00001"
+     y1="124.23937"
+     y2="-22.601965">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop2" />
+    <stop
+       offset=".42597079"
+       stop-color="#fff"
+       id="stop4" />
+    <stop
+       offset=".5892781"
+       stop-color="#f1f1f1"
+       id="stop6" />
+    <stop
+       offset=".80219781"
+       stop-color="#eaeaea"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#dfdfdf"
+       id="stop10" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientTransform="matrix(0.00320645,0,0,0.00691238,0.32457313,-3.80678)"
+     gradientUnits="userSpaceOnUse"
+     x1="399.77466"
+     x2="399.77466"
+     y1="1164.6696"
+     y2="549.06134">
+    <stop
+       offset="0"
+       stop-color="#b4b4b6"
+       id="stop13" />
+    <stop
+       offset=".5"
+       stop-color="#9c9ca1"
+       id="stop15" />
+    <stop
+       offset="1"
+       stop-color="#cdcdd1"
+       id="stop17" />
+  </linearGradient>
+  <rect
+     style="fill:#f0e3ec;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:0.12488334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect22"
+     y="-2.8289957"
+     x="-8.2669678"
+     width="2.6264896"
+     rx="0.057877626"
+     height="3.7041667"
+     ry="0.057877626" />
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:0.95049504;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect830"
+     width="2.3812501"
+     height="3.4395835"
+     x="0.92604166"
+     y="0.39687499"
+     rx="0.39687499"
+     ry="0.39687502" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.26276827px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+     x="1.2941505"
+     y="2.9154239"
+     id="text826"><tspan
+       sodipodi:role="line"
+       id="tspan824"
+       x="1.2941505"
+       y="2.9154239"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.26458335">A</tspan></text>
+</svg>
