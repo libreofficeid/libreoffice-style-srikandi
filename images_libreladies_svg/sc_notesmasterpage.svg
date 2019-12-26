@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   width="16"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="sc_notesmasterpage.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/annisaauliarasyidah/Desktop/4_242 (aulia)/sc 222/sc_notesmasterpage.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     id="namedview37"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.7140597"
+     inkscape:cy="7.9039548"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg35">
+    <inkscape:grid
+       type="xygrid"
+       id="grid859" />
+  </sodipodi:namedview>
+  <filter
+     id="a"
+     color-interpolation-filters="sRGB"
+     height="1.0264"
+     width="1.022"
+     x="-.011"
+     y="-.0132">
+    <feGaussianBlur
+       stdDeviation=".1200918"
+       id="feGaussianBlur2" />
+  </filter>
+  <filter
+     id="b"
+     color-interpolation-filters="sRGB"
+     height="1.132"
+     width="1.11"
+     x="-.055"
+     y="-.066">
+    <feGaussianBlur
+       stdDeviation=".600459"
+       id="feGaussianBlur5" />
+  </filter>
+  <filter
+     id="c"
+     color-interpolation-filters="sRGB"
+     height="1.0528"
+     width="1.044"
+     x="-.022"
+     y="-.0264">
+    <feGaussianBlur
+       stdDeviation=".2401836"
+       id="feGaussianBlur8" />
+  </filter>
+  <path
+     style="opacity:0.98999999;fill:#f3b7d9;stroke-width:0.125"
+     inkscape:connector-curvature="0"
+     id="path17"
+     d="M 3.4395806,0.52916668 V 3.7041667 C 3.4599034,3.987099 3.4405592,3.96875 3.175,3.96875 H 1.0673023 C 0.77967152,3.9882796 0.79375062,3.9752221 0.79375062,3.7041667 V 0.52916667 C 0.77051181,0.23687963 0.80418381,0.2645825 1.0762712,0.2645825 h 2.0897599 c 0.2876302,-0.01953 0.2735495,-0.00647 0.2735495,0.26458418 z"
+     sodipodi:nodetypes="ccccccccc" />
+  <rect
+     ry="0.13229164"
+     rx="0.13229157"
+     y="0.5291667"
+     x="1.0583334"
+     height="1.0583334"
+     width="2.1166666"
+     id="rect826"
+     style="opacity:1;fill:#e602b4;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <path
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1.190625,2.2489584 H 3.0427084"
+     id="path834"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1.190625,2.7781251 H 2.7781251"
+     id="path836"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1.190625,3.3072918 H 2.4894888"
+     id="path838"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#f3b7d9;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect840"
+     width="1.5875001"
+     height="0.5291667"
+     x="1.3229167"
+     y="0.79375005"
+     ry="0.13229163"
+     rx="0.13229179" />
+</svg>
