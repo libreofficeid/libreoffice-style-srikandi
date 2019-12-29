@@ -65,14 +65,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview48"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     inkscape:cx="-16.474576"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg46" />
+     inkscape:current-layer="g849">
+    <inkscape:grid
+       type="xygrid"
+       id="grid840" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -147,47 +151,52 @@
        fill="url(#c)"
        id="path25" />
   </mask>
-  <rect
-     style="fill:#e602b4"
-     x="0"
-     id="rect28"
-     y="4.5"
-     width="11.401754"
-     transform="matrix(0.96476382,-0.26311741,0,1,0,0)"
-     ry="0.5"
-     rx="0.51826203"
-     height="10" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#f0e3ec"
-     id="path30"
-     d="m 1.5,5 8,-2 C 9.777,2.9308 10,3.098 10,3.375 v 7 C 10,10.652 9.777,10.93075 9.5,11 l -8,2 C 1.223,13.06925 1,12.902 1,12.625 v -7 C 1,5.348 1.223,5.06925 1.5,5 Z" />
-  <circle
-     cx="11.504752"
-     cy="10.493917"
-     r="4.4952474"
-     id="circle32"
-     style="fill:#9d3a9b;fill-opacity:0.975;stroke-width:0.69188064" />
-  <circle
-     cx="11.504752"
-     cy="10.493917"
-     r="3.4919996"
-     id="circle34"
-     style="fill:#dda2a2;stroke-width:0.69188064;fill-opacity:1" />
   <g
-     id="g888"
-     clip-path="url(#clipPath896)">
+     id="g849">
+    <rect
+       height="8.742548"
+       rx="0.51826203"
+       ry="0.5"
+       transform="matrix(0.96476382,-0.2631174,0,1,0,0)"
+       width="9.9680386"
+       y="4.4107804"
+       id="rect28"
+       x="1.0365231"
+       style="fill:#e602b4;stroke-width:1" />
+    <path
+       d="M 2.3113822,4.5751804 9.3054204,2.8266709 c 0.2421685,-0.060499 0.4371274,0.085677 0.4371274,0.3278455 v 6.1197835 c 0,0.2421689 -0.1949589,0.4858671 -0.4371274,0.5464091 l -6.9940382,1.74851 C 2.0692136,11.629761 1.8742548,11.483542 1.8742548,11.241373 V 5.1215897 c 0,-0.2421685 0.1949588,-0.4858671 0.4371274,-0.5464093 z"
+       id="path30"
+       style="fill:#f0e3ec;stroke-width:1"
+       inkscape:connector-curvature="0" />
     <circle
-       style="fill:#da9bd9;fill-opacity:0.97500002;stroke-width:0.69188064"
-       id="circle38"
-       r="4.4952474"
-       cy="10.493917"
-       cx="0.49524757" />
+       style="fill:#9d3a9b;fill-opacity:0.975;stroke-width:0.69188064"
+       id="circle32"
+       r="3.9299915"
+       cy="9.3782644"
+       cx="11.058084" />
     <circle
-       style="fill:#eac7c7;fill-opacity:1;stroke-width:0.69188064"
-       id="circle40"
-       r="3.4919996"
-       cy="10.493917"
-       cx="0.49524757" />
+       style="fill:#f3b7d9;fill-opacity:1;stroke-width:0.69188064"
+       id="circle34"
+       r="3.0528975"
+       cy="9.3782644"
+       cx="11.058084" />
+    <g
+       style="stroke-width:1.14383137"
+       transform="matrix(0.87425478,0,0,0.87425478,1,0.20390658)"
+       clip-path="url(#clipPath896)"
+       id="g888">
+      <circle
+         cx="0.49524757"
+         cy="10.493917"
+         r="4.4952474"
+         id="circle38"
+         style="fill:#da9bd9;fill-opacity:0.975;stroke-width:0.79139471" />
+      <circle
+         cx="0.49524757"
+         cy="10.493917"
+         r="3.4919996"
+         id="circle40"
+         style="fill:#f3b7d9;fill-opacity:1;stroke-width:0.79139471" />
+    </g>
   </g>
 </svg>

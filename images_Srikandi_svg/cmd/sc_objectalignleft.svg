@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview58"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.1254006"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg56" />
+     inkscape:current-layer="svg56">
+    <inkscape:grid
+       type="xygrid"
+       id="grid852" />
+  </sodipodi:namedview>
   <linearGradient
      id="a">
     <stop
@@ -170,67 +174,33 @@
      y1="96"
      y2="96" />
   <rect
-     style="fill:#e602b4;stroke-width:0.125"
-     id="rect36"
-     y="1"
-     x="2.9941001"
-     width="13.0118"
-     ry="0.34615389"
-     rx="0.35714287"
-     height="6" />
-  <g
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     id="g42"
-     transform="matrix(0.125,0,0,0.125,-0.0059,0)">
-    <rect
-       style="fill:#f3b7d9"
-       id="rect38"
-       y="16"
-       x="32"
-       width="88"
-       ry="1.444445"
-       rx="1.5"
-       height="32" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#f3b7d9"
-       id="path40"
-       d="M 91.5,16 C 80.816434,25.428082 70.801578,35.625616 64.5625,48 H 91.78125 C 93.30572,36.153017 98.064694,25.450846 104.625,16 Z" />
-  </g>
-  <rect
-     y="0"
-     x="-0.0059000002"
+     y="-15"
+     x="1"
      style="fill:#9d3a9b;stroke-width:0.125"
-     id="rect44"
-     width="2"
+     id="rect46-3"
+     width="1.1864407"
      rx="0.84647912"
-     height="16" />
+     height="14"
+     ry="0.84647912"
+     transform="scale(1,-1)" />
   <rect
-     style="fill:#e602b4;stroke-width:0.125"
-     id="rect46"
-     y="9"
-     x="2.9941001"
-     width="10"
-     ry="0.34615389"
-     rx="0.35714287"
-     height="6" />
-  <g
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     id="g52"
-     transform="matrix(0.125,0,0,0.125,-0.0059,0)">
-    <rect
-       style="fill:#f3b7d9"
-       id="rect48"
-       y="80"
-       x="32"
-       width="64"
-       ry="1.444445"
-       rx="1.5"
-       height="32" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#f3b7d9"
-       id="path50"
-       d="M 68.5,80 C 57.816434,89.428082 47.801578,99.625616 41.5625,112 H 68.78125 C 70.30572,100.15302 75.064694,89.450846 81.625,80 Z" />
-  </g>
+     style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect844"
+     width="9"
+     height="4"
+     x="3.5"
+     y="-13.5"
+     rx="0.49999994"
+     ry="0.5"
+     transform="scale(1,-1)" />
+  <rect
+     ry="0.5"
+     rx="0.49999991"
+     y="-7.0000005"
+     x="3.5"
+     height="4.0000005"
+     width="10.999999"
+     id="rect846"
+     style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     transform="scale(1,-1)" />
 </svg>

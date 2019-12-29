@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview68"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     inkscape:cx="-2.1588568"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg66" />
+     inkscape:current-layer="svg66">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(-0.10576925,0,0,-0.15810455,3.907694,46.809761)"
@@ -125,90 +129,78 @@
        id="feGaussianBlur25" />
   </filter>
   <path
-     style="fill:#313131;filter:url(#d)"
-     inkscape:connector-curvature="0"
-     id="path28"
-     transform="matrix(-0.12600201,0,0,-0.12600201,4.2503015,37.672335)"
-     d="M 1.7325692,267.06621 H 32.134098 v 30.2342 H 1.7325692 Z" />
-  <path
-     style="fill:#9d3a9b;"
+     style="fill:#e602b4;stroke-width:0.13164765"
      inkscape:connector-curvature="0"
      id="path30"
-     transform="matrix(-0.13164765,0,0,-0.13164765,4.3459015,39.265439)"
-     d="M 1.8599554,267.24631 H 32.006711 v 29.874 H 1.8599554 Z" />
-  <path
-     style="opacity:0.98999999;fill:#f3b7d9;stroke-width:0.125"
-     inkscape:connector-curvature="0"
-     id="path34"
-     d="M 3.9687515,3.9687512 H 0.264584 V 0.26458875 h 3.7041675 z" />
+     d="M 4.0025704,3.9687501 H 0.26458394 V 0.26458334 H 4.0025704 Z" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.98999999;fill:#f0e3ec;stroke-width:0.125"
      id="path36"
      d="M 3.5718765,3.57188 H 0.661459 V 0.66146375 h 2.9104175 z" />
   <g
-     style="fill:#e602b4"
+     style="fill:#9d3a9b"
      id="g62"
      transform="matrix(0.125,0,0,0.125,0,-32.89166)">
     <path
        inkscape:connector-curvature="0"
        id="path38"
        d="m 29.633342,292.76665 h -1.05833 v -25.4 h 1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path40"
        d="m 5.291682,292.76665 h -1.05834 v -25.4 h 1.05834 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path42"
        d="m 28.574999,286.41666 v 1.05833 H 5.2916695 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path44"
        d="m 29.633332,267.36665 v 1.05833 H 4.2333332 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path46"
        d="m 29.633332,272.65832 v 1.05833 H 4.233334 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path48"
        d="m 29.633332,276.89165 v 1.05833 H 4.2333348 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path50"
        d="m 29.633332,281.12499 v 1.05833 H 4.2333356 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path52"
        d="m 28.574999,291.70832 v 1.05833 H 5.2916692 v -1.05833 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path54"
        d="m 9.5250064,292.76665 h -1.05834 v -25.4 h 1.05834 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path56"
        d="M 13.75834,292.76665 H 12.7 v -25.4 h 1.05834 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path58"
        d="m 19.050006,292.76665 h -1.05834 v -25.4 h 1.05834 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
     <path
        inkscape:connector-curvature="0"
        id="path60"
        d="m 24.341673,292.76665 h -1.05834 v -25.4 h 1.05834 z"
-       style="fill:#e602b4" />
+       style="fill:#9d3a9b" />
   </g>
 </svg>

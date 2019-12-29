@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview66"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     inkscape:cx="23.910983"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg64" />
+     inkscape:current-layer="svg64">
+    <inkscape:grid
+       type="xygrid"
+       id="grid844" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(.76189483 0 0 1.0158609 -3.046726 -19.300523)"
@@ -140,7 +144,7 @@
   </linearGradient>
   <linearGradient
      id="f"
-     gradientTransform="matrix(0 -1.3692663 -1.7142582 0 125.14142 179.38729)"
+     gradientTransform="matrix(0,-0.17115829,-0.21428228,0,14.642678,22.423411)"
      gradientUnits="userSpaceOnUse"
      x1="102.31124"
      x2="74.330322"
@@ -174,89 +178,82 @@
      y1="-5.830213"
      y2="32" />
   <rect
-     style="fill:#e602b4;stroke-width:0.09374973"
+     style="fill:#f3b7d9;stroke-width:0.09374973"
      id="rect38"
-     y="6.0759135e-08"
-     x="-1.5162144e-08"
-     width="10"
+     y="1"
+     x="1"
+     width="8.75"
      transform="matrix(0,1,1,0,0,0)"
      rx="5"
-     height="10" />
+     height="8.75"
+     ry="5" />
   <g
-     style="fill-rule:evenodd;fill:#f0e3ec"
+     style="fill:#f0e3ec;fill-rule:evenodd;stroke-width:1.14285719"
      id="g44"
-     transform="scale(0.125)">
+     transform="matrix(0.109375,0,0,0.109375,0.99999995,1)">
     <rect
-       style="fill:#f0e3ec"
+       style="fill:#f0e3ec;stroke-width:1.14285719"
        id="rect40"
        y="5.3341818"
        x="3.640039"
        width="85.33358"
        transform="matrix(0,0.74999783,0.74999783,0,3.999375,5.269979)"
-       rx="42.66679"
-       height="85.33358" />
+       rx="48.762047"
+       height="85.33358"
+       ry="48.762043" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#f0e3ec"
+       style="fill:#f0e3ec;stroke-width:1.14285719"
        id="path42"
        d="M 63.167969,17.896484 C 47.686163,23.599277 27.035191,26.018815 10.419922,27.744141 8.8630983,31.516151 8,35.652914 8,40 8,48.40425 11.210056,56.028058 16.472656,61.726562 35.261722,53.586168 56.393841,42.476584 70.496094,30.253906 69.009055,25.568368 66.474577,21.362227 63.167969,17.896484 Z" />
   </g>
   <rect
-     fill="url(#e)"
-     height="106.66698"
-     rx="40.972454"
-     ry="38.251125"
-     transform="matrix(0 .09374973 .09374973 0 3.499922 3.658747)"
-     width="106.66698"
-     x="-7.026659"
-     y="-5.332515"
+     height="8.75"
+     rx="3.8411565"
+     ry="3.5860326"
+     transform="matrix(0,1,1,0,0,0)"
+     width="8.75"
+     x="3.6249995"
+     y="3.6250002"
      id="rect48"
-     style="fill:#e602b4" />
+     style="fill:#e602b4;stroke-width:0.09374973" />
   <rect
-     fill="url(#a)"
-     fill-rule="evenodd"
-     height="85.33358"
-     rx="26.082153"
-     ry="31.84684"
-     transform="matrix(0 .09374973 .09374973 0 3.499922 3.658747)"
-     width="85.33358"
-     x="3.640039"
-     y="5.334182"
+     height="7"
+     rx="2.4451947"
+     ry="2.9856327"
+     transform="matrix(0,1,1,0,0,0)"
+     width="7"
+     x="4.5"
+     y="4.5"
      id="rect50"
-     style="fill:#f0e3ec" />
-  <path
-     d="m99.535156 40.152344c-16.457479 7.287567-40.988052 9.94131-59.535156 11.847656v24.4375c0 4.132369 1.552867 7.956009 4.203125 11.107422 20.429092-8.535045 44.685288-20.915954 59.796875-34.59375v-1.388672c0-4.26609-1.65573-8.202179-4.464844-11.410156z"
-     fill="url(#f)"
-     fill-rule="evenodd"
-     transform="matrix(.125 0 0 .125 -1 0)"
-     id="path52" />
+     style="fill:#f0e3ec;fill-rule:evenodd;stroke-width:0.09374973" />
   <rect
-     style="fill:#9d3a9b;stroke-width:0.09374973"
+     style="fill:#e602b4;stroke-width:0.09374974"
      id="rect54"
      y="6"
      x="5.9999995"
-     width="10"
+     width="9"
      transform="matrix(0,1,1,0,0,0)"
      ry="0.39559826"
      rx="0.3401486"
-     height="10" />
+     height="9" />
   <g
-     style="fill-rule:evenodd;fill:#f0e3ec"
+     style="fill:#f3b7d9;fill-rule:evenodd;stroke-width:1.14285719"
      id="g60"
-     transform="matrix(0.09374973,0,0,0.09374973,6.499922,6.658747)">
+     transform="matrix(0.08203101,0,0,0.08203102,6.5624317,6.7014039)">
     <rect
-       style="fill:#f0e3ec"
+       style="fill:#f3b7d9;stroke-width:1.14285719"
        id="rect56"
        y="5.3341818"
        x="3.640039"
        width="85.33358"
        transform="matrix(0,1,1,0,0,0)"
-       ry="2.0317211"
-       rx="1.6879669"
+       ry="2.3219669"
+       rx="1.929105"
        height="85.33358" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#f0e3ec"
+       style="fill:#f3b7d9;stroke-width:1.14285719"
        id="path58"
        d="M 90.667762,31.573906 C 69.118094,51.078937 33.618085,68.609288 5.3341821,79.999954 V 30.306782 C 32.41264,27.523549 69.066163,23.551079 90.667762,11.573906 Z" />
   </g>

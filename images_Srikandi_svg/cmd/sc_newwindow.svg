@@ -44,13 +44,13 @@
      id="namedview85"
      showgrid="true"
      inkscape:snap-global="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:zoom="41.7193"
+     inkscape:cx="8.794163"
+     inkscape:cy="0.78019273"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g912">
+     inkscape:current-layer="svg83">
     <inkscape:grid
        type="xygrid"
        id="grid926" />
@@ -215,46 +215,49 @@
        stdDeviation="1.04"
        id="feGaussianBlur50" />
   </filter>
+  <rect
+     ry="0.49999997"
+     rx="0.49999997"
+     y="1.4999995"
+     x="1.5000005"
+     height="11"
+     width="11"
+     id="rect851"
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 6.9661019,1.0549603 V 12.455019"
+     id="path853"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1.4771848,6.9661019 H 12.455019"
+     id="path855"
+     inkscape:connector-curvature="0" />
   <g
-     id="g912">
-    <rect
-       height="5"
-       rx="0.80704874"
-       ry="1.0000001"
-       width="14"
-       x="0.99999988"
-       y="2.0000024"
-       id="rect55"
-       style="fill:#9d3a9b;stroke-width:0.125" />
-    <path
-       d="M 1.0000002,6.0000025 H 15 V 14.000003 H 1.0000002 Z"
-       id="path57"
-       style="fill:#f3b7d9;stroke-width:0.125"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     transform="matrix(0.96930295,0,0,0.96930295,-0.55759549,6.0232453)"
-     id="g898">
-    <ellipse
-       cx="-9.8805475"
-       cy="-7.3636098"
-       rx="4.4045386"
-       ry="4.4045358"
-       transform="rotate(165.00001)"
-       id="ellipse142"
-       style="fill:#e602b4;stroke:#f3b7d9;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none" />
-    <ellipse
-       cx="-12.076376"
-       cy="1.6171209"
-       rx="4.6363564"
-       ry="4.6363535"
-       transform="matrix(-0.96592587,-0.25881888,-0.25881918,0.96592579,0,0)"
-       id="ellipse138"
-       style="fill:none;stroke-width:0.12878764" />
-    <path
-       d="M 10.696074,0.86780044 V 3.7372881 H 7.8265878 V 5.2446045 H 10.696074 V 8.1140901 H 12.20339 V 5.2446045 h 2.869488 V 3.7372881 H 12.20339 V 0.86780044 Z"
-       id="path152"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#f3b7d9;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="stroke-width:1.14144075"
+     id="g911"
+     transform="matrix(0.87608578,0,0,0.87608578,1.1455831,1.3508441)">
+    <circle
+       r="3.6015363"
+       cy="11.365781"
+       cx="11.652246"
+       id="path891"
+       style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:1.14144075;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       transform="matrix(0.59130433,0,0,0.59130433,4.8326361,4.6780061)"
+       style="fill:#e602b4;stroke:#e602b4;stroke-width:1.93037784"
+       id="g883">
+      <path
+         style="fill:#e602b4;stroke:#e602b4;stroke-width:1.93037784px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 11.533166,8.4566042 V 14.163808"
+         id="path877"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#e602b4;stroke:#e602b4;stroke-width:1.93037784px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 8.6795638,11.310206 H 14.386768"
+         id="path879"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

@@ -43,9 +43,9 @@
      inkscape:window-height="707"
      id="namedview20"
      showgrid="true"
-     inkscape:zoom="32.150391"
-     inkscape:cx="2.5879351"
-     inkscape:cy="8"
+     inkscape:zoom="16.075196"
+     inkscape:cx="-5.9710443"
+     inkscape:cy="14.416278"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,9 +88,24 @@
        stop-opacity="0"
        id="stop9" />
   </linearGradient>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#f3b7d9;stroke-width:0.13229167;stroke:#9d3a9b;stroke-miterlimit:4;stroke-dasharray:none"
-     id="path12"
-     d="m 2.4664675,3.307275 q 0.2645834,0.5423963 0.762882,0.5423963 0.1058334,0 0.2954514,-0.052917 l 0.026458,0.1058337 q -0.4277431,0.15434 -0.7893402,0.15434 -0.6173611,0 -1.0054168,-0.388055 Q 1.6286202,3.54099 1.5095577,3.2896363 1.2582036,3.1970313 1.1215022,3.1132475 0.98921057,3.0250525 0.85250917,2.8751225 0.46004389,2.4429688 0.46004389,1.8211988 q 0,-0.6879175 0.44097223,-1.1377088 0.44538198,-0.44979125 1.12006948,-0.44979125 0.6835069,0 1.1200695,0.44538125 0.4409721,0.4409725 0.4409721,1.1288888 0,0.6526399 -0.4145138,1.0936112 Q 3.0265022,3.0515113 2.8809815,3.1352963 2.7354606,3.21908 2.4664675,3.307275 Z M 2.0254954,0.37921875 q -0.3792362,0 -0.5820834,0.3748275 -0.2028473,0.37482625 -0.2028473,1.06715255 0,0.6879162 0.1984375,1.0451037 0.1984375,0.3527775 0.5820834,0.3527775 0.3792361,0 0.5776737,-0.3571875 0.2028472,-0.3571875 0.2028472,-1.0362837 0,-0.6879175 -0.2028472,-1.0671538 Q 2.395912,0.37921875 2.0254954,0.37921875 Z" />
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect826"
+     width="3.444308"
+     height="3.4395835"
+     x="0.39451268"
+     y="0.39687499"
+     rx="0.27825963"
+     ry="0.31215012" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:3.58977008px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+     x="1.0385778"
+     y="2.8617334"
+     id="text824"><tspan
+       sodipodi:role="line"
+       id="tspan822"
+       x="1.0385778"
+       y="2.8617334"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#e602b4;stroke-width:0.26458335">Q</tspan></text>
 </svg>

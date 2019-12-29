@@ -14,7 +14,7 @@
    version="1.1"
    id="svg41"
    sodipodi:docname="sc_defaultnumbering.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata47">
     <rdf:RDF>
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,14 +38,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-height="707"
      id="namedview43"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="8.1519528"
-     inkscape:cy="7.9936617"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="11.67638"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg41">
     <inkscape:grid
@@ -55,7 +54,7 @@
   </sodipodi:namedview>
   <linearGradient
      id="a"
-     gradientTransform="matrix(.36111918 0 0 .36111917 -280.44128 196.31872)"
+     gradientTransform="matrix(0.36111918,0,0,0.36111917,-280.68661,196.31872)"
      gradientUnits="userSpaceOnUse"
      x1="778.88196"
      x2="778.88196"
@@ -75,7 +74,7 @@
   </linearGradient>
   <linearGradient
      id="c"
-     gradientTransform="matrix(.35915571 0 0 .35915572 -278.87823 195.9106)"
+     gradientTransform="matrix(0.35915571,0,0,0.35915572,-279.12399,195.9106)"
      gradientUnits="userSpaceOnUse"
      x1="778"
      x2="778"
@@ -83,70 +82,84 @@
      y1="295"
      y2="290" />
   <g
-     font-size="3.175"
-     transform="translate(0,-291.70832)"
-     id="g17"
-     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans'">
+     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans';stroke-width:1.31749713"
+     transform="matrix(0.74459262,0,0,0.77371651,0.33239239,-225.09455)"
+     id="g898">
+    <text
+       transform="scale(1.0218307,0.9786357)"
+       x="0.199002"
+       y="301.86154"
+       id="text11"
+       style="fill:none;stroke:#9d3a9b;stroke-width:0.69717604;stroke-linejoin:round">
+      <tspan
+         style="font-weight:bold;font-size:1.566113px;font-family:'Liberation Sans';fill:none;stroke:#9d3a9b;stroke-width:0.69717604;stroke-linejoin:round"
+         x="0.199002"
+         y="301.86154"
+         id="tspan9">2</tspan>
+    </text>
     <text
        x="0.230221"
        y="295.41248"
        id="text15"
-       style="fill:#e602b4;stroke-width:0.26458299;">
+       style="fill:#f3b7d9;stroke-width:0.34858736">
       <tspan
          font-size="1.532654"
          font-weight="bold"
          x="0.230221"
          y="295.41248"
          id="tspan13"
-         style="font-weight:bold;font-size:1.53265405px;font-family:'Liberation Sans';fill:#e602b4;stroke-width:0.26458299;">2</tspan>
+         style="font-weight:bold;font-size:1.53265405px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.34858736">2</tspan>
     </text>
   </g>
   <g
      font-size="3.175"
-     transform="translate(0,-292.23748)"
+     transform="matrix(0.74750478,0,0,0.77792637,0.32751066,-227.14504)"
      id="g27"
-     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans'">
+     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans';stroke-width:1.31136549">
+    <text
+       transform="scale(1.0236449,0.97690126)"
+       x="0.161633"
+       y="301.0433"
+       id="text21"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.69393134;stroke-linejoin:round">
+      <tspan
+         style="font-weight:bold;font-size:1.57467401px;font-family:'Liberation Sans';fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.69393134;stroke-linejoin:round"
+         x="0.161633"
+         y="301.0433"
+         id="tspan19">1</tspan>
+    </text>
     <text
        x="0.194607"
        y="294.08957"
        id="text25"
-       style="fill:#e602b4;stroke-width:0.26458299;">
+       style="fill:#f3b7d9;stroke-width:0.34696501">
       <tspan
          font-size="1.538301"
          font-weight="bold"
          x="0.194607"
          y="294.08957"
          id="tspan23"
-         style="font-weight:bold;font-size:1.53830099px;font-family:'Liberation Sans';fill:#e602b4;stroke-width:0.26458299;">1</tspan>
+         style="font-weight:bold;font-size:1.53830099px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.34696501">1</tspan>
     </text>
   </g>
-  <g
-     transform="translate(0,-292.76665)"
-     id="g39"
-     style="fill:#404040;fill-opacity:0.83921599">
-    <path
-       d="m 3.96875,293.5604 -2.1166668,-1e-5 v 0.26459 l 2.1166668,1e-5 z"
-       id="path29"
-       inkscape:connector-curvature="0"
-       style="fill:#9d3a9b;stroke-width:0.125" />
-    <path
-       d="M 3.4395832,294.08956 H 1.8520833 v 0.26458 h 1.5874999 z"
-       id="path31"
-       inkscape:connector-curvature="0"
-       style="fill:#9d3a9b;stroke-width:0.125" />
-    <g
-       transform="matrix(-0.125,0,0,0.125,0,259.87498)"
-       id="g37">
-      <path
-         d="m -31.749998,284.30007 16.933334,-8e-5 v 2.1167 H -31.75 Z"
-         id="path33"
-         inkscape:connector-curvature="0"
-         style="fill:#9d3a9b" />
-      <path
-         d="m -27.516665,288.53333 h 12.699999 v 2.11669 h -12.699999 z"
-         id="path35"
-         inkscape:connector-curvature="0"
-         style="fill:#9d3a9b" />
-    </g>
-  </g>
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.984375,0.92604167 H 3.8364583"
+     id="path856"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path858"
+     d="M 1.984375,1.4552083 H 3.3072917"
+     style="fill:none;stroke:#e602b4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path860"
+     d="M 1.984375,2.7781251 H 3.8364583"
+     style="fill:none;stroke:#e602b4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.984375,3.3072917 H 3.3072917"
+     id="path862"
+     inkscape:connector-curvature="0" />
 </svg>

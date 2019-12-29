@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview52"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-3.7288136"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="0.24389947"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg50" />
+     inkscape:current-layer="g46">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(0,-0.10576925,0.10061195,0,-26.324377,3.907694)"
@@ -124,39 +128,59 @@
        stdDeviation=".2401836"
        id="feGaussianBlur25" />
   </filter>
-  <path
-     style="opacity:0.98999999;fill:#f0e3ec;stroke-width:0.125"
-     inkscape:connector-curvature="0"
-     id="path34"
-     d="M 0.793753,3.9687515 V 0.264584 h 2.64583 v 3.7041675 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.98999999;fill:#f3b7d9;stroke-width:0.125"
-     id="path36"
-     d="M 1.190628,3.5718765 V 0.661459 h 1.8520825 v 2.9104175 z" />
   <g
-     style="fill:#e602b4"
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:1.93943191;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="g46"
-     transform="matrix(0,0.125,-0.125,0,37.124998,0)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path38"
-       d="m 29.633342,288.5333 h -1.05833 v -16.93333 h 1.05833 z"
-       style="fill:#e602b4" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path40"
-       d="m 5.291682,288.5333 h -1.05834 v -16.93333 h 1.05834 z"
-       style="fill:#e602b4" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path42"
-       d="m 28.575002,287.47498 v 1.05833 H 5.291672 v -1.05833 z"
-       style="fill:#e602b4" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path44"
-       d="m 28.575002,271.59995 v 1.05833 H 5.291672 v -1.05833 z"
-       style="fill:#e602b4" />
+     transform="matrix(0,0.13586959,-0.1369789,0,40.510753,-0.178307)">
+    <rect
+       style="opacity:1;fill:#f0e3ec;fill-opacity:0.95049504;fill-rule:evenodd;stroke:#e602b4;stroke-width:1.93943191;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect835"
+       width="17.384048"
+       height="25.315331"
+       x="-288.98401"
+       y="4.2333388"
+       transform="rotate(-90)"
+       rx="1.9315596"
+       ry="1.947333" />
+    <rect
+       style="opacity:1;fill:#9d3a9b;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:1.93943179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect837"
+       width="11.589376"
+       height="2.0005612"
+       x="-286.08667"
+       y="7.1543388"
+       transform="rotate(-90)"
+       rx="0.96578342"
+       ry="0.97366595" />
+    <rect
+       ry="0.97366595"
+       rx="0.96578342"
+       transform="rotate(-90)"
+       y="12.996337"
+       x="-286.08667"
+       height="2.0005612"
+       width="11.589376"
+       id="rect842"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:1.93943179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="opacity:1;fill:#9d3a9b;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:1.93943179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect844"
+       width="11.589376"
+       height="2.0005612"
+       x="-286.08667"
+       y="18.838337"
+       transform="rotate(-90)"
+       rx="0.96578342"
+       ry="0.97366595" />
+    <rect
+       ry="0.97366595"
+       rx="0.96578342"
+       transform="rotate(-90)"
+       y="24.627108"
+       x="-286.08667"
+       height="2.0005612"
+       width="11.589376"
+       id="rect846"
+       style="opacity:1;fill:#9d3a9b;fill-opacity:0.95049504;fill-rule:evenodd;stroke:none;stroke-width:1.93943179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
   </g>
 </svg>

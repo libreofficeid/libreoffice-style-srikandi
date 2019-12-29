@@ -39,14 +39,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview40"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="6.8474576"
+     inkscape:cy="17.037924"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg38" />
+     inkscape:current-layer="svg38">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(.9792 0 0 .9725 133.0002 20.8762)"
@@ -113,35 +117,50 @@
        id="stop21" />
   </linearGradient>
   <rect
-     fill="url(#a)"
-     height="10"
+     height="9"
      rx="1.5"
-     stroke-width=".25"
-     width="16"
-     y="3"
+     width="13"
+     y="3.5"
      id="rect24"
-     style="fill:#9d3a9b" />
-  <path
-     d="m1 4h14v8h-14z"
-     fill="#fff"
-     id="path26"
-     style="fill:#e602b4" />
+     style="fill:#f0e3ec;stroke:#e602b4;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     x="1.5"
+     ry="1.5" />
   <g
-     fill="#4d4d4d"
-     stroke-width=".209715"
      id="g36"
-     style="fill:#f3b7d9">
-    <path
-       d="m3.0488161 6.7611267h-1.3170073v-.5284806q.8556353-.1090516 1.1156814-.301989.260046-.1929373.4529833-.880801h.4865378v5.9475039h-.7381952z"
-       id="path30"
-       style="fill:#f3b7d9" />
-    <path
-       d="m5.9650276 7.1134471q.05872-2.063591 1.962928-2.063591.8472468 0 1.3757274.4865377.5284806.4865377.5284806 1.2582872 0 1.1072927-1.2582872 1.7951564l-.8388581.4529834q-.5452578.2936003-.7801381.5704235-.2348803.2768232-.2936003.6543097h3.1289408v.729806h-3.9594104q.0503315-.981464.3942633-1.5099444.3439319-.5368692 1.2750644-1.0653498l.7717495-.4362062q.8053038-.461372.8053038-1.1744014 0-.4781492-.3355433-.7969152-.3355432-.3187661-.8388581-.3187661-1.1156813 0-1.1995671 1.4176702z"
-       id="path32"
-       style="fill:#f3b7d9" />
-    <path
-       d="m12.479941 5.6957769q-.637533 0-.880802.3523204-.23488.3439318-.251657.9227439h-.738195q.04194-1.9209851 1.862265-1.9209851.847247 0 1.325396.4362062.486537.4362063.486537 1.1995672 0 .9059667-.830469 1.2331214.536869.1845488.771749.520092.234881.3271547.234881.8975782 0 .8472469-.553647 1.3505619-.545257.503315-1.459613.503315-1.828711 0-1.962928-1.9209855h.738195q.04194.6459207.343932.9562985.301989.310377.905967.310377.578812 0 .905967-.310377.327154-.3187663.327154-.8808013 0-1.082127-1.233121-1.082127l-.310378.00839h-.092274v-.629145q.796915-.016777 1.12407-.2013259.335543-.1845488.335543-.7298066 0-.4697606-.285212-.7381952-.276823-.2768231-.76336-.2768231z"
-       id="path34"
-       style="fill:#f3b7d9" />
+     style="fill:#9d3a9b;stroke-width:0.2278468"
+     transform="matrix(0.92042107,0,0,0.92042107,0.71719198,0.63898818)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.54494858px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.2278468"
+       x="0.88591963"
+       y="11.071738"
+       id="text832"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         x="0.88591963"
+         y="11.071738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.83121133">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.54494858px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.2278468"
+       x="4.9845982"
+       y="11.057256"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="4.9845982"
+         y="11.057256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.2278468">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.54494858px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.2278468"
+       x="9.4019022"
+       y="11.013806"
+       id="text840"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="9.4019022"
+         y="11.013806"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.2278468">3</tspan></text>
   </g>
 </svg>
