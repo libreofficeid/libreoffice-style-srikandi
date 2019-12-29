@@ -12,9 +12,9 @@
    width="16"
    version="1.1"
    id="svg26"
-   sodipodi:docname="sc_starshapes.star4.svg"
+   sodipodi:docname="sc_symbolshapes.smiley.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/ing/Documents/PROJECT_SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_starshapes.star4.png"
+   inkscape:export-filename="/home/ing/Documents/PROJECT_SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_symbolshapes.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      inkscape:window-height="836"
      id="namedview28"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="3.3025607"
-     inkscape:cy="9.275063"
+     inkscape:zoom="20.85965"
+     inkscape:cx="6.6402405"
+     inkscape:cy="5.2879035"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -61,11 +61,11 @@
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
-     x1=".001014"
-     x2="127.99898"
-     y1="64.001122"
-     y2="64.001122"
-     gradientTransform="matrix(0.125,0,0,0.125,0,-1.41e-4)">
+     x1="64"
+     x2="64"
+     y1="128"
+     y2="0"
+     gradientTransform="scale(0.125)">
     <stop
        offset="0"
        stop-color="#7c9fcf"
@@ -82,11 +82,11 @@
   <linearGradient
      id="b"
      gradientUnits="userSpaceOnUse"
-     x1="64"
-     x2="64"
+     x1="72"
+     x2="72"
      y1="128"
      y2="0"
-     gradientTransform="matrix(0.125,0,0,0.125,0,-1.41e-4)">
+     gradientTransform="matrix(0.125,0,0,0.125,17.167969,0)">
     <stop
        offset="0"
        stop-color="#fff"
@@ -108,9 +108,28 @@
        stop-color="#dfdfdf"
        id="stop17" />
   </linearGradient>
+  <circle
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path825"
+     cx="8"
+     cy="8"
+     r="7" />
   <path
-     style="fill:#f0e3ec;stroke:#e602b4;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 4,6 C 4,6 4,5 5,5 6,5 6,6 6,6"
+     id="path827"
      inkscape:connector-curvature="0"
-     id="path22"
-     d="M 8.0000004,14.5 6.7000002,9.3000003 1.5,8.0000004 6.7000002,6.7000002 8,1.5 9.3000003,6.7000002 14.5,7.9999999 9.3000003,9.3000003 Z" />
+     sodipodi:nodetypes="czc" />
+  <path
+     sodipodi:nodetypes="czc"
+     inkscape:connector-curvature="0"
+     id="path829"
+     d="m 10,6 c 0,0 0,-1 1,-1 1,0 1,1 1,1"
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 3,8 c 0,0 0.5,5 5,5 4.5,0 5,-5 5,-5"
+     id="path831"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="czc" />
 </svg>
