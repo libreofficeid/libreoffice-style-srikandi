@@ -1,1 +1,82 @@
-<svg viewBox="0 0 16 11" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m5 0v4h2v-1h7v1h2v-4h-2v1h-7v-1zm-5 5v2h1v2h-1v2h4v-2h-1v-2h1v-2z"/><path d="m5 5v6h11v-6zm2 2h7v2h-7z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="sc_size.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/ing/Documents/PROJECT_SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_size.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="8.3616924"
+     inkscape:cy="8.6818482"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid14"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 8,1 h 5 c 1,0 2,1 2,2 v 10 c 0,1 -1,2 -2,2 H 3 C 2,15 1,14 1,13 1,9.347659 1,9.6839081 1,8"
+     id="path840"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 5,1 H 1 v 4"
+     id="path842"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path844"
+     d="m 3.5,7.5 h 4 v -4"
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 1,1 7.5,7.5"
+     id="path846"
+     inkscape:connector-curvature="0" />
+</svg>
