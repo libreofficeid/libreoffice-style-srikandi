@@ -1,1 +1,205 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m1 3v2h4a5 5 0 0 1 4-2zm0 4v2h3.1054688a5 5 0 0 1 -.1054688-1 5 5 0 0 1 .1015625-1zm0 4v2h8a5 5 0 0 1 -4-2z"/><circle cx="9" cy="8" opacity=".35" r="5"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 128 128"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg67"
+   sodipodi:docname="sc_setobjecttoforeground.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/ing/Documents/PROJECT_SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_setobjecttoforeground.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata73">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs71" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview69"
+     showgrid="true"
+     inkscape:zoom="20.85965"
+     inkscape:cx="1.3314575"
+     inkscape:cy="7.9997163"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg67">
+    <inkscape:grid
+       type="xygrid"
+       id="grid883"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <radialGradient
+     id="a"
+     cx="102"
+     cy="112.3047"
+     gradientUnits="userSpaceOnUse"
+     r="139.55859">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop2" />
+    <stop
+       offset=".5313"
+       stop-color="#fafafa"
+       id="stop4" />
+    <stop
+       offset=".8449"
+       stop-color="#ebecec"
+       id="stop6" />
+    <stop
+       offset="1"
+       stop-color="#e1e2e3"
+       id="stop8" />
+  </radialGradient>
+  <radialGradient
+     id="b"
+     cx="102"
+     cy="112.3047"
+     gradientUnits="userSpaceOnUse"
+     r="139.5585">
+    <stop
+       offset="0"
+       stop-color="#fcfcfc"
+       id="stop11" />
+    <stop
+       offset=".2722"
+       stop-color="#fff"
+       id="stop13" />
+  </radialGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="21.254164"
+     x2="5.619518"
+     y1="274.91696"
+     y2="293.17114">
+    <stop
+       offset="0"
+       stop-color="#717174"
+       id="stop16" />
+    <stop
+       offset=".5"
+       stop-color="#9c9ca1"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#cdcdd1"
+       id="stop20" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="6.186009"
+     x2="18.558023"
+     y1="292.12616"
+     y2="279.94159">
+    <stop
+       offset="0"
+       stop-color="#a9cbfc"
+       id="stop23" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop25" />
+  </linearGradient>
+  <linearGradient
+     id="e"
+     gradientTransform="matrix(0,-1.5947083,-1.9964998,0,111.85052,219.94979)"
+     gradientUnits="userSpaceOnUse"
+     x1="102.31124"
+     x2="74.330322"
+     y1="-5.830213"
+     y2="32">
+    <stop
+       offset="0"
+       stop-color="#8fbcff"
+       id="stop28" />
+    <stop
+       offset="1"
+       stop-color="#80b3ff"
+       id="stop30" />
+  </linearGradient>
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2559"
+     width="12"
+     height="14"
+     x="2"
+     y="1" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 4,5 h 8"
+     id="path2561"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2563"
+     d="m 4,7 h 8"
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 4,9 h 8"
+     id="path2565"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2567"
+     d="m 4,11 h 8"
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 4,13 h 8"
+     id="path2569"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path869"
+     d="m 4,3 h 8"
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:type="star"
+     style="opacity:1;fill:#f3b7d9;fill-opacity:1;stroke:#e602b4;stroke-width:0.73538053;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path871"
+     sodipodi:sides="5"
+     sodipodi:cx="8.6802273"
+     sodipodi:cy="9.4964991"
+     sodipodi:r1="4.4428182"
+     sodipodi:r2="1.6438427"
+     sodipodi:arg1="1.1441688"
+     sodipodi:arg2="1.7724873"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 10.518679,13.541092 8.3509223,11.10702 5.4017038,12.494818 7.0467702,9.6809897 4.815537,7.3049695 8.0000002,7.9999998 9.5702408,5.1437403 9.8932809,8.387121 13.094976,8.9978758 10.110163,10.307365 Z" />
+</svg>
