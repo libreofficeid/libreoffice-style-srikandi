@@ -11,14 +11,14 @@
    viewBox="0 0 4.2333333 4.2333335"
    width="16"
    version="1.1"
-   id="svg20"
-   sodipodi:docname="sc_underline.svg"
+   id="svg22"
+   sodipodi:docname="sc_underlinedouble.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/ing/Documents/PROJECT_SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_underline.png"
+   inkscape:export-filename="/home/ing/Documents/PROJECT SRIKANDI/3_272 (mba alita)/REVISI_SC/sc_underlinedouble.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <metadata
-     id="metadata26">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -30,7 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs26" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,20 +42,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="836"
-     id="namedview22"
+     id="namedview24"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="6.0472661"
-     inkscape:cy="8.4469322"
+     inkscape:zoom="32"
+     inkscape:cx="8.6680411"
+     inkscape:cy="7.8468944"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20"
-     inkscape:snap-text-baseline="true"
-     inkscape:snap-object-midpoints="true">
+     inkscape:current-layer="svg22">
     <inkscape:grid
        type="xygrid"
-       id="grid16"
+       id="grid15"
        spacingx="0.13229167"
        spacingy="0.13229167"
        empspacing="2" />
@@ -66,7 +64,8 @@
      x1="16.933332"
      x2="21.166664"
      y1="-2.116665"
-     y2="23.283333">
+     y2="23.283333"
+     gradientTransform="matrix(0.03307292,0,0,0.03289094,0.02690675,0.0018175)">
     <stop
        offset="0"
        stop-color="#3b3e22"
@@ -79,6 +78,7 @@
   </linearGradient>
   <linearGradient
      id="b"
+     gradientTransform="matrix(0.13156581,0,0,0.1181084,0.02690675,-0.326253)"
      gradientUnits="userSpaceOnUse"
      x1="14.928053"
      x2="16.08827"
@@ -94,9 +94,9 @@
   </linearGradient>
   <rect
      style="fill:#9d3a9b;stroke-width:0.03307287"
-     id="rect12"
+     id="rect12-3"
      y="3.7041667"
-     x="0.26458335"
+     x="0.26458344"
      width="3.7041667"
      ry="0.066415116"
      rx="0.051633198"
@@ -112,4 +112,13 @@
        x="0.66145837"
        y="3.0427084"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.26458335">U</tspan></text>
+  <rect
+     height="0.26458305"
+     rx="0.051633198"
+     ry="0.066415116"
+     width="3.7041667"
+     x="0.26458344"
+     y="3.175"
+     id="rect831"
+     style="fill:#9d3a9b;stroke-width:0.03307287" />
 </svg>
