@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_linearrowcircle.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/sc_linearrowcircle.png"
    inkscape:export-xdpi="90"
@@ -39,10 +39,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview17"
      showgrid="true"
-     inkscape:zoom="14.75"
+     inkscape:zoom="20.85965"
      inkscape:cx="-3.2542373"
      inkscape:cy="8"
      inkscape:window-x="0"
@@ -70,24 +70,21 @@
        stop-color="#aecffc"
        id="stop7" />
   </linearGradient>
-  <g
-     id="g4154">
-    <path
-       d="m 0.9986185,7 15.0000005,0 0,1 -15.0000005,0 z"
-       id="path11"
-       inkscape:connector-curvature="0"
-       style="opacity:0.98999999;fill:#9d3a9b" />
-    <circle
-       cx="-13.50008"
-       cy="7.5"
-       r="2.5013008"
-       transform="scale(-1,1)"
-       id="circle13"
-       style="opacity:0.98999999;fill:#e602b4" />
-    <path
-       d="m -0.0013815,7.5 4.125,-2.5 -1,2.5 1,2.5 z"
-       id="path15"
-       inkscape:connector-curvature="0"
-       style="fill:#9d3a9b;fill-opacity:0.99215698;fill-rule:evenodd" />
-  </g>
+  <circle
+     style="opacity:0.98999999;fill:#e602b4;stroke-width:1"
+     id="circle13"
+     transform="scale(-1,1)"
+     cy="7.5480785"
+     cx="-13.538752"
+     r="1.5" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 14,7.5 H 2"
+     id="path815"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 4,5 1.5,7.5 4,10"
+     id="path817"
+     inkscape:connector-curvature="0" />
 </svg>

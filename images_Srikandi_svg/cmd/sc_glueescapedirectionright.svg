@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_glueescapedirectionright.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 15/sc_glueescapedirectionright.png"
    inkscape:export-xdpi="90"
@@ -39,16 +39,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview46"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.6779661"
+     inkscape:zoom="29.5"
+     inkscape:cx="6.4754161"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g856">
     <inkscape:grid
        type="xygrid"
        id="grid4178" />
@@ -139,40 +139,42 @@
        id="stop30" />
   </linearGradient>
   <g
-     id="g4263">
-    <g
-       id="g4215"
-       transform="matrix(0,-1,1,0,1.5e-7,16)">
-      <rect
-         height="14"
-         rx="0.47620806"
-         ry="0.55383754"
-         transform="matrix(0,1,1,0,0,0)"
-         width="14"
-         x="1"
-         y="1"
-         id="rect54"
-         style="opacity:1;fill:#9e3a9c;fill-opacity:1" />
-      <rect
-         style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd"
-         id="rect58"
-         y="2"
-         x="2"
-         width="12"
-         transform="matrix(0,1,1,0,0,0)"
-         ry="0.75"
-         rx="0.74999928"
-         height="12" />
-    </g>
+     id="g856"
+     transform="rotate(-90,-2,-2)">
+    <rect
+       style="opacity:1;fill:#e602b4;fill-opacity:1;stroke-width:0.99999994"
+       id="rect54-3"
+       y="-18"
+       x="2"
+       width="12"
+       transform="matrix(0,1,1,0,0,0)"
+       ry="0.55383754"
+       rx="0.47620806"
+       height="12" />
+    <rect
+       height="10"
+       rx="0.74999928"
+       ry="0.75"
+       transform="matrix(0,1,1,0,0,0)"
+       width="10"
+       x="3"
+       y="-17"
+       id="rect58-6"
+       style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke-width:0.99999994" />
     <path
-       d="m 8.4855972,8.1634645 c 0,0.165818 0.1164469,0.303113 0.272217,0.335938 l 0,2.5e-4 4.87e-4,0 c 0.02296,0.0048 0.04662,0.0076 0.07104,0.0076 l 0.264404,0 6.2980958,0 0.264404,0 c 0.02443,0 0.04808,-0.0028 0.07104,-0.0076 l 5e-4,0 0,-2.5e-4 C 15.883553,8.4665775 16,8.3292825 16,8.1634645 l 0,-0.3125 c 0,-0.165383 -0.115841,-0.302651 -0.270996,-0.335937 l -7.5e-4,-0.01538 -2.246339,-0.0032 0,-0.0037 -1.238994,0.0017 -1.239258,-0.0017 0,0.0037 -2.2463378,0.0032 -7.37e-4,0.01538 c -0.155154,0.03329 -0.270996,0.17056 -0.270996,0.335944 z"
-       id="path40-3"
        inkscape:connector-curvature="0"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path842"
+       d="m -13.5,5.5 4,4"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       d="M 5.1715732,5.8786804 7.2928931,8.0000004 5.171573,10.121321 5.8786798,10.828428 8.0000002,8.7071074 10.121321,10.828428 10.828427,10.121321 8.7071071,8.0000004 10.828427,5.8786804 10.12132,5.1715725 8.0000001,7.2928944 5.8786801,5.1715725 Z"
-       id="path44-6"
-       style="fill:#e602b4;fill-opacity:1;stroke:#9d3a9b;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       id="path844"
+       d="m -13.5,9.5 4,-4"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path846"
+       d="M -11.5,8.0000003 V 14.5"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

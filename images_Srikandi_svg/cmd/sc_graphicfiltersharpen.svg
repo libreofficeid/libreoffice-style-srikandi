@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_graphicfiltersharpen.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 18/sc_graphicfiltersharpen.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview33"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -122,8 +122,8 @@
        id="stop25" />
   </linearGradient>
   <path
-     style="fill:#f3b7d9;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 1,15 8,2 15,15 1,15"
+     style="fill:#f3b7d9;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 1.5,14.5 6.5,-13 6.5,13 h -13"
      id="path4171"
      inkscape:connector-curvature="0" />
 </svg>

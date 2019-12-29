@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_glueescapedirectiontop.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 15/sc_glueescapedirectiontop.png"
    inkscape:export-xdpi="90"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview46"
      showgrid="true"
      inkscape:zoom="29.5"
      inkscape:cx="8.1980287"
-     inkscape:cy="11.146939"
+     inkscape:cy="8.0960452"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -138,41 +138,39 @@
        stop-color="#aecffc"
        id="stop30" />
   </linearGradient>
-  <g
-     id="g4201">
-    <g
-       id="g4215"
-       transform="matrix(-1,0,0,-1,16,16)">
-      <rect
-         height="14"
-         rx="0.47620806"
-         ry="0.55383754"
-         transform="matrix(0,1,1,0,0,0)"
-         width="14"
-         x="1"
-         y="1"
-         id="rect54"
-         style="opacity:1;fill:#9e3a9c;fill-opacity:1" />
-      <rect
-         style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd"
-         id="rect58"
-         y="2"
-         x="2"
-         width="12"
-         transform="matrix(0,1,1,0,0,0)"
-         ry="0.75"
-         rx="0.74999928"
-         height="12" />
-    </g>
-    <path
-       d="m 8.145717,7.674995 c 0.165818,0 0.303113,-0.116447 0.335938,-0.272217 l 2.5e-4,0 0,-4.87e-4 c 0.0048,-0.02296 0.0076,-0.04662 0.0076,-0.07104 l 0,-0.264404 0,-6.29809568 0,-0.264404 c 0,-0.02443 -0.0028,-0.04808 -0.0076,-0.07104 l 0,-5e-4 -2.5e-4,0 c -0.032825,-0.155768 -0.17012,-0.272215 -0.335938,-0.272215 l -0.3125,0 c -0.165383,0 -0.302651,0.115841 -0.335937,0.270996 l -0.01538,7.5e-4 -0.0032,2.24633898 -0.0037,0 0.0017,1.238994 -0.0017,1.239258 0.0037,0 0.0032,2.2463377 0.01538,7.37e-4 C 7.53057,7.559158 7.66784,7.675 7.833224,7.675 Z"
-       id="path40-3"
-       inkscape:connector-curvature="0"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="m 5.8786804,10.828427 2.12132,-2.1213203 2.1213206,2.1213203 0.707107,-0.707107 -2.1213206,-2.1213203 2.1213206,-2.121321 -0.707107,-0.707106 -2.1213206,2.12132 -2.12132,-2.12132 -0.7071079,0.707107 2.1213219,2.12132 -2.1213219,2.1213203 z"
-       id="path44-6"
-       style="fill:#e602b4;fill-opacity:1;stroke:#9d3a9b;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-  </g>
+  <rect
+     height="12"
+     rx="0.47620806"
+     ry="0.55383754"
+     transform="rotate(-90)"
+     width="12"
+     x="-14"
+     y="2"
+     id="rect54"
+     style="opacity:1;fill:#e602b4;fill-opacity:1;stroke-width:0.99999994" />
+  <rect
+     style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke-width:0.99999994"
+     id="rect58"
+     y="3"
+     x="-13"
+     width="10"
+     transform="rotate(-90)"
+     ry="0.75"
+     rx="0.74999928"
+     height="10" />
+  <path
+     style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6.5,10.5 4,-4"
+     id="path842"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 6.5,6.5 4,4"
+     id="path844"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 8.5,7.9999997 V 1.4999999"
+     id="path846"
+     inkscape:connector-curvature="0" />
 </svg>

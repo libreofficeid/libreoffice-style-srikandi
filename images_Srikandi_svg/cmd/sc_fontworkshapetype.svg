@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_fontworkshapetype.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 10/sc_fontworkshapetype.png"
    inkscape:export-xdpi="90"
@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="16"
-     inkscape:cx="0.709943"
-     inkscape:cy="4.3986772"
+     inkscape:cx="19.923611"
+     inkscape:cy="16.210594"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4152">
     <inkscape:grid
        type="xygrid"
        id="grid4150" />
@@ -58,13 +58,20 @@
      id="g4152">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#f3b7d9;fill-opacity:1;stroke:#e820bb;stroke-width:0.24675854;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.24675852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4"
-       d="M 15.873105,6.0335142 C 13.294138,6.033103 10.731147,7.092826 8.9069845,8.9143764 7.0823016,10.736438 6.0204071,13.299066 6.0198638,15.876621 l 1.1918774,0 A 8.6606067,8.6533933 0 0 1 9.7497847,9.7584016 8.6606067,8.6533933 0 0 1 15.873105,7.2243991 Z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#f0e3ec;fill-opacity:1;stroke:#a243a0;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path6"
-       d="M 10.675805,4.5622458 10.849074,4.7515896 8.3078809,7.0770364 8.1346123,6.8876926 Q 8.5241115,6.5129512 8.6097576,6.306402 8.6954038,6.0998528 8.5221352,5.910509 8.3032695,5.6713379 7.7217916,5.4160916 L 6.4377454,4.8333027 3.8267944,7.2225852 4.4353528,8.8080366 Q 4.5471364,9.0902665 4.7112856,9.2696449 5.0851809,9.6782287 5.7628324,9.0581096 L 5.936101,9.2474534 3.9629395,11.053095 3.7896709,10.863751 Q 4.1401543,10.506402 4.1023591,10.064911 4.06541,9.6043371 3.5298068,8.0986093 L 1.124998,1.3087325 1.3243072,1.1263445 8.9855258,4.5159966 q 0.7407381,0.3292348 1.0369762,0.3328064 0.296239,0.00357 0.653303,-0.2865572 z M 3.6223118,6.6589714 5.9243335,4.5523903 2.2605053,2.8697385 Z" />
+       d="M 15,4.8091149 C 12.421033,4.8086892 9.858042,5.9058545 8.0338795,7.7917643 6.2091966,9.6782034 5.1473021,12.331375 5.1467588,15 H 6.3386362 A 8.6606067,8.9591368 0 0 1 8.8766797,8.6656108 8.6606067,8.9591368 0 0 1 15,6.0420764 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;"
+       x="-3.9849231"
+       y="10.523516"
+       id="text817"
+       transform="rotate(-43.394743)"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="-3.9849231"
+         y="10.523516"
+         style="font-size:10.66666698px;fill:#9d3a9b;">A</tspan></text>
   </g>
 </svg>

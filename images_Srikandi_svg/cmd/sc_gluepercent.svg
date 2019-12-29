@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_gluepercent.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 15/sc_gluepercent.png"
    inkscape:export-xdpi="90"
@@ -39,16 +39,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview42"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="5.3372857"
-     inkscape:cy="8.5633698"
+     inkscape:cx="10.877383"
+     inkscape:cy="17.054874"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4215">
     <inkscape:grid
        type="xygrid"
        id="grid4174" />
@@ -142,7 +142,7 @@
      transform="matrix(0,-1,1,0,0,16)"
      id="g4215">
     <rect
-       style="opacity:1;fill:#9e3a9c;fill-opacity:1"
+       style="opacity:1;fill:#e602b4;fill-opacity:1"
        id="rect54"
        y="1"
        x="1"
@@ -162,9 +162,15 @@
        id="rect58"
        style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd" />
   </g>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4"
-     id="path40"
-     d="m 4.6557547,3.3292181 q 0.9827985,0 1.6516475,0.685871 0.682499,0.6858711 0.682499,1.6872427 0,0.9465022 -0.682499,1.6323732 -0.682499,0.6858711 -1.6379976,0.6858711 -0.9554986,0 -1.6516476,-0.6858711 -0.6824992,-0.6995884 -0.6824992,-1.6598079 0,-0.9602195 0.6824992,-1.6460906 0.682499,-0.6995884 1.6379976,-0.6995884 z m 0,0.9602194 q -0.5596494,0 -0.9691486,0.4115227 -0.4094994,0.3978052 -0.4094994,0.9739369 0,0.5624142 0.4094994,0.9739369 0.4094992,0.4115225 0.9827986,0.4115225 0.559649,0 0.9691485,-0.3978052 0.4094994,-0.4115225 0.4094994,-0.9739368 0,-0.5898491 -0.4094994,-0.9876543 Q 5.2427038,4.2894375 4.6557547,4.2894375 Z M 10.252246,3 11.153145,3 5.7614031,13 4.8605043,13 Z m 1.078349,5.3086419 q 0.982798,0 1.651647,0.685871 0.6825,0.685871 0.6825,1.6735251 0,0.946503 -0.69615,1.632374 -0.682499,0.685871 -1.624347,0.685871 -0.969149,0 -1.6516476,-0.685871 -0.682499,-0.699589 -0.682499,-1.659809 0,-0.9602191 0.682499,-1.6460901 0.6824986,-0.685871 1.6379976,-0.685871 z m 0,0.9602194 q -0.559649,0 -0.969149,0.4115226 -0.4094989,0.3978051 -0.4094989,0.9602191 0,0.576132 0.4094989,0.987655 0.4095,0.397805 0.982799,0.397805 0.559649,0 0.969148,-0.397805 0.4095,-0.411523 0.4095,-0.96022 0,-0.589849 -0.4095,-0.9876541 -0.395849,-0.4115226 -0.982798,-0.4115226 z" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="3.04"
+     y="11.76"
+     id="text834"><tspan
+       sodipodi:role="line"
+       id="tspan832"
+       x="3.04"
+       y="11.76"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#e602b4">%</tspan></text>
 </svg>

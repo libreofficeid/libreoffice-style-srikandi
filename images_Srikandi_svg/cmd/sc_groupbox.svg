@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_groupbox.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 19/sc_groupbox.png"
    inkscape:export-xdpi="90"
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="2.658038"
-     inkscape:cy="8.0992858"
+     inkscape:cx="3.5888229"
+     inkscape:cy="17.709022"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,27 +54,32 @@
        type="xygrid"
        id="grid4146" />
   </sodipodi:namedview>
-  <g
-     transform="scale(.125)"
-     id="g4">
-    <path
-       d="m16 24c-4.432 0-8 3.568-8 8v88c0 4.432 3.568 8 8 8h104c4.432 0 8-3.568 8-8v-88c0-4.432-3.568-8-8-8h-23.292969l-3.484375 8h26.777344v88h-104v-88h20.890625l3.654297-6.734375-.671875-1.265625zm45.71875 0-.548828 1.005859 3.808594 6.994141h9.923828l-3.650391-8z"
-       fill="#818181"
-       id="path6"
-       style="fill:#9d3a9b" />
-    <g
-       fill="#565656"
-       stroke-width="1.338214"
-       transform="scale(.93026518 1.0749623)"
-       id="g8">
-      <path
-         d="m59.126435 23.261131 12.525686 19.912628h-9.528086l-7.494-13.542728-7.440471 13.542728h-9.313972l12.311572-19.644985-11.883343-19.3773436h9.528086l6.851657 12.8468576 7.172829-12.8468576h9.313971z"
-         id="path10"
-         style="fill:#e602b4" />
-      <path
-         d="m94.390057 28.721045v14.452714h-8.029286v-14.452714l-12.953915-24.5696146h8.939272l7.975757 17.2362006 7.440472-17.2362006h8.992803z"
-         id="path12"
-         style="fill:#e602b4" />
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#e602b4;stroke-width:0.125"
+     id="path6"
+     d="M 1.9285714,3 C 1.4141429,3 1,3.4116923 1,3.923077 V 14.076923 C 1,14.588308 1.4141429,15 1.9285714,15 H 14 c 0.514429,0 0.928571,-0.411692 0.928571,-0.923077 V 3.923077 C 14.928571,3.4116923 14.514429,3 14,3 H 11.296352 L 11,4 h 3 V 14 H 2 V 4 H 4.5 L 4.7775355,3.1460337 4.6995501,3 Z M 7.235212,3 7.1715088,3.1160607 7.5,4 H 9 L 8.3417445,3 Z"
+     sodipodi:nodetypes="sssssssscccccccccscccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;font-family:Nunito;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;-inkscape-font-specification:'Nunito Bold';font-stretch:normal;font-variant:normal;"
+     x="4.2115216"
+     y="5.1572752"
+     id="text825"><tspan
+       sodipodi:role="line"
+       id="tspan823"
+       x="4.2115216"
+       y="5.1572752"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333349px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#9d3a9b;">X</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:bold;font-size:40px;line-height:1.25;font-family:Nunito;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;-inkscape-font-specification:'Nunito Bold';font-stretch:normal;font-variant:normal;"
+     x="8.3952894"
+     y="5.2182503"
+     id="text829"><tspan
+       sodipodi:role="line"
+       id="tspan827"
+       x="8.3952894"
+       y="5.2182503"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333349px;font-family:Nunito;-inkscape-font-specification:'Nunito Bold';fill:#9d3a9b;">Y</tspan></text>
 </svg>

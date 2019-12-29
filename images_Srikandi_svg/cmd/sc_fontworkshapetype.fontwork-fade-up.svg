@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_fontworkshapetype.fontwork-fade-up.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 10/sc_fontworkshapetype.fontwork-fade-up.png"
    inkscape:export-xdpi="90"
@@ -40,11 +40,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview28"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-14.305085"
+     inkscape:cx="-0.64016808"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -102,18 +102,9 @@
        stop-color="#7b9dcf"
        id="stop20" />
   </linearGradient>
-  <g
-     id="g4806"
-     transform="matrix(1.0011792,0,0,-0.9950415,-0.05924165,16.059915)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#f3b7d9;fill-opacity:1;stroke:#e601b4;stroke-width:0.24715494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path24-3"
-       d="M 5.2866348,13.001423 A 0.94698564,0.94698564 0 0 1 4.4483838,12.495045 L 0.29116039,4.5860861 A 0.94698564,0.94698564 0 0 1 1.1294115,3.1987358 l 13.8406765,0 a 0.94698564,0.94698564 0 0 1 0.83825,1.3873503 l -4.157222,7.9089589 a 0.94698564,0.94698564 0 0 1 -0.838252,0.506378 z" />
-    <path
-       d="m 5.4362533,11.840429 -3.9321159,-7.4806998 13.0912246,0 -3.932116,7.4806998 z"
-       id="path4164"
-       style="fill:#f0e3ec;fill-opacity:1;stroke:#9e3a9c;stroke-width:0.23377188;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4164-3"
+     d="m 5.8039901,4.5 -3.3039895,7 H 13.499999 l -3.303989,-7 z" />
 </svg>
