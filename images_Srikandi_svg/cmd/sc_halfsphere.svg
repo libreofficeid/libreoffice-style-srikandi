@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_halfsphere.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 19/sc_halfsphere.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview34"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4182">
     <inkscape:grid
        type="xygrid"
        id="grid4166" />
@@ -128,18 +128,22 @@
   <g
      id="g4182"
      transform="matrix(1.0769231,0,0,1.0588235,26.846154,-1.8823525)">
-    <path
-       sodipodi:nodetypes="csssscccc"
-       inkscape:connector-curvature="0"
-       id="rect4175"
-       d="m -24,7.0000005 0,2.9932712 C -24,12.209272 -21.77,15 -19,15 l 3,0 c 2.77,0 5,-2.790727 5,-5.0067284 l 0,-2.9932711 -5,0 -3,0 z"
-       style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <ellipse
-       ry="0.5"
-       rx="6.5"
-       cy="7"
-       cx="-17.5"
-       id="path4173"
-       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g833"
+       transform="translate(2.3214285e-7,0.44699583)">
+      <path
+         style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:0.93647432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -23.535714,5.1253557 v 3.352244 c 0,2.4817563 2.070714,5.6071673 4.642857,5.6071673 h 2.785714 c 2.572143,0 4.642857,-3.12541 4.642857,-5.6071673 v -3.352244 h -4.642857 -2.785714 z"
+         id="rect4175"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscccc" />
+      <ellipse
+         style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:0.93647432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4173"
+         cx="-17.5"
+         cy="4.6885042"
+         rx="6.0357141"
+         ry="1.0005965" />
+    </g>
   </g>
 </svg>

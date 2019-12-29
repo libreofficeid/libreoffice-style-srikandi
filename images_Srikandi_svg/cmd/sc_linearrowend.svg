@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_linearrowend.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/sc_linearrowend.png"
    inkscape:export-xdpi="90"
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-0.6779661"
+     inkscape:cx="-12.338983"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,22 +53,14 @@
        type="xygrid"
        id="grid4142" />
   </sodipodi:namedview>
-  <g
-     fill="#4d4d4d"
-     transform="scale(.125)"
-     id="g4"
-     style="fill:#9d3a9b">
-    <path
-       d="m-120 56h120v8h-120z"
-       opacity=".99"
-       transform="scale(-1 1)"
-       id="path6"
-       style="fill:#9d3a9b" />
-    <path
-       d="m128 60-33-20 8 20-8 20z"
-       fill-opacity=".992157"
-       fill-rule="evenodd"
-       id="path8"
-       style="fill:#9d3a9b" />
-  </g>
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 1.5000003,7.5 H 13.5"
+     id="path815"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 12,5 14.5,7.5 12,10"
+     id="path817"
+     inkscape:connector-curvature="0" />
 </svg>

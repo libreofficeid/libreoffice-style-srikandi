@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_grafcontrast.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 16/sc_grafcontrast.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview26"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4741">
     <inkscape:grid
        type="xygrid"
        id="grid4158" />
@@ -90,28 +90,24 @@
        id="stop12" />
   </linearGradient>
   <g
-     id="g4741">
+     id="g4741"
+     transform="matrix(0.87494044,0,0,0.87494044,1.0004765,1.0004765)"
+     style="stroke-width:1.14293504">
     <circle
-       style="opacity:0.98999999;fill:#9d3a9b;stroke-width:0.133782"
+       style="opacity:0.98999999;fill:#e602b4;stroke-width:0.15290411"
        id="circle14"
        r="8.0005445"
-       cy="8"
-       cx="8" />
-    <circle
-       style="opacity:0.98999999;fill:#f3b7d9;stroke-width:0.13149001"
-       id="circle16"
-       r="7.5019102"
        cy="8"
        cx="8" />
     <path
        d="m 12.950185,3.0519362 a 7.0006202,7.0006202 0 0 1 0,9.9003718 7.0006202,7.0006202 0 0 1 -4.9873815,2.044759 C 7.9405001,10.672354 7.9191861,5.3777899 7.9233911,1.0032349 a 7.0006202,7.0006202 0 0 1 5.0267939,2.0487013 z"
        id="path22"
-       style="fill:#f0e3ec;stroke-width:0.97672701"
+       style="fill:#f0e3ec;stroke-width:1.11633551"
        inkscape:connector-curvature="0" />
     <path
-       d="m 7.9603799,1.0000004 c -0.00423,4.3764825 0.017199,9.6733796 0.039619,13.9999976 a 7.0373924,7.0037047 0 0 1 -4.9387961,-2.045662 7.0373924,7.0037047 0 0 1 0,-9.9047306 7.0373924,7.0037047 0 0 1 4.8991767,-2.049605 z"
+       d="m 7.9603799,1.0000004 c -0.00423,4.3764825 0.017199,9.6733796 0.039619,13.9999976 a 7.0373924,7.0037047 0 0 1 -4.9387961,-2.045662 7.0373924,7.0037047 0 0 1 0,-9.9047306 7.0373924,7.0037047 0 0 1 4.8991771,-2.049605 z"
        id="path20"
        inkscape:connector-curvature="0"
-       style="fill:#e602b4;stroke-width:0.97672701" />
+       style="fill:#f3b7d9;stroke-width:1.11633551" />
   </g>
 </svg>

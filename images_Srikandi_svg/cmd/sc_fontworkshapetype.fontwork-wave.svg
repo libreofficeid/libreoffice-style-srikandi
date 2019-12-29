@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_fontworkshapetype.fontwork-wave.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 10/sc_fontworkshapetype.fontwork-wave.png"
    inkscape:export-xdpi="90"
@@ -41,16 +41,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview28"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="1.4851335"
-     inkscape:cy="9.7762573"
+     inkscape:zoom="29.5"
+     inkscape:cx="9.6388517"
+     inkscape:cy="8.1875275"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid4160" />
@@ -105,19 +106,16 @@
        stop-color="#7b9dcf"
        id="stop20" />
   </linearGradient>
-  <g
-     id="g4182">
-    <path
-       d="M 4.9513879,1.6947955 C 2.9660334,1.6619084 1.8367096,2.3284109 0.65834232,3.3009877 0.39454657,3.518714 0.12303047,3.8075142 0.12306363,4.176438 l 0,7.16607 c 4.8383e-4,0.960798 1.23827977,1.351529 1.79187357,0.565635 0.7999324,-1.136881 1.414208,-1.312562 2.2882143,-1.212863 0.8740064,0.0997 2.0335103,0.682857 3.2628686,1.474202 l -0.015863,-0.01056 c 1.8335034,1.231261 3.4011719,1.794737 4.8276029,1.709864 1.42643,-0.08487 2.578797,-0.879844 3.39146,-1.921527 0.134789,-0.172859 0.207956,-0.385682 0.20791,-0.604752 l 0,-7.16607 C 15.876671,3.2630881 14.738592,2.8430038 14.143183,3.5364109 13.331669,4.4823586 12.584555,4.871247 11.766277,4.8870214 10.947998,4.902796 9.9116862,4.5066309 8.6382492,3.4264977 l 0.052639,0.048236 C 7.4446207,2.2515508 6.1425326,1.7145265 4.9513879,1.6947955 Z"
-       id="path24"
-       style="fill:#f3b7d9;fill-opacity:1;stroke:#e820bb;stroke-width:0.24593377;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sacccsccsccccsccs" />
-    <path
-       d="m 1.1085351,4.1765353 0,7.1660247 c 1.8995501,-2.6996831 4.3537617,-1.6335962 6.8915619,0 3.461161,2.324291 5.492473,1.793374 6.891563,0 l 0,-7.1660247 c -1.862336,2.17085 -4.124176,2.3473065 -6.891563,0 C 5,1 1,4 1.1085351,4.1765353 Z"
-       id="path26"
-       style="fill:#f0e3ec;fill-opacity:1;stroke:#a243a0;stroke-width:0.24593377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-  </g>
+  <path
+     sodipodi:nodetypes="sacccsccsccccsccs"
+     inkscape:connector-curvature="0"
+     style="fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.24593377;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path24"
+     d="M 5.3012182,3.0249631 C 3.540078,2.9979615 2.5382935,3.5451864 1.493004,4.3437107 1.2589998,4.5224725 1.0181472,4.759589 1.0181765,5.0624899 v 5.8836271 c 4.295e-4,0.788854 1.0984356,1.109659 1.58951,0.46441 0.7095926,-0.933425 1.2544955,-1.077666 2.0297966,-0.995809 0.7753011,0.08184 1.8038575,0.560653 2.8943791,1.210378 l -0.014072,-0.0088 c 1.6264381,1.010915 3.0170628,1.47355 4.2824018,1.403867 1.265336,-0.06967 2.287562,-0.722387 3.008449,-1.577652 0.119565,-0.141923 0.184468,-0.31666 0.184427,-0.496525 V 5.0624892 C 14.992663,4.3125935 13.983111,3.9676877 13.454945,4.5370024 12.735078,5.313663 12.072339,5.6329558 11.346472,5.6459071 10.620606,5.6588587 9.701329,5.3335914 8.5717068,4.4467593 l 0.046695,0.039603 C 7.5128797,3.4820814 6.3578418,3.0411631 5.3012182,3.0249631 Z" />
+  <path
+     sodipodi:nodetypes="ccccccc"
+     inkscape:connector-curvature="0"
+     style="fill:#f0e3ec;fill-opacity:1;stroke:none;stroke-width:0.24593377;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path26"
+     d="m 2.0129186,5.0741931 v 5.9171359 c 1.6502318,-2.2291844 3.7823251,-1.3488942 5.987036,0 3.0068794,1.919216 4.7715804,1.480827 5.9870364,0 V 5.0741931 c -1.617901,1.7925162 -3.582872,1.93822 -5.9870364,0 -2.6063307,-2.6229316 -6.0813257,-0.1457689 -5.987036,0 z" />
 </svg>

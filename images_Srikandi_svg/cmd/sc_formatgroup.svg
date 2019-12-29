@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_formatgroup.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 12/sc_formatgroup.png"
    inkscape:export-xdpi="90"
@@ -40,16 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview69"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-3.1196843"
+     inkscape:zoom="29.5"
+     inkscape:cx="2.6852171"
      inkscape:cy="7.6954368"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid4203" />
@@ -184,7 +185,7 @@
      id="use42"
      xlink:href="#k"
      width="100%"
-     transform="translate(-10,0)"
+     transform="translate(-9)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -193,7 +194,7 @@
      id="use44"
      xlink:href="#k"
      width="100%"
-     transform="translate(-15,4)"
+     transform="translate(-13,3)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -202,7 +203,7 @@
      id="use46"
      xlink:href="#k"
      width="100%"
-     transform="translate(-15,15)"
+     transform="translate(-13,13)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -211,7 +212,7 @@
      id="use48"
      xlink:href="#k"
      width="100%"
-     transform="translate(-4,15)"
+     transform="translate(-3,13)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -220,44 +221,50 @@
      id="use50"
      xlink:href="#k"
      width="100%"
-     transform="translate(0,10)"
+     transform="translate(0,9)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
-  <rect
-     height="10"
-     rx="0.3401486"
-     ry="0.39559826"
-     transform="matrix(0,1,1,0,0,0)"
-     width="10"
-     x="5"
-     y="1.0000001"
-     id="rect54"
-     style="opacity:1;fill:#9e3a9c;fill-opacity:1" />
-  <rect
-     style="fill:#f0e3ec;fill-rule:evenodd;fill-opacity:1"
-     id="rect58"
-     y="2"
-     x="6"
-     width="8"
-     transform="matrix(0,1,1,0,0,0)"
-     ry="0.1904733"
-     rx="0.15824644"
-     height="8" />
-  <circle
-     style="fill:#9e3a9c;fill-opacity:1"
-     id="circle62"
-     r="5.1230168"
-     cy="5.4998608"
-     cx="10.500139" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#9e3a9c;fill-opacity:1"
-     d="m 15,0 1,0 0,1 -1,0 z"
+     d="m 14,1 h 1 v 1 h -1 z"
      id="k" />
-  <circle
-     style="fill:#f0e3ec;fill-opacity:1"
-     id="circle65"
-     r="4.3050175"
-     cy="5.4998603"
-     cx="10.501035" />
+  <g
+     id="g849"
+     transform="matrix(0.82406083,0,0,0.82086313,1.1759392,1.6870531)"
+     style="stroke-width:1.21586406">
+    <rect
+       style="opacity:1;fill:#e602b4;fill-opacity:1;stroke-width:1.21586406"
+       id="rect54"
+       y="1.0000001"
+       x="5.2477756"
+       width="9.752224"
+       transform="matrix(0,1,1,0,0,0)"
+       ry="0.4800595"
+       rx="0.41437921"
+       height="9.7531862" />
+    <rect
+       height="7.300693"
+       rx="0.19278057"
+       ry="0.23113987"
+       transform="matrix(0,1,1,0,0,0)"
+       width="7.2153773"
+       x="6.4955516"
+       y="2.246814"
+       id="rect58"
+       style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke-width:1.35096002" />
+    <circle
+       cx="10.993768"
+       cy="5.4998608"
+       r="5.1230168"
+       id="circle62"
+       style="fill:#e602b4;fill-opacity:1;stroke-width:1.21586406" />
+    <ellipse
+       cx="10.953528"
+       cy="5.5618043"
+       id="circle65"
+       style="fill:#f0e3ec;fill-opacity:1;stroke-width:1.21586406"
+       rx="3.8936605"
+       ry="3.9952981" />
+  </g>
 </svg>

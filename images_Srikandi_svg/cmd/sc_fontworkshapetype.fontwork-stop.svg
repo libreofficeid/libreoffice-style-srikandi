@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_fontworkshapetype.fontwork-stop.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 10/sc_fontworkshapetype.fontwork-stop.png"
    inkscape:export-xdpi="90"
@@ -41,16 +41,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview28"
      showgrid="true"
-     inkscape:zoom="41.7193"
+     inkscape:zoom="20.85965"
      inkscape:cx="4.4093399"
      inkscape:cy="5.0384181"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4174">
     <inkscape:grid
        type="xygrid"
        id="grid4170" />
@@ -107,16 +107,17 @@
   </linearGradient>
   <g
      id="g4174"
-     transform="matrix(0.98366857,0,0,0.95102885,0.13065166,0.55929503)">
+     transform="matrix(0.98366857,0,0,0.99583156,0.13065166,0.01611681)"
+     style="stroke:none;stroke-width:0.97724605">
     <path
-       d="m 4,1.9921875 a 1.0079889,1.0079889 0 0 0 -0.7126465,0.295166 l -2.99999999,3 A 1.0079889,1.0079889 0 0 0 -0.0078125,6 l 0,4 a 1.0079889,1.0079889 0 0 0 0.29516601,0.712647 L 3.2873535,13.712646 A 1.0079889,1.0079889 0 0 0 4,14.007813 l 8,0 a 1.0079889,1.0079889 0 0 0 0.712646,-0.295167 l 3,-2.999999 A 1.0079889,1.0079889 0 0 0 16.007812,10 l 0,-4 A 1.0079889,1.0079889 0 0 0 15.712646,5.2873535 l -3,-3 A 1.0079889,1.0079889 0 0 0 12,1.9921875 Z"
+       d="M 4.4418908,2.0055886 A 0.89023682,1.0127475 0 0 0 3.8124948,2.302148 L 1.1629513,5.3163108 A 0.89023682,1.0127475 0 0 0 0.90226623,6.0323216 v 4.0188834 a 0.89023682,1.0127475 0 0 0 0.26068507,0.716011 l 2.6495435,3.014162 a 0.89023682,1.0127475 0 0 0 0.629396,0.296561 H 11.50734 a 0.89023682,1.0127475 0 0 0 0.629396,-0.296561 l 2.649544,-3.014162 a 0.89023682,1.0127475 0 0 0 0.260684,-0.716011 V 6.0323216 A 0.89023682,1.0127475 0 0 0 14.78628,5.3163108 L 12.136736,2.302148 A 0.89023682,1.0127475 0 0 0 11.50734,2.0055886 Z"
        id="path24"
-       style="fill:#f3b7d9;fill-opacity:1;stroke:#e820bb;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.24431151;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
-       d="M 4,3 1.0000003,6 1,10 l 3,3 8,0 3,-3 0,-4 -3,-3 z"
+       d="m 4.5145054,2.9963735 -2.6141209,3.012558 -2e-7,4.0167445 2.6141211,3.012557 h 6.9709896 l 2.61412,-3.012557 V 6.0089315 l -2.61412,-3.012558 z"
        id="path26"
-       style="fill:#f0e3ec;fill-opacity:1;stroke:#a0409e;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f0e3ec;fill-opacity:1;stroke:none;stroke-width:0.24431148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

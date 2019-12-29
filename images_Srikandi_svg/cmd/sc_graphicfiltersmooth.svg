@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_graphicfiltersmooth.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 18/sc_graphicfiltersmooth.png"
    inkscape:export-xdpi="90"
@@ -40,16 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview45"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-4.1310395"
-     inkscape:cy="13.443373"
+     inkscape:cx="-15.792056"
+     inkscape:cy="11.280082"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid4177" />
@@ -156,8 +157,8 @@
        id="stop31" />
   </linearGradient>
   <path
-     style="fill:#f3b7d9;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 7.6254546,0.28801598 c 0,0 -6.70961491,10.21989502 -3.7527736,14.06884002 1.5571361,2.026936 6.1217863,2.035276 7.668006,0 C 14.485412,10.480738 7.6254546,0.28801598 7.6254546,0.28801598 Z"
+     style="fill:#f3b7d9;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 7.9633169,1.5254514 c 0,0 -6.561929,8.4388763 -3.670171,11.6170646 1.5228619,1.673704 5.9870391,1.680591 7.4992251,0 C 14.67228,9.9418897 7.9633169,1.5254514 7.9633169,1.5254514 Z"
      id="path4185"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="caac" />

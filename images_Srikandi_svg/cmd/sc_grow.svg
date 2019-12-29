@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_grow.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 19/sc_grow.png"
    inkscape:export-xdpi="90"
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview38"
      showgrid="true"
-     inkscape:zoom="14.75"
+     inkscape:zoom="20.85965"
      inkscape:cx="-0.6779661"
-     inkscape:cy="2.5762712"
+     inkscape:cy="13.054882"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -119,29 +119,29 @@
        id="stop22" />
   </linearGradient>
   <g
-     id="g4183">
-    <g
-       style="fill:#e602b4"
-       id="g24"
-       transform="matrix(.12864448 0 0 .12864448 -.061713 -33.912364)">
-      <path
-         d="m 19.11858,270.01614 -2.940441,2.94044 3.735806,8.99807 a 4.110274,4.110274 0 0 0 4.000927,-1.00425 z m -2.336103,-3.70778 -7.3555686,17.36214 a 28.086634,12.822159 0 0 0 0.7173116,0.0161 0.64386597,0.64386597 0 0 1 0.01729,-0.44959 l 4.915041,-11.75245 a 0.64386597,0.64386597 0 0 1 0.610579,-0.39652 0.64386597,0.64386597 0 0 1 0.577187,0.39413 l 4.86913,11.54257 a 28.086634,12.822159 0 0 0 2.763704,-0.50743 L 16.78963,266.30835 Z m -0.42759,-0.64664 -8.8896118,20.9888 c -1.3107097,3.10581 -2.2657505,5.04327 -2.8641181,5.81259 -0.5698734,0.74082 -1.3800329,1.13605 -2.4342993,1.19305 l 0,0.81545 8.4638102,0 0,-0.81545 c -1.9375708,0 -2.9083051,-0.58317 -2.9083051,-1.75141 0,-0.51289 0.113495,-1.06868 0.3414446,-1.66705 l 2.4905375,-6.05763 10.287526,0 2.141058,5.16184 c 0.541382,1.22522 0.811433,2.18026 0.811435,2.86412 0,0.54138 -0.215316,0.90923 -0.64272,1.10869 -0.427407,0.19948 -1.210196,0.31297 -2.349943,0.34144 l 0,0.81545 10.89811,0 0,-0.81545 c -0.968787,-0.057 -1.681144,-0.29566 -2.137042,-0.72306 -0.455899,-0.4274 -1.023376,-1.42551 -1.707223,-2.99266 L 17.210507,265.66172 Z m -0.68289,6.06968 4.314254,10.39197 -8.588337,0 z"
-         style="fill:#e602b4"
-         id="path30" />
-    </g>
-    <g
-       transform="matrix(0,-0.99934301,0.99934303,0,1.5885852,2.9091571)"
-       id="g4242">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 0.79388021,0.26367188 a 0.26474003,0.26474003 0 0 0 -0.265625,0.265625 l 0,0.26367187 a 0.26474003,0.26474003 0 0 0 0.078125,0.1875 l 0.86914069,0.87109375 -0.1523437,0 a 0.26474003,0.26474003 0 0 0 -0.2656251,0.265625 l 0,0.2636719 a 0.26474003,0.26474003 0 0 0 0.2656251,0.265625 l 1.3222656,0 a 0.26474003,0.26474003 0 0 0 0.265625,-0.265625 l 0,-0.2636719 0,-1.0585937 A 0.26474003,0.26474003 0 0 0 2.6454428,0.79296875 l -0.2636719,0 A 0.26474003,0.26474003 0 0 0 2.1161459,1.0585938 l 0,0.1523437 -0.8710938,-0.86914062 a 0.26474003,0.26474003 0 0 0 -0.1875,-0.078125 z"
-         id="path32"
-         style="fill:#9d3a9b;fill-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 0.79374998,0.52916668 0,0.2645833 1.32291672,1.32291662 -0.79375,0 0,0.2645834 1.3229167,0 0,-0.2645834 0,-1.0583333 -0.2645834,0 0,0.79375 -1.3229167,-1.32291662 z"
-         id="path34-3"
-         style="fill:#e602b4" />
-    </g>
+     transform="matrix(0.12864448,0,0,0.12864448,-0.061713,-33.912364)"
+     id="g24"
+     style="fill:#e602b4">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.49624252px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:2.0567019"
+       x="1.6152256"
+       y="294.35883"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="1.6152256"
+         y="294.35883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:2.0567019;fill:#e602b4">A</tspan></text>
   </g>
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 2.38125,1.8520834 3.8364584,0.39687501"
+     id="path839"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 2.38125,0.39687501 H 3.8364584 V 1.8520834"
+     id="path841"
+     inkscape:connector-curvature="0" />
 </svg>
