@@ -11,11 +11,8 @@
    width="16"
    version="1.1"
    id="svg29"
-   sodipodi:docname="sc_splitwindow.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/ing/Documents/libreeee/3_272 (mba alita)/_SC_PNG/sc_splitwindow.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   sodipodi:docname="sc_splitvertical.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -24,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,23 +40,23 @@
      inkscape:window-height="836"
      id="namedview31"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="25.948081"
-     inkscape:cy="7.9126714"
+     inkscape:zoom="29.5"
+     inkscape:cx="12.017368"
+     inkscape:cy="6.6705591"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg29">
     <inkscape:grid
        type="xygrid"
-       id="grid824"
+       id="grid863"
        spacingx="0.5"
        spacingy="0.5"
        empspacing="2" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
-     gradientTransform="matrix(28 0 0 .1538462 -2925.9737 260.74131)"
+     gradientTransform="matrix(0,2.5,-0.01923078,0,13.016849,-265.07164)"
      gradientUnits="userSpaceOnUse"
      x1="137.25784"
      x2="137.25784"
@@ -76,7 +73,7 @@
   </linearGradient>
   <linearGradient
      id="b"
-     gradientTransform="matrix(.1133598 0 0 .1691546 80.271445 151.92147)"
+     gradientTransform="matrix(0.01416998,0,0,0.02114433,0.08034963,-10.619326)"
      gradientUnits="userSpaceOnUse"
      x1="399.77466"
      x2="399.77466"
@@ -104,10 +101,10 @@
   <rect
      style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect826"
-     width="13"
-     height="8"
+     width="6"
+     height="10"
      x="1.5"
-     y="1.5" />
+     y="4.5" />
   <rect
      y="1.5"
      x="1.5"
@@ -116,10 +113,10 @@
      id="rect828"
      style="opacity:1;fill:#f3b7d9;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     y="9.5"
-     x="1.5"
-     height="5"
-     width="13"
-     id="rect830"
-     style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#9d3a9b;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     y="4.5"
+     x="7.5000005"
+     height="10"
+     width="7"
+     id="rect838"
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
