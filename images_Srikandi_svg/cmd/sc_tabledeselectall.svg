@@ -11,23 +11,23 @@
    height="16"
    width="16"
    version="1.1"
-   id="svg49"
-   sodipodi:docname="sc_show.svg"
+   id="svg51"
+   sodipodi:docname="sc_tabledeselectall.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
-     id="metadata55">
+     id="metadata57">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs53" />
+     id="defs55" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -39,18 +39,18 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="836"
-     id="namedview51"
+     id="namedview53"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-6.7419706"
-     inkscape:cy="9.7311214"
+     inkscape:cx="-6.4703578"
+     inkscape:cy="5.3589451"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg49">
+     inkscape:current-layer="svg51">
     <inkscape:grid
        type="xygrid"
-       id="grid57"
+       id="grid864"
        spacingx="0.5"
        spacingy="0.5"
        empspacing="2" />
@@ -69,7 +69,7 @@
   </linearGradient>
   <linearGradient
      id="b"
-     gradientTransform="matrix(0.13461874,0,0,0.16304754,0.28205138,0.00685025)"
+     gradientTransform="matrix(1.0769499,0,0,1.3043803,2.256411,-0.351998)"
      gradientUnits="userSpaceOnUse"
      x1="46.048"
      x2="46.048"
@@ -86,7 +86,7 @@
   </linearGradient>
   <linearGradient
      id="c"
-     gradientTransform="matrix(0.13461875,0,0,0.16363815,-0.43589763,-3.5312589)"
+     gradientTransform="matrix(1.07695,0,0,1.3091052,-3.487181,-28.656871)"
      gradientUnits="userSpaceOnUse"
      x1="114.6638"
      x2="114.6638"
@@ -104,7 +104,7 @@
   </linearGradient>
   <linearGradient
      id="d"
-     gradientTransform="matrix(0.25,0,0,0.15,-1,-0.14914987)"
+     gradientTransform="matrix(2,0,0,1.2,-8,-1.599999)"
      gradientUnits="userSpaceOnUse"
      x1="8"
      x2="8"
@@ -117,8 +117,7 @@
      x1="67.266975"
      x2="67.266975"
      y1="288.20084"
-     y2="-27.950958"
-     gradientTransform="matrix(0.125,0,0,0.125,0,0.05085)">
+     y2="-27.950958">
     <stop
        offset="0"
        id="stop18" />
@@ -129,7 +128,7 @@
   </linearGradient>
   <linearGradient
      id="f"
-     gradientTransform="matrix(0.25,0,0,0.15,4.0000001,-0.14914987)"
+     gradientTransform="matrix(2,0,0,1.2,32.000001,-1.599999)"
      gradientUnits="userSpaceOnUse"
      x1="8"
      x2="8"
@@ -138,7 +137,7 @@
      y2="108" />
   <linearGradient
      id="g"
-     gradientTransform="matrix(0.25,0,0,0.15,9.0000001,-0.19999988)"
+     gradientTransform="matrix(2,0,0,1.2,72.000001,-5.599999)"
      gradientUnits="userSpaceOnUse"
      x1="8"
      x2="8"
@@ -147,7 +146,7 @@
      y2="108" />
   <linearGradient
      id="h"
-     gradientTransform="matrix(0.25,0,0,0.15,14,-0.14914987)"
+     gradientTransform="matrix(2,0,0,1.2,112,-1.599999)"
      gradientUnits="userSpaceOnUse"
      x1="8"
      x2="8"
@@ -156,7 +155,7 @@
      y2="108" />
   <linearGradient
      id="i"
-     gradientTransform="matrix(0.08620689,0,0,0.19067796,-0.34482763,-0.76435375)"
+     gradientTransform="matrix(0.68965515,0,0,1.5254237,-2.758621,-6.52163)"
      gradientUnits="userSpaceOnUse"
      x1="56"
      x2="56.200001"
@@ -173,40 +172,46 @@
        id="stop28" />
   </linearGradient>
   <path
-     style="fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 1.5,1.5 h 12.999999 v 13 H 1.5 v -13"
+     style="fill:#f0e3ec;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 1.5,1.5 h 13 v 13 h -13 v -13"
      id="path864"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1.5,11.5 h 13"
+     id="path866"
+     inkscape:connector-curvature="0" />
+  <path
      sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
-     id="path859"
-     d="M 1.5,1.4999999 H 14.499999 V 5.4999998 H 1.5 V 1.4999999"
-     style="fill:#9d3a9b;fill-opacity:1;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     id="path888"
+     d="m 1.5,1.5 h 13 v 4 h -13 v -4"
+     style="fill:#f3b7d9;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
      style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 5.5,1.5 v 13"
+     d="m 5.5,5.5 v 9"
      id="path868"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 10.5,1.5 v 13"
+     d="m 10.5,5.5 v 9"
      id="path870"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     id="path856"
-     d="M 14.5,5.4999999 H 1.5"
+     id="path884"
+     d="m 1.5,8.5 h 13"
      style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
      style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 14.5,8.4999999 H 1.5"
-     id="path858"
+     d="m 1.5,5.5 h 13"
+     id="path886"
      inkscape:connector-curvature="0" />
   <path
+     sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
-     id="path860"
-     d="M 14.5,11.500001 H 1.5"
-     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     id="path890"
+     d="m 1.5,1.5 h 13 v 13 h -13 v -13"
+     style="fill:none;stroke:#9d3a9b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:3" />
 </svg>
