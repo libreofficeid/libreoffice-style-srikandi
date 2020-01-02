@@ -1,1 +1,140 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m0 2v2h4v10h2v-10h4v-2zm13 2c-1.656854 0-3 1.3431458-3 3v1h2v-1c0-.5522847.447715-1 1-1s1 .4477153 1 1c0 1.4809922-2.687662 3.568044-4 5.289062v1.710938h6v-2h-3.576172c1.346124-1.377872 3.576172-3 3.576172-5 0-1.6568542-1.343146-3-3-3z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="sc_subtitleparastyle.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs33" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview31"
+     showgrid="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="1.2372485"
+     inkscape:cy="2.295474"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29"
+     inkscape:snap-others="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="170.363534"
+     x2="170.363534"
+     y1="39.851386"
+     y2="33.064191">
+    <stop
+       offset="0"
+       stop-color="#06f"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#80b3ff"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="166.29921"
+     x2="181.41732"
+     y1="-994.51962"
+     y2="-722.39364">
+    <stop
+       offset="0"
+       stop-color="#3b3e22"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#454545"
+       stop-opacity="0"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="51.434889"
+     x2="56.071796"
+     y1="120.331351"
+     y2="13.682455">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop12" />
+    <stop
+       offset="1"
+       id="stop14" />
+  </linearGradient>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="2"
+     y="14"
+     id="text846"><tspan
+       sodipodi:role="line"
+       id="tspan844"
+       x="2"
+       y="14">T</tspan></text>
+  <g
+     aria-label="2"
+     transform="scale(1.0344142,0.96673078)"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.09917164px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+     id="text862">
+    <path
+       d="m 13.067628,12.767578 c 0.629064,0 0.965628,0.281934 0.965628,1.197013 0,0.915079 -0.01566,1.551621 -0.965628,1.551621 H 9.0164307 c -0.9311089,0 -0.8657354,-0.614343 -0.8657354,-1.551621 0,-0.937278 0.1257906,-1.026826 0.3773718,-1.285806 0.8186998,-0.882153 2.0187739,-1.577346 1.8668499,-1.842083 -0.154125,-0.268571 -0.19265,0.213569 -1.210975,0.626379 -0.172989,0.07013 -0.4833654,-0.09246 -0.6789466,-0.454936 -0.1257902,-0.17019 -0.4319943,-1.411349 -0.4319943,-1.6407319 0,-0.1627878 0.022198,-0.2959779 0.066595,-0.3995702 C 8.4443947,8.386551 9.2137521,7.9492336 9.5824884,7.791189 9.9512247,7.6331444 10.448224,7.5914039 10.869992,7.5914039 c 0.547559,0 1.028524,0.092493 1.442893,0.2774793 1.027555,0.58048 1.297273,1.3653535 1.298603,2.2039968 0.0013,0.838643 -0.224625,1.959253 -1.303354,2.694698 z"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Heavy';fill:#e602b4;stroke-width:0.92250371"
+       id="path864"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczcsscsczsczcc" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#f0e3ec;fill-opacity:1;stroke:none"
+     x="9"
+     y="14"
+     id="text850"><tspan
+       sodipodi:role="line"
+       id="tspan848"
+       x="9"
+       y="14"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:'Nunito Bold'">2</tspan></text>
+</svg>
