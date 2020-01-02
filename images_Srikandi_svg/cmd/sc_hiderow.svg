@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_hiderow.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 21/sc_hiderow.png"
    inkscape:export-xdpi="90"
@@ -39,16 +39,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview43"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="9.2649387"
+     inkscape:cx="1.0193545"
      inkscape:cy="6.5917235"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4224">
     <inkscape:grid
        type="xygrid"
        id="grid4175" />
@@ -131,15 +131,16 @@
      id="g4224">
     <rect
        y="2"
-       x="0"
+       x="1"
        height="11"
-       width="16"
+       width="14"
        id="rect4177"
        style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path4220"
-       d="M 10.101562 2 L 0 2 L 0 13 L 4.6191406 13 C 6.1322877 9.9562622 8.7823408 4.6619844 10.101562 2 z "
-       style="opacity:0.484;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 10.101562,2 H 1 V 13 H 5.1618707 C 6.5252244,9.9562622 8.9129366,4.6619844 10.101562,2 Z"
+       style="opacity:0.48399999;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.24999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <rect
        y="3"
        x="1"
@@ -184,42 +185,42 @@
        style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="3"
-       x="11"
+       x="10.999999"
        height="2"
-       width="5"
+       width="3.9999998"
        id="rect4198"
        style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="6"
        x="11"
        height="3"
-       width="5"
+       width="4"
        id="rect4200"
        style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="10"
        x="11"
        height="2"
-       width="5"
+       width="4"
        id="rect4202"
        style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="5"
-       x="0"
+       x="1"
        height="1"
-       width="16"
+       width="14"
        id="rect4204"
        style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="9"
-       x="0"
+       x="1"
        height="1"
-       width="16"
+       width="14"
        id="rect4206"
        style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="6"
-       x="0"
+       x="1"
        height="3"
        width="1"
        id="rect4208"
@@ -248,9 +249,9 @@
        inkscape:connector-curvature="0"
        style="fill:#555555;stroke-width:2" />
     <path
-       d="m 0,1.996411 0,0.7033911 0,10.2966089 5,-1e-6 5.480274,-9.7448128 0.469727,-1.2770997 z"
+       d="M 1,2 V 2.7033911 13 l 4.543379,-10e-7 4.979792,-9.7448128 0.42683,-1.2770997 z"
        id="path39"
        inkscape:connector-curvature="0"
-       style="opacity:0.5699999;fill:#525252" />
+       style="opacity:0.56999966;fill:#525252;stroke-width:1" />
   </g>
 </svg>
