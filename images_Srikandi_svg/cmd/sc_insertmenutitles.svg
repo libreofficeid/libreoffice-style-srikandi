@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertmenutitles.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 5/sc_insertmenutitles.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview51"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -136,76 +136,61 @@
        stop-color="#ffd7d7"
        id="stop23" />
   </linearGradient>
-  <g
-     transform="scale(.125)"
-     id="g25">
-    <path
-       d="m112-120h16v100h-16z"
-       fill="#1975ff"
-       opacity=".99"
-       transform="rotate(90)"
-       id="path27"
-       style="fill:#e602b4" />
-    <path
-       d="m24 8v96h8v-96z"
-       fill="#797979"
-       id="path29"
-       style="fill:#f3b7d9" />
-    <path
-       d="m120 104h-88v-8h88z"
-       fill="#797979"
-       id="path31"
-       style="fill:#f3b7d9" />
-    <rect
-       fill="url(#a)"
-       height="55.999985"
-       rx="6.363961"
-       width="32"
-       x="40"
-       y="40"
-       id="rect33"
-       style="fill:#9d3a9b" />
-    <rect
-       fill="url(#b)"
-       height="40"
-       rx="1.767767"
-       width="16"
-       x="48"
-       y="48"
-       id="rect35"
-       style="fill:#f0e3ec;fill-opacity:1" />
-    <rect
-       fill="url(#d)"
-       height="72"
-       rx="6.363961"
-       width="32"
-       x="80"
-       y="24"
-       id="rect39"
-       style="fill:#9d3a9b" />
-    <rect
-       fill="url(#e)"
-       height="56.000038"
-       rx="1.767767"
-       width="16"
-       x="88"
-       y="32"
-       id="rect41"
-       style="fill:#f0e3ec" />
-    <g
-       fill="#1975ff"
-       id="g45">
-      <path
-         d="m0 4h16v100h-16z"
-         opacity=".99"
-         id="path47"
-         style="fill:#e602b4" />
-      <path
-         d="m0-120h16v80h-16z"
-         opacity=".99"
-         transform="rotate(90)"
-         id="path49"
-         style="fill:#e602b4" />
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.98999999;fill:#e602b4;stroke-width:0.125"
+     id="path27"
+     d="m 15,14 v 1 H 2.5 v -1 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f3b7d9;stroke-width:0.125"
+     id="path29"
+     d="M 3,1 V 13 H 4 V 1 Z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#f3b7d9;stroke-width:0.125"
+     id="path31"
+     d="M 15,13 H 4 v -1 h 11 z" />
+  <rect
+     style="fill:#9d3a9b;stroke-width:0.125"
+     id="rect33"
+     y="5"
+     x="5"
+     width="4"
+     rx="0.79549515"
+     height="6.9999981" />
+  <rect
+     style="fill:#f0e3ec;fill-opacity:1;stroke-width:0.125"
+     id="rect35"
+     y="6"
+     x="6"
+     width="2"
+     rx="0.22097087"
+     height="5" />
+  <rect
+     style="fill:#9d3a9b;stroke-width:0.125"
+     id="rect39"
+     y="3"
+     x="10"
+     width="4"
+     rx="0.79549515"
+     height="9" />
+  <rect
+     style="fill:#f0e3ec;stroke-width:0.125"
+     id="rect41"
+     y="4"
+     x="11"
+     width="2"
+     rx="0.22097087"
+     height="7.0000048" />
+  <path
+     d="M 0.88135593,1 H 2 V 13 H 0.88135593 Z"
+     id="path47"
+     style="opacity:0.98999999;fill:#e602b4;stroke-width:0.125"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 15,0.94915253 V 2 H 5 V 0.94915253 Z"
+     id="path49"
+     style="opacity:0.98999999;fill:#e602b4;stroke-width:0.125"
+     inkscape:connector-curvature="0" />
 </svg>

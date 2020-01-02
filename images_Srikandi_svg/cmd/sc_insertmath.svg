@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertmath.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 5/sc_insertmath.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview32"
      showgrid="true"
      inkscape:zoom="29.5"
@@ -95,20 +95,17 @@
        stop-color="#e1e2e3"
        id="stop20" />
   </radialGradient>
-  <g
-     id="g4172">
-    <rect
-       ry="1"
-       y="1"
-       x="1"
-       height="14"
-       width="14"
-       id="rect4166"
-       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       d="M 12.701206,14 2.9666426,14 8.9709021,7.9787096 2.9666426,2 l 9.6153304,0 0.400285,3.2107899 -0.298084,0 Q 12.59049,4.699788 12.30944,4.222852 12.036907,3.7459207 11.628106,3.3882175 11.219305,3.0219989 10.708305,2.8005687 10.197304,2.5791335 9.6522361,2.5791335 l -3.3129884,0 q -0.1873668,0 -0.2980838,0.085167 -0.1021999,0.076652 -0.1021999,0.1958846 0,0.1362682 0.1362666,0.2725314 l 4.4457074,4.4286735 -4.8630246,4.871544 5.5784246,0 q 0.579135,0 0.962385,-0.425835 0.38325,-0.43435 0.502483,-1.251954 l 0.332152,0 z"
-       id="path30"
-       inkscape:connector-curvature="0"
-       style="fill:#f0e3ec;stroke-width:3.89490604" />
-  </g>
+  <rect
+     style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4166"
+     width="14"
+     height="14"
+     x="1"
+     y="1"
+     ry="1" />
+  <path
+     style="fill:#f0e3ec;stroke:#f0e3ec;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path30"
+     d="M 11.917639,13 H 3.8055028 L 8.8090523,7.9822579 3.8055028,3 h 8.0127752 l 0.333571,2.6756582 H 11.903445 Q 11.825375,5.2498233 11.591167,4.8523766 11.364056,4.4549339 11.023389,4.1568479 10.682721,3.8516657 10.256888,3.6671405 9.8310539,3.4826112 9.3768307,3.4826112 H 6.616007 q -0.156139,0 -0.2484032,0.070972 -0.085167,0.063877 -0.085167,0.1632372 0,0.1135568 0.1135555,0.2271095 L 10.100749,7.6344916 6.0482284,11.694112 h 4.6486866 q 0.482613,0 0.801988,-0.354863 0.319375,-0.361958 0.418736,-1.043295 h 0.276793 z" />
 </svg>

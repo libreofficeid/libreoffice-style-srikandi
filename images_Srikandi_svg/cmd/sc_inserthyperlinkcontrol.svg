@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_inserthyperlinkcontrol.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 5/sc_inserthyperlinkcontrol.png"
    inkscape:export-xdpi="90"
@@ -25,12 +25,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs129" />
+     id="defs129">
+    <linearGradient
+       id="j-3"
+       gradientTransform="matrix(0.14285715,0,0,0.125,-20.810117,-8.0814583)"
+       gradientUnits="userSpaceOnUse"
+       x1="64"
+       x2="64"
+       xlink:href="#f"
+       y1="100"
+       y2="28" />
+    <linearGradient
+       id="linearGradient895">
+      <stop
+         offset="0"
+         stop-color="#c8c8c8"
+         id="stop14-6" />
+      <stop
+         offset="1"
+         stop-color="#e4e4e4"
+         id="stop16-7" />
+    </linearGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -41,11 +62,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview127"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="-1.6745652"
+     inkscape:cx="-1.9349835"
      inkscape:cy="7.0086531"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -329,65 +350,58 @@
        id="rect74" />
   </clipPath>
   <g
-     id="g4857">
-    <rect
-       height="12.727922"
-       rx="1.9722724"
-       ry="2.8284266"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#9d3a9b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-       transform="matrix(-0.70710682,-0.70710675,-0.70710674,0.70710682,0,0)"
-       width="4.2426419"
-       x="-13.43503"
-       y="-6.3639612"
-       id="rect78" />
+     id="g893"
+     transform="translate(-0.0576002,-0.1923987)">
     <rect
        transform="matrix(-0.70710682,-0.70710674,-0.70710674,0.70710682,0,0)"
-       height="12.727922"
-       rx="1.9722723"
+       height="11.297551"
+       rx="1.9722722"
        ry="2.8284259"
-       width="4.2426414"
-       x="-13.435029"
-       y="-6.3639607"
+       width="3.7658513"
+       x="-13.216501"
+       y="-5.3965483"
        id="rect80"
-       style="fill:none;stroke:url(#j);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:none;stroke:url(#j-3);stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
     <rect
        transform="matrix(-0.70710682,-0.70710674,-0.70710674,0.70710682,0,0)"
-       height="12.727922"
-       rx="1.7677672"
+       height="11.297551"
+       rx="1.7677671"
        ry="2.828428"
-       width="4.2426414"
-       x="-13.435029"
-       y="-6.3639607"
+       width="3.7658513"
+       x="-13.216501"
+       y="-5.3965483"
        id="rect82"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f3b7d9;stroke-width:1.50000012;stroke-linecap:round;stroke-linejoin:round" />
+       style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:1.50000012;stroke-linecap:round;stroke-linejoin:round" />
     <g
+       style="fill:#f3b7d9;stroke-width:1.12660885"
        id="y"
-       transform="matrix(-0.08838835,-0.08838834,-0.08838834,0.08838835,19.386931,8.5303294)">
+       transform="matrix(-0.07845522,-0.07845521,-0.07845521,0.07845522,17.942956,8.6631297)">
       <rect
+         ry="1.6421758"
          height="47.53912"
-         rx="1.4576271"
-         style="opacity:1;fill:#9d3a9b;stroke:#9d3a9b;stroke-width:16.00000191;stroke-linecap:round;stroke-linejoin:round"
+         rx="1.6421758"
+         style="opacity:1;fill:#f3b7d9;stroke:#9d3a9b;stroke-width:18.02574348;stroke-linecap:round;stroke-linejoin:round"
          width="4"
          x="64"
          y="-15.539103"
          id="rect85" />
       <rect
          height="48.485287"
-         rx="2.7841055"
-         ry="3.9999969"
+         rx="3.1365981"
+         ry="4.5064321"
          width="7.9999962"
          x="62.000004"
          y="-18.024403"
          id="rect89"
-         style="fill:#e602b4" />
+         style="fill:#f3b7d9;stroke-width:1.12660885" />
     </g>
     <use
        height="128"
-       transform="matrix(-1,0,0,-1,16.499998,16)"
+       transform="rotate(180,8.0576002,8.1923987)"
        width="128"
        xlink:href="#y"
        id="use91"
-       style="fill:#e602b4"
+       style="fill:#e602b4;stroke-width:1.12660885"
        x="0"
        y="0" />
   </g>

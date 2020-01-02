@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertobjectfloatingframe.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 6/sc_insertobjectfloatingframe.png"
    inkscape:export-xdpi="90"
@@ -40,16 +40,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-3.2542373"
+     inkscape:zoom="29.5"
+     inkscape:cx="8.4887157"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4151">
     <inkscape:grid
        type="xygrid"
        id="grid4147" />
@@ -75,22 +75,21 @@
     <rect
        ry="0.26458335"
        rx="0.26458359"
-       y="0"
-       x="0"
-       height="3.96875"
-       width="4.2333336"
+       y="0.39687499"
+       x="0.39687499"
+       height="3.4395835"
+       width="3.4395833"
        id="rect4149"
-       style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       style="fill:#f0e3ec;fill-opacity:1;opacity:1"
+       style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke-width:1.22474742"
        id="g9"
-       transform="matrix(.125 0 0 .125 -.000129 -32.891665)">
+       transform="matrix(0.10714226,0,0,0.09722235,0.30239997,-25.023878)">
       <path
-         opacity=".628019"
-         fill="#f4f4f4"
-         style="fill:#f0e3ec;fill-opacity:1"
+         style="opacity:0.62801897;fill:#f0e3ec;fill-opacity:1;stroke-width:1.4288801"
          id="path13"
-         d="m2.1177013 273.71667h29.6333327l-.001034 19.04998h-29.633333z" />
+         d="M 2.1177013,273.71667 H 31.751034 L 31.75,292.76665 H 2.116667 Z"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
