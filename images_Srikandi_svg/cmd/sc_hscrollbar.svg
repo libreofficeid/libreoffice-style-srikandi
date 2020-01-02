@@ -13,7 +13,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_hscrollbar.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 21/sc_hscrollbar.png"
    inkscape:export-xdpi="90"
@@ -41,10 +41,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview77"
      showgrid="true"
-     inkscape:zoom="41.7193"
+     inkscape:zoom="20.85965"
      inkscape:cx="11.491998"
      inkscape:cy="8.9627241"
      inkscape:window-x="0"
@@ -157,103 +157,61 @@
      y1="64"
      y2="64" />
   <g
-     id="g4233">
+     id="g867"
+     transform="matrix(0,-1,-1,0,19,15.5)">
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       height="16"
-       rx="2"
-       ry="2"
-       width="10"
-       x="3"
-       id="rect33"
-       style="fill:#9d3a9b"
-       y="-16" />
-    <rect
-       transform="matrix(0,1,-1,0,0,0)"
        height="14"
-       rx="2"
-       ry="2"
+       rx="1.8439428"
+       ry="1.7083496"
        width="8"
-       x="4"
-       y="-15"
-       id="rect35"
-       style="fill:#f3b7d9" />
+       x="3.5"
+       id="rect29"
+       style="fill:#e602b4;stroke-width:0.125"
+       y="4" />
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
        height="12"
+       rx="1.6134499"
+       ry="1.4948059"
+       width="5.9999995"
+       x="4.5"
+       y="5"
+       id="rect31"
+       style="fill:#f0e3ec;stroke-width:0.12499999" />
+    <rect
+       height="10.5"
        rx="1.2345545"
        ry="1.2782941"
-       width="6"
-       x="5"
-       y="-14"
-       id="rect37"
-       style="fill:#f0e3ec" />
-    <g
-       transform="matrix(0,0.125,-0.125,0,16,0)"
-       id="g47"
-       style="fill:#9d3a9b">
-      <path
-         style="fill:#9d3a9b"
-         d="m 56,16 16,0 0,12 -16,0 z"
-         id="path49"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#9d3a9b"
-         d="m 48,28 8,0 0,12 -8,0 z"
-         id="path51"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#9d3a9b"
-         d="m 72,28 8,0 0,12 -8,0 z"
-         id="path53"
-         inkscape:connector-curvature="0" />
-    </g>
+       width="4.8000002"
+       x="5.0999999"
+       y="5.75"
+       id="rect33"
+       style="fill:#f3b7d9;stroke-width:0.125" />
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       height="6"
-       ry="1"
-       width="8"
-       x="4"
-       y="-11"
-       id="rect55"
-       style="fill:#e602b4" />
-    <g
-       transform="matrix(0,0.125,0.125,0,-1.5333014,0)"
-       id="g65"
-       style="fill:#9d3a9b">
-      <path
-         style="fill:#9d3a9b"
-         d="m 56,28.266411 16,0 0,8 -16,0 z"
-         id="path67"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#9d3a9b"
-         d="m 48,36.266411 8,0 0,12 -8,0 z"
-         id="path69"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#9d3a9b"
-         d="m 72,36.266411 8,0 0,12 -8,0 z"
-         id="path71"
-         inkscape:connector-curvature="0" />
-    </g>
+       rx="0.54127938"
+       height="5.25"
+       ry="0.54127938"
+       width="6.4000001"
+       x="4.3000002"
+       y="8.375"
+       id="rect51"
+       style="fill:#9d3a9b;stroke-width:0.125" />
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       height="4"
+       rx="0.43302348"
+       height="3.5"
        ry="0.43302351"
-       width="6"
-       x="5"
-       y="-10"
-       id="rect73"
-       style="fill:#f3b7d9" />
+       width="4.8000002"
+       x="5.0999999"
+       y="9.25"
+       id="rect69"
+       style="fill:#f0e3ec;stroke-width:0.125" />
     <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       height="2"
+       rx="0.21651174"
+       height="1.75"
        ry="0.21651176"
-       width="4"
-       x="6"
-       y="-9"
-       id="rect75"
-       style="fill:#f0e3ec" />
+       width="3.2"
+       x="5.9000001"
+       y="10.125"
+       id="rect71"
+       style="fill:#e602b4;stroke-width:0.125" />
   </g>
 </svg>
