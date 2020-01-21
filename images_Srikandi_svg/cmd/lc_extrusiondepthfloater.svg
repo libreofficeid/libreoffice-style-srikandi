@@ -1,1 +1,23 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m2 8v6h6.8222656l-2.5097656-2.28125c-.18267-.19029-.3125-.427818-.3125-.71875v-1h.4140625.5859375c.30945 0 .55232.0903.75.28125l5.25 4.71875-5.25 4.71875c-.19768.19095-.44055.28125-.75.28125h-.5859375-.4140625v-1c0-.25689.12983-.52845.3125-.71875l2.5097656-2.28125h-6.8222656v6h20v-14z"/><path d="m5 2-3 6h20l-3-6z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 7.5 0 L 3 6 L 21 6 L 16.5 0 Z M 7.5 0 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 3 6 L 3 13.5 L 10.234375 13.5 L 7.96875 11.578125 C 7.695312 11.292969 7.5 10.886719 7.5 10.5 L 7.5 9 L 9 9 C 9.464844 9 9.828125 9.136719 10.125 9.421875 L 16.5 15 C 14.375 16.609375 12.25 18.96875 10.125 20.578125 C 9.828125 20.863281 9.464844 21 9 21 L 7.5 21 L 7.5 19.5 C 7.5 19.113281 7.695312 18.707031 7.96875 18.421875 L 10.234375 16.5 L 3 16.5 L 3 24 L 21 24 L 21 6 Z M 3 6 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>

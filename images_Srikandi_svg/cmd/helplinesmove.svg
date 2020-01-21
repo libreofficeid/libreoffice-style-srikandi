@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 6 2 L 26 2 C 27.105469 2 28 2.894531 28 4 L 28 28 C 28 29.105469 27.105469 30 26 30 L 6 30 C 4.894531 30 4 29.105469 4 28 L 4 4 C 4 2.894531 4.894531 2 6 2 Z M 6 2 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 8 4 L 24 4 C 25.105469 4 26 4.894531 26 6 L 26 26 C 26 27.105469 25.105469 28 24 28 L 8 28 C 6.894531 28 6 27.105469 6 26 L 6 6 C 6 4.894531 6.894531 4 8 4 Z M 8 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 9.984375 2 L 12 2 L 12 30 L 9.984375 30 Z M 9.984375 2 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 20.050781 2 L 22 2 L 22 30 L 20.050781 30 Z M 20.050781 2 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 4 10 L 26 10 L 26 12.21875 L 4 12.21875 Z M 4 10 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 4 20 L 26 20 L 26 22 L 4 22 Z M 4 20 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 10 10 L 22 10 L 22 12.21875 L 10 12.21875 Z M 10 10 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 10 11 L 12 11 L 12 22 L 10 22 Z M 10 11 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 20 11 L 22 11 L 22 22 L 20 22 Z M 20 11 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 11 20.050781 L 21 20.050781 L 21 22 L 11 22 Z M 11 20.050781 "/>
+</g>
+</svg>

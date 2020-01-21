@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="12.000168" y1="6.999831" x2="-3.999832" y2="6.999831" gradientTransform="matrix(2,0,0,2,-0.000000202386,-0.000000439077)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.397158" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.799705" style="stop-color:rgb(94.509804%,94.509804%,94.509804%);stop-opacity:1;"/>
+<stop offset="0.902344" style="stop-color:rgb(91.764706%,91.764706%,91.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(87.450981%,87.450981%,87.450981%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1.153309;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 15.492967 11.252475 L 12.281735 8.443024 L 12.281735 10.316743 L 7.999341 10.316743 L 7.999341 7.505037 L 0.505715 7.505037 L 0.505715 14.999913 L 7.999341 14.999913 L 7.999341 12.190462 L 12.281735 12.190462 L 12.281735 14.064181 Z M 15.492967 11.252475 " transform="matrix(1.73585,0,0,1.732434,2.114342,3.001927)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 9.058594 3 L 3.851562 8.199219 L 7.320312 8.199219 L 7.320312 15.128906 L 10.792969 15.128906 L 10.792969 8.199219 L 14.265625 8.199219 Z M 9.058594 3 "/>
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1.153309;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 4.252528 0.0056519 L 1.441856 3.216453 L 3.316388 3.216453 L 3.316388 7.500528 L 0.505715 7.500528 L 0.505715 14.995403 L 7.999341 14.995403 L 7.999341 7.500528 L 5.188669 7.500528 L 5.188669 3.216453 L 7.063201 3.216453 Z M 4.252528 0.0056519 " transform="matrix(1.73585,0,0,1.732434,2.114342,3.001927)"/>
+</g>
+</svg>

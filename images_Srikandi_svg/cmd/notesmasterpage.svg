@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 26 4 L 26 28 C 26.152344 30.140625 26.007812 30 24 30 L 8.066406 30 C 5.894531 30.148438 6 30.050781 6 28 L 6 4 C 5.824219 1.789062 6.078125 2 8.136719 2 L 23.933594 2 C 26.105469 1.851562 26 1.949219 26 4 Z M 26 4 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:0.950495;" d="M 9 4 L 23 4 C 23.550781 4 24 4.449219 24 5 L 24 11 C 24 11.550781 23.550781 12 23 12 L 9 12 C 8.449219 12 8 11.550781 8 11 L 8 5 C 8 4.449219 8.449219 4 9 4 Z M 9 4 "/>
+<path style="fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.190625 2.248958 L 3.042708 2.248958 " transform="matrix(7.559055,0,0,7.559055,0.00000180222,0)"/>
+<path style="fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.190625 2.778125 L 2.778125 2.778125 " transform="matrix(7.559055,0,0,7.559055,0.00000180222,0)"/>
+<path style="fill:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.190625 3.307292 L 2.489254 3.307292 " transform="matrix(7.559055,0,0,7.559055,0.00000180222,0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:0.950495;" d="M 11 6 L 21 6 C 21.550781 6 22 6.449219 22 7 L 22 9 C 22 9.550781 21.550781 10 21 10 L 11 10 C 10.449219 10 10 9.550781 10 9 L 10 7 C 10 6.449219 10.449219 6 11 6 Z M 11 6 "/>
+</g>
+</svg>

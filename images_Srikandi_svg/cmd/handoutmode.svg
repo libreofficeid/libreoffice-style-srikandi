@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style="fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.322917 0.396875 L 2.910417 0.396875 C 3.129525 0.396875 3.307292 0.574642 3.307292 0.79375 L 3.307292 3.439584 C 3.307292 3.658692 3.129525 3.836459 2.910417 3.836459 L 1.322917 3.836459 C 1.103808 3.836459 0.926041 3.658692 0.926041 3.439584 L 0.926041 0.79375 C 0.926041 0.574642 1.103808 0.396875 1.322917 0.396875 Z M 1.322917 0.396875 " transform="matrix(7.559055,0,0,7.559055,0.00000180222,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 10 6 L 22 6 C 23.105469 6 24 6.894531 24 8 L 24 24 C 24 25.105469 23.105469 26 22 26 L 10 26 C 8.894531 26 8 25.105469 8 24 L 8 8 C 8 6.894531 8.894531 6 10 6 Z M 10 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 10 8 L 14 8 L 14 12 L 10 12 Z M 10 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 18 8 L 22 8 L 22 12 L 18 12 Z M 18 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 10 14 L 14 14 L 14 18 L 10 18 Z M 10 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 18 14 L 22 14 L 22 18 L 18 18 Z M 18 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 10 20 L 14 20 L 14 24 L 10 24 Z M 10 20 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;" d="M 18 20 L 22 20 L 22 24 L 18 24 Z M 18 20 "/>
+</g>
+</svg>
