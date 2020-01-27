@@ -1,1 +1,110 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m8 4c-4.418278 0-8 3.581722-8 8v1h5v-1c0-1.656854 1.3431458-3 3-3s3 1.343146 3 3v1h5v-1c0-4.418278-3.581722-8-8-8zm0 2c2.981747 0 5.313942 2.1669145 5.800781 5h-1.005859c-.482976-2.2511794-2.410816-4-4.794922-4-2.3841058 0-4.3119459 1.7488206-4.7949219 4h-1.0058593c.4868396-2.8330855 2.8190341-5 5.8007812-5z"/><path d="m4 6-3 4 2 2 3-4h4l2.508475 4h2.491525l-2-4-2-2z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   viewBox="0 0 16 16"
+   width="16"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="sc_fontworkshapetype.fontwork-arch-up-pour.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview28"
+     showgrid="true"
+     inkscape:zoom="59"
+     inkscape:cx="7.2750311"
+     inkscape:cy="8.6475535"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="-9.1733627"
+     x2="-18.346725"
+     y1="57.11998"
+     y2="50.23996"
+     gradientTransform="matrix(0.10901128,0,0,0.10901128,1,4.0232777)">
+    <stop
+       offset="0"
+       stop-color="#7c9ece"
+       id="stop4" />
+    <stop
+       offset="1"
+       stop-color="#7b9dcf"
+       id="stop6" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="72"
+     x2="72"
+     y1="64"
+     y2="-28"
+     gradientTransform="matrix(0.125,0,0,0.125,0,4)">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop9" />
+    <stop
+       offset=".53340602"
+       stop-color="#fff"
+       id="stop11" />
+    <stop
+       offset=".9375"
+       stop-color="#f1f1f1"
+       id="stop13" />
+    <stop
+       offset=".96875"
+       stop-color="#eaeaea"
+       id="stop15" />
+    <stop
+       offset="1"
+       stop-color="#dfdfdf"
+       id="stop17" />
+  </linearGradient>
+  <path
+     style="fill:#e602b4;fill-opacity:1;stroke-width:0.125"
+     d="M 7.9767221,4.0232777 C 4.1235848,4.0232777 0.5,7 1,11 H 5 C 4.9999999,9.0734313 6.0501534,7.5116387 7.9767221,7.5116388 9.9032903,7.5116394 11,9.0734318 11,11 h 3.953444 C 15.5,7 11.829859,4.0232778 7.9767221,4.0232777 Z M 8,5 c 3.031868,0.00359 5.566878,1.9992269 6,5 H 12 C 11.585882,7.9712399 10.070594,6.5018428 8,6.5 5.9281261,6.5002246 4.4143746,7.9699864 4,10 H 2 C 2.4332151,6.9985875 4.9674854,5.0027417 8,5 Z"
+     id="path20"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccsccsccccccc" />
+</svg>
