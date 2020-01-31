@@ -13,7 +13,7 @@
         <lo:LibreOffice-minimal-version d:name="LibreOffice 6.0" value="6.0"/>
     </dependencies>
     <publisher>
-	    <name xlink:href="https://example.com">Nama Di Sini</name>
+	    <name xlink:href="https://github.com/libreofficeid/libreoffice-style-srikandi">LibreOffice ID</name>
     </publisher>
     <icon>
         <default xlink:href="icons/Srikandi-Theme.png"/>
