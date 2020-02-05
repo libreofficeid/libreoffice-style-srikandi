@@ -13,7 +13,7 @@
    version="1.1"
    id="svg29"
    sodipodi:docname="sc_defaultbullet.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -37,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview31"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="7.5240723"
-     inkscape:cy="7.3416819"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="7.7913493"
+     inkscape:cy="9.3353193"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg29">
     <inkscape:grid
        type="xygrid"
-       id="grid37" />
+       id="grid842" />
   </sodipodi:namedview>
   <linearGradient
      id="a"
@@ -69,65 +69,52 @@
        id="stop4" />
   </linearGradient>
   <g
-     id="g855">
-    <g
-       style="fill:#404040;fill-opacity:0.83921599"
-       id="g15"
-       transform="matrix(-0.125,0,0,0.125,0,-32.89166)">
-      <path
-         style="fill:#9d3a9b"
-         inkscape:connector-curvature="0"
-         id="path7"
-         d="m -31.856726,269.48331 h 17.04006 v 2.1167 h -17.04006 z" />
-      <path
-         style="fill:#9d3a9b"
-         inkscape:connector-curvature="0"
-         id="path9"
-         d="m -27.516666,273.71664 h 12.699999 v 2.11669 h -12.699999 z" />
-      <path
-         style="fill:#9d3a9b"
-         inkscape:connector-curvature="0"
-         id="path11"
-         d="m -31.856724,284.29999 h 17.04006 v 2.1167 h -17.04006 z" />
-      <path
-         style="fill:#9d3a9b"
-         inkscape:connector-curvature="0"
-         id="path13"
-         d="m -27.516665,288.53333 h 12.699999 v 2.11669 h -12.699999 z" />
-    </g>
-    <g
-       id="g21"
-       transform="matrix(0.125,0,0,0.125,0.027155,-32.911224)">
-      <circle
-         style="fill:none;stroke:#e602b4;stroke-width:5.88383007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="circle17"
-         transform="scale(1,-1)"
-         r="1.470957"
-         cy="-272.99435"
-         cx="6.6317101" />
-      <circle
-         style="fill:#f3b7d9"
-         id="circle19"
-         r="1.470957"
-         cy="272.99435"
-         cx="6.6317101" />
-    </g>
-    <g
-       id="g27"
-       transform="matrix(0.125,0,0,0.125,0.02905,-31.059139)">
-      <circle
-         style="fill:none;stroke:#e602b4;stroke-width:5.88383007;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         id="circle23"
-         transform="scale(1,-1)"
-         r="1.470957"
-         cy="-272.99435"
-         cx="6.6317101" />
-      <circle
-         style="fill:#f3b7d9"
-         id="circle25"
-         r="1.470957"
-         cy="272.99435"
-         cx="6.6317101" />
-    </g>
+     fill="#404040"
+     fill-opacity=".839216"
+     transform="matrix(-.125 0 0 .125 0 -32.89166)"
+     id="g15"
+     style="fill:#9d3a9b">
+    <path
+       d="m-31.856726 269.48331h17.04006v2.116696h-17.04006z"
+       id="path7"
+       style="fill:#9d3a9b" />
+    <path
+       d="m-27.516666 273.71664h12.699999v2.116692h-12.699999z"
+       id="path9"
+       style="fill:#9d3a9b" />
+    <path
+       d="m-31.856724 284.29999h17.04006v2.116696h-17.04006z"
+       id="path11"
+       style="fill:#9d3a9b" />
+    <path
+       d="m-27.516665 288.53333h12.699999v2.116692h-12.699999z"
+       id="path13"
+       style="fill:#9d3a9b" />
   </g>
+  <circle
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.73547876;stroke-linecap:round;stroke-linejoin:round"
+     id="circle17"
+     transform="scale(1,-1)"
+     r="0.18386963"
+     cy="-1.2130703"
+     cx="0.85611874" />
+  <circle
+     style="fill:#f3b7d9;stroke-width:0.125"
+     id="circle19"
+     r="0.18386963"
+     cy="1.2130703"
+     cx="0.85611874" />
+  <circle
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.73547876;stroke-linecap:round;stroke-linejoin:round"
+     id="circle23"
+     transform="scale(1,-1)"
+     r="0.18386963"
+     cy="-3.0651553"
+     cx="0.85801375" />
+  <circle
+     style="fill:#f3b7d9;stroke-width:0.125"
+     id="circle25"
+     r="0.18386963"
+     cy="3.0651553"
+     cx="0.85801375" />
 </svg>
