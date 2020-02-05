@@ -13,7 +13,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="sc_defaultcharstyle.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,21 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview18"
-     showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="9.3595017"
-     inkscape:cy="6.3964879"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8.2550332"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16">
-    <inkscape:grid
-       type="xygrid"
-       id="grid829" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg16" />
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -85,10 +80,15 @@
        stop-opacity="0"
        id="stop9" />
   </linearGradient>
-  <path
-     d="m4.0154652 3.871789v.096961h-1.4014288v-.096961q.2198319-.0051.3022689-.040826.082437-.035722.082437-.1326838 0-.1224788-.1044202-.3419178l-.2253278-.4899105h-1.439899l-.25280675.5970789q-.0439664.1071679-.0439664.1990265 0 .2092327.37371425.2092327v.096961h-1.08816805v-.096961q.20334455-.0102076.31326051-.1428903.11541178-.1377871.36821851-.6940406l1.14312603-2.50569143h.1099159l1.368454 2.89864093q.1318991.2806782.2198318.3572272.087933.076548.2747901.086754zm-2.6929414-1.2145708h1.2695294l-.6375126-1.4033919z"
-     fill="url(#a)"
-     stroke-width=".125813"
-     id="path12"
-     style="fill:#9d3a9b;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.26458335;"
+     x="0.59194875"
+     y="3.6055086"
+     id="text831"><tspan
+       sodipodi:role="line"
+       id="tspan829"
+       x="0.59194875"
+       y="3.6055086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.26458335;fill:#9d3a9b;">A</tspan></text>
 </svg>
