@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview38"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:cx="1.6112282"
+     inkscape:cy="17.037924"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg36" />
+     inkscape:current-layer="svg36">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(.9792 0 0 .9725 133.0002 20.8762)"
@@ -116,31 +120,71 @@
        id="stop21" />
   </linearGradient>
   <rect
-     fill="url(#a)"
-     height="10"
-     rx="1.5"
-     stroke-width=".25"
-     width="16"
+     ry="1.5000001"
+     x="1.0000001"
+     style="fill:#e602b4;stroke-width:0.24999999"
+     id="rect835"
      y="3"
+     width="14"
+     rx="1.5"
+     height="10.000001" />
+  <rect
+     height="8"
+     rx="1.5"
+     width="12"
+     y="3.9999998"
      id="rect24"
-     style="fill:#9d3a9b" />
-  <path
-     d="m1 4h14v8h-14z"
-     fill="#fff"
-     id="path26"
-     style="fill:#f0e3ec" />
+     style="fill:#f3b7d9;stroke-width:0.24999999"
+     x="2"
+     ry="1.5" />
   <g
-     fill="#4d4d4d"
-     stroke-width=".209715"
      id="g34"
-     style="fill:#e602b4">
-    <path
-       d="m3.2622173 4.918039v5.427412h3.0198892v.687864h-3.8000273v-6.115276z"
-       id="path30"
-       style="fill:#e602b4" />
-    <path
-       d="m11.982147 4.918039v6.115276h-.880801l-3.1624947-4.9576518v4.9576518h-.7381952v-6.115276h.8472467l3.1960492 4.9995944v-4.9995944z"
-       id="path32"
-       style="fill:#e602b4" />
+     style="fill:#9d3a9b;stroke-width:0.20971499"
+     transform="translate(-21.56125,-2.887052)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.08611822px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.20971499"
+       x="25.032999"
+       y="13.384909"
+       id="text831"><tspan
+         sodipodi:role="line"
+         id="tspan829"
+         x="25.032999"
+         y="13.384909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:1.18380749">LN</tspan></text>
+  </g>
+  <rect
+     height="10.000001"
+     rx="1.5"
+     width="14"
+     y="2.9999995"
+     id="rect837"
+     style="fill:#e602b4;stroke-width:0.24999999"
+     x="1"
+     ry="1.5000001" />
+  <rect
+     ry="1.5"
+     x="2"
+     style="fill:#f3b7d9;stroke-width:0.24999999"
+     id="rect839"
+     y="4"
+     width="12"
+     rx="1.5"
+     height="8" />
+  <g
+     transform="translate(-21.56125,-2.887052)"
+     style="fill:#9d3a9b;stroke-width:0.20971499"
+     id="g845">
+    <text
+       id="text843"
+       y="13.384909"
+       x="25.032999"
+       style="font-style:normal;font-weight:normal;font-size:7.08611822px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.20971499"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:1.18380749"
+         y="13.384909"
+         x="25.032999"
+         id="tspan841"
+         sodipodi:role="line">LN</tspan></text>
   </g>
 </svg>

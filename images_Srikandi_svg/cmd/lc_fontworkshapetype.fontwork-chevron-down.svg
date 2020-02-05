@@ -1,1 +1,23 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m2 2h1l9 5.7 9-5.7h1v14.5l-10 6.5-10-6.5zm2 2.8v10.732422l8 5.175781 8-5.175781v-10.732422l-8 5.2z"/><path d="m4 4h1.3339844l6.6660156 5 6.666016-5h1.333984v12l-8 6-8-6z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 17.941406 3.503906 L 17.941406 15.804688 L 11.941406 21.804688 L 5.941406 15.804688 L 5.941406 3.503906 L 11.941406 9.054688 Z M 17.941406 3.503906 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 19.441406 0.0742188 L 16.925781 2.402344 L 11.945312 7.011719 L 4.445312 0.0742188 L 4.445312 16.425781 L 11.945312 23.925781 L 19.445312 16.425781 Z M 16.441406 6.933594 L 16.441406 15.183594 L 11.941406 19.683594 L 7.441406 15.183594 L 7.441406 6.933594 L 11.941406 11.097656 Z M 16.441406 6.933594 "/>
+</g>
+</svg>

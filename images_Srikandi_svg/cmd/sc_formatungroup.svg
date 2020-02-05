@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_formatungroup.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 12/sc_formatungroup.png"
    inkscape:export-xdpi="90"
@@ -41,7 +41,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview81"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -195,7 +195,7 @@
      id="use48"
      xlink:href="#i"
      width="100%"
-     transform="translate(-10,0)"
+     transform="translate(-9)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -204,7 +204,7 @@
      id="use50"
      xlink:href="#i"
      width="100%"
-     transform="translate(-15,4)"
+     transform="translate(-13,3)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -213,7 +213,7 @@
      id="use52"
      xlink:href="#i"
      width="100%"
-     transform="translate(-15,15)"
+     transform="translate(-13,13)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -222,7 +222,7 @@
      id="use54"
      xlink:href="#i"
      width="100%"
-     transform="translate(-4,15)"
+     transform="translate(-3,13)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <use
@@ -231,53 +231,54 @@
      id="use56"
      xlink:href="#i"
      width="100%"
-     transform="translate(0,10)"
+     transform="translate(0,9)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
   <rect
-     height="10"
+     height="8"
      rx="0.3401486"
      ry="0.39559826"
      transform="matrix(0,1,1,0,0,0)"
-     width="10"
-     x="5"
-     y="1.0000001"
-     id="rect62"
-     style="opacity:1;fill:#9e3a9c;fill-opacity:1" />
-  <rect
-     style="fill:#f0e3ec;fill-rule:evenodd;fill-opacity:1"
-     id="rect66"
-     y="2"
-     x="6"
      width="8"
+     x="6"
+     y="2"
+     id="rect62"
+     style="opacity:1;fill:#e602b4;fill-opacity:1;stroke-width:1" />
+  <rect
+     style="fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke-width:0.99999988"
+     id="rect66"
+     y="3"
+     x="7"
+     width="5.9999995"
      transform="matrix(0,1,1,0,0,0)"
      ry="0.1904733"
      rx="0.15824644"
-     height="8" />
+     height="6" />
   <circle
-     style="fill:#9e3a9c;fill-opacity:1"
+     style="fill:#e602b4;fill-opacity:1;stroke-width:1"
      id="circle70"
-     r="5.1230168"
+     r="4.4450507"
      cy="5.4998608"
      cx="10.500139" />
+  <ellipse
+     cx="10.500916"
+     cy="5.4998603"
+     id="circle75"
+     style="fill:#f0e3ec;fill-opacity:1;stroke-width:0.99999988"
+     rx="3.5997097"
+     ry="3.5319126" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#9e3a9c;fill-opacity:1"
-     d="m 15,0 1,0 0,1 -1,0 z"
+     d="m 14,1 h 1 v 1 h -1 z"
      id="i" />
-  <circle
-     cx="10.501035"
-     cy="5.4998603"
-     r="4.305017"
-     id="circle75"
-     style="fill:#e601b4;fill-opacity:1" />
   <use
      y="0"
      x="0"
      id="use79"
      xlink:href="#i"
      width="100%"
-     transform="translate(-10,10)"
+     transform="translate(-9,9)"
      height="100%"
      style="fill:#9e3a9c;fill-opacity:1" />
 </svg>

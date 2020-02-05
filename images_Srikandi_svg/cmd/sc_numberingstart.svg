@@ -44,7 +44,7 @@
      id="namedview48"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="-3.3898305"
+     inkscape:cx="4.4877265"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -89,12 +89,12 @@
        id="stop9" />
   </linearGradient>
   <g
-     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans';fill:#f3b7d9"
+     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans';fill:#f3b7d9;stroke-width:1.13416493"
      id="g20"
-     transform="translate(0.01590585,-293.55448)"
+     transform="matrix(0.86133639,0,0,0.90255734,0.32007091,-264.87298)"
      font-size="3.175">
     <text
-       style="fill:#e602b4;stroke:#e602b4;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:#e602b4;stroke:#e602b4;stroke-width:0.60016263;stroke-linejoin:round;stroke-opacity:1"
        id="text14"
        y="301.86154"
        x="0.199002"
@@ -103,15 +103,15 @@
          id="tspan12"
          y="301.86154"
          x="0.199002"
-         style="font-weight:bold;font-size:1.566113px;font-family:'Liberation Sans';fill:#e602b4;stroke:#e602b4;stroke-width:0.529167;stroke-linejoin:round;stroke-opacity:1">2</tspan>
+         style="font-weight:bold;font-size:1.566113px;font-family:'Liberation Sans';fill:#e602b4;stroke:#e602b4;stroke-width:0.60016263;stroke-linejoin:round;stroke-opacity:1">2</tspan>
     </text>
     <text
-       style="fill:#f3b7d9;stroke-width:0.26458299"
+       style="fill:#f3b7d9;stroke-width:0.30008075"
        id="text18"
        y="295.41248"
        x="0.230221">
       <tspan
-         style="font-weight:bold;font-size:1.53265405px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.26458299"
+         style="font-weight:bold;font-size:1.53265405px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.30008075"
          id="tspan16"
          y="295.41248"
          x="0.230221"
@@ -120,12 +120,12 @@
     </text>
   </g>
   <g
-     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans'"
+     style="font-size:3.17499995px;font-family:'Bitstream Vera Sans';stroke-width:1.13416493"
      id="g30"
-     transform="translate(0.002032,-290.39134)"
+     transform="matrix(0.86133639,0,0,0.90255734,0.30812085,-261.96426)"
      font-size="3.175">
     <text
-       style="stroke:#e602b4;stroke-width:0.529167;stroke-linejoin:round;"
+       style="stroke:#e602b4;stroke-width:0.60016263;stroke-linejoin:round"
        id="text24"
        y="301.0433"
        x="0.161633"
@@ -134,15 +134,15 @@
          id="tspan22"
          y="301.0433"
          x="0.161633"
-         style="font-weight:bold;font-size:1.57467401px;font-family:'Liberation Sans';stroke:#e602b4;stroke-width:0.529167;stroke-linejoin:round;">1</tspan>
+         style="font-weight:bold;font-size:1.57467401px;font-family:'Liberation Sans';stroke:#e602b4;stroke-width:0.60016263;stroke-linejoin:round">1</tspan>
     </text>
     <text
-       style="fill:#f3b7d9;stroke-width:0.26458299;"
+       style="fill:#f3b7d9;stroke-width:0.30008075"
        id="text28"
        y="294.08957"
        x="0.194607">
       <tspan
-         style="font-weight:bold;font-size:1.53830099px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.26458299;"
+         style="font-weight:bold;font-size:1.53830099px;font-family:'Liberation Sans';fill:#f3b7d9;stroke-width:0.30008075"
          id="tspan26"
          y="294.08957"
          x="0.194607"
@@ -151,16 +151,16 @@
     </text>
   </g>
   <g
-     style="fill:#9d3a9b;fill-opacity:0.83921599;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+     style="fill:#9d3a9b;fill-opacity:0.95049506;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
      transform="matrix(-0.125,0,0,0.125,0,-32.89168)"
      id="g40">
     <path
-       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;fill-opacity:0.95049506"
        d="m -31.749998,284.30007 16.933334,-8e-5 v 2.1167 H -31.75 Z"
        id="path36"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.05833334;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;fill-opacity:0.95049506"
        d="m -27.516665,288.53333 h 12.699999 v 2.11669 h -12.699999 z"
        id="path38"
        inkscape:connector-curvature="0" />
@@ -168,16 +168,16 @@
   <g
      id="g932"
      transform="matrix(-0.125,0,0,0.125,3.40625e-7,-34.743749)"
-     style="fill:#9d3a9b;fill-opacity:0.83921599;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+     style="fill:#9d3a9b;fill-opacity:1;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
     <path
        inkscape:connector-curvature="0"
        id="path928"
        d="m -31.749998,284.30007 16.933334,-8e-5 v 2.1167 H -31.75 Z"
-       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path930"
        d="m -27.516665,288.53333 h 12.699999 v 2.11669 h -12.699999 z"
-       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:1.0583334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
   </g>
 </svg>

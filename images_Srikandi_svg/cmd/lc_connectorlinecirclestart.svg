@@ -1,1 +1,23 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m5 1c-2.197296 0-4 1.802704-4 4s1.802704 4 4 4c.737499 0 1.4222261-.2154394 2.0175781-.5683594l8.5507809 8.5507814c-.35292.595352-.568359 1.280079-.568359 2.017578 0 2.197296 1.802704 4 4 4 2.197295 0 4-1.802704 4-4s-1.802705-4-4-4c-.737499 0-1.422226.215439-2.017578.568359l-8.5507814-8.5507809c.35292-.595352.5683594-1.2800791.5683594-2.0175781 0-2.197296-1.802704-4-4-4zm14 16c1.116415 0 2 .883584 2 2s-.883585 2-2 2-2-.883584-2-2 .883585-2 2-2z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 4.5 6 C 5.328125 6 6 5.328125 6 4.5 C 6 3.671875 5.328125 3 4.5 3 C 3.671875 3 3 3.671875 3 4.5 C 3 5.328125 3.671875 6 4.5 6 Z M 4.5 6 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 19.84375 20.777344 C 20.914062 19.707031 21.375 18.960938 21.863281 18.542969 C 21.859375 18.542969 21.855469 18.546875 21.851562 18.546875 L 8.652344 6.21875 C 8.882812 5.675781 9 5.089844 9 4.5 C 9 2.015625 6.984375 0 4.5 0 C 2.015625 0 0 2.015625 0 4.5 C 0 6.984375 2.015625 9 4.5 9 C 5.25 9 5.988281 8.8125 6.648438 8.453125 Z M 4.5 6 C 3.671875 6 3 5.328125 3 4.5 C 3 3.671875 3.671875 3 4.5 3 C 5.328125 3 6 3.671875 6 4.5 C 6 5.328125 5.328125 6 4.5 6 Z M 4.5 6 "/>
+</g>
+</svg>

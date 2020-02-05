@@ -1,1 +1,10 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m2 4v16h20v-16zm3 3h6v4h-6zm8 0h6v4h-6zm-8 6h6v4h-6zm8 0h6v4h-6z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.5 2.463542 L 1.5 13.572917 C 1.5 14.036458 1.963542 14.5 2.429688 14.5 L 13.570312 14.5 C 14.036458 14.5 14.5 14.036458 14.5 13.572917 L 14.5 2.463542 C 14.5 2.002604 14.036458 1.539062 13.570312 1.539062 L 2.429688 1.539062 C 1.963542 1.539062 1.5 2.002604 1.5 2.463542 Z M 1.5 2.463542 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8 1 L 8 15 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 15 8 L 1 8 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8 14 L 8 8 L 14 8 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.5 2.390625 L 1.5 13.5 C 1.5 13.963542 1.963542 14.427083 2.429688 14.427083 L 13.570312 14.427083 C 14.036458 14.427083 14.5 13.963542 14.5 13.5 L 14.5 2.390625 C 14.5 1.927083 14.036458 1.463542 13.570312 1.463542 L 2.429688 1.463542 C 1.963542 1.463542 1.5 1.927083 1.5 2.390625 Z M 1.5 2.390625 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 2 15.53125 L 7.359375 20 L 8.25 19.113281 L 6.507812 16.425781 L 10.078125 16.425781 C 10.972656 16.425781 10.972656 14.640625 10.078125 14.640625 L 6.507812 14.640625 L 8.25 12 L 7.359375 11.066406 Z M 2 15.53125 "/>
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M -14.857422 1.5 L -11.642578 1.5 C -11.322266 1.5 -11 2 -11 2.5 L -11 14.5 C -11 15 -11.322266 15.5 -11.642578 15.5 L -14.857422 15.5 C -15.177734 15.5 -15.5 15 -15.5 14.5 L -15.5 2.5 C -15.5 2 -15.177734 1.5 -14.857422 1.5 Z M -14.857422 1.5 " transform="matrix(2,0,0,2,43,-1)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M -15 5 L -11.5 5 " transform="matrix(2,0,0,2,43,-1)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M -15 8.5 L -11.5 8.5 " transform="matrix(2,0,0,2,43,-1)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M -15 12 L -11.5 12 " transform="matrix(2,0,0,2,43,-1)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 30 15.53125 L 24.640625 20 L 23.75 19.113281 L 25.492188 16.425781 L 23 16.425781 C 22.105469 16.425781 22.105469 14.640625 23 14.640625 L 25.492188 14.640625 L 23.75 12 L 24.640625 11.066406 Z M 30 15.53125 "/>
+</g>
+</svg>

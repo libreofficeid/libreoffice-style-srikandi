@@ -1,1 +1,23 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#555753"><path d="m2 2v2h20v-2zm0 4v12h8v-2h-6v-8h8v7h2v-9zm14 0v2h6v-2zm0 5v1.503906c.628416.471311.998772 1.210576 1 1.996094 0 1.380712-1.119288 2.5-2.5 2.5-.786206-.000614-1.526324-.371035-1.998047-1h-1.501953v1.857422c1.371429 1.321851 2.804414 1.714844 4.115234 1.714844h2.742188l3.427734 3.427734h1.714844v-1.714844l-3.427734-3.427734v-2.742188c0-1.511964-.368607-2.743805-1.714844-4.115234zm3.177734 0c.505815.651161.850816 1.31915 1.070313 2h1.751953v-2zm1.394532 5v1.443359l.55664.556641h.871094v-2zm-18.572266 4v2h16.871094l-1.427735-1.427734h-2.328125c-.850015 0-1.774632-.1677-2.697265-.572266z"/><path d="m4 8v8h6v-1h2v-7z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="24" height="24" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="24" height="24"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 3 7.5 L 3 16.5 L 12 16.5 L 12 7.5 Z M 3 7.5 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 1.5 1.5 L 1.5 4.5 L 22.5 4.5 L 22.5 1.5 Z M 1.5 6 L 1.5 18 L 12 18 L 12 16.5 L 3 16.5 L 3 7.5 L 12 7.5 L 12 16.5 L 13.5 16.5 L 13.5 6 Z M 15 6 L 15 9 L 22.5 9 L 22.5 6 Z M 15 10.5 L 15 13.5 L 16.5 13.5 L 16.5 12 L 20.121094 12 L 20.558594 12.441406 C 20.902344 12.78125 21.1875 13.136719 21.425781 13.5 L 22.5 13.5 L 22.5 10.5 Z M 18 13.5 L 18 15 C 20.339844 17.398438 17.148438 20.25 15 18 L 13.5 18 L 13.5 19.5 C 14.699219 20.65625 15.960938 21 17.101562 21 L 19.5 21 L 22.5 24 L 24 24 L 24 22.5 L 21 19.5 L 21 17.101562 C 21 15.75 20.699219 14.699219 19.5 13.5 Z M 15 15 L 15 16.5 L 16.5 16.5 L 16.5 15 Z M 1.5 19.5 L 1.5 22.5 L 15 22.5 L 15 22.128906 C 14.136719 21.835938 13.261719 21.351562 12.460938 20.582031 L 12 20.136719 L 12 19.5 Z M 1.5 19.5 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>

@@ -45,12 +45,12 @@
      showgrid="true"
      inkscape:snap-global="false"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:cx="-2.0908419"
+     inkscape:cy="12.970143"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg15">
+     inkscape:current-layer="g13">
     <inkscape:grid
        type="xygrid"
        id="grid831" />
@@ -74,20 +74,32 @@
      transform="translate(-0.044677,-292.93961)"
      id="g13"
      style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.09816042;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none">
-    <path
-       d="m 0.6276572,293.8543 q -0.0706962,0 -0.28278461,0.0864 v -0.055 l 0.70696151,-0.3574 0.031421,0.008 v 2.35654 q 0,0.14139 0.070696,0.1846 0.070696,0.0432 0.3024224,0.0471 v 0.0589 H 0.37236554 v -0.0589 q 0.21994358,-0.008 0.2945673,-0.0628 0.0785513,-0.0589 0.0785513,-0.24351 v -1.77919 q 0,-0.1846 -0.11782691,-0.1846 z"
-       id="path7"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.09816042;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 2.1834348,296.1912 q 0,0 -0.031421,0.008 -0.035348,0.008 -0.074624,0.008 -0.1060443,0 -0.1688853,-0.051 -0.062841,-0.055 -0.062841,-0.14925 0,-0.0982 0.062841,-0.16103 0.066769,-0.0628 0.1688853,-0.0628 0.1335371,0 0.2238711,0.10211 0.090334,0.0982 0.090334,0.24744 0,0.17674 -0.1217545,0.3417 -0.1217545,0.16496 -0.3181327,0.26315 l -0.035348,-0.0746 q 0.3220602,-0.21994 0.3220602,-0.41632 0,-0.055 -0.054986,-0.055 z"
-       id="path9"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.09816042;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 3.986649,295.86129 q -0.243509,0.37705 -0.6441205,0.37705 -0.4006115,0 -0.6441205,-0.38491 -0.2435089,-0.3849 -0.2435089,-0.98974 0,-0.5695 0.2435089,-0.95047 0.243509,-0.3849 0.6598308,-0.3849 0.3849012,0 0.6284102,0.37704 0.2435089,0.37705 0.2435089,0.98189 0,0.59699 -0.2435089,0.97404 z m -0.6401929,-2.23086 q -0.5145109,0 -0.5145109,1.26861 0,1.23718 0.5105833,1.23718 0.5105833,0 0.5105833,-1.24111 0,-0.61663 -0.1296096,-0.93869 -0.1296096,-0.32599 -0.3770461,-0.32599 z"
-       id="path11"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.09816042;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g834"
+       transform="translate(0.0027819,-0.22599058)"
+       style="fill:#e602b4">
+      <text
+         id="text824"
+         y="296.29401"
+         x="-0.080887996"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.02597161"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.02597161;fill:#e602b4"
+           y="296.29401"
+           x="-0.080887996"
+           id="tspan822"
+           sodipodi:role="line">10</tspan></text>
+      <text
+         id="text828"
+         y="296.38367"
+         x="1.6949599"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.02597161"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.02597161;fill:#e602b4"
+           y="296.38367"
+           x="1.6949599"
+           id="tspan826"
+           sodipodi:role="line">,</tspan></text>
+    </g>
   </g>
 </svg>

@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertctrl.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 24/sc_insertctrl.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview63"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -172,7 +172,7 @@
   </radialGradient>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#e602b4;fill-opacity:1;stroke:#9d3a9b;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path51"
-     d="M 13.097676,12.978267 10.854334,12.99899 9.6240563,14.875005 7.7256328,13.679597 5.6764083,14.592664 4.725639,12.560657 2.5080806,12.220883 2.8068282,9.9974256 1.124995,8.5126869 2.5784092,6.8037107 1.9662714,4.6454013 4.1129034,3.9934942 4.7648105,1.8468622 6.9231199,2.459 8.6320961,1.0055858 10.116834,2.687419 l 2.223458,-0.2987479 0.339773,2.2175587 2.032006,0.9507693 -0.913065,2.0492245 1.195408,1.8984235 -1.876015,1.2302769 z" />
+     d="m 12.722163,12.671361 -2.102717,0.01934 -1.1531565,1.750454 -1.779419,-1.115398 -1.920767,0.851955 L 4.874934,12.281701 2.7963854,11.964668 3.0764059,9.8900247 1.5,8.5046582 2.8623055,6.9100621 2.28854,4.8962062 4.3006084,4.2879305 4.9116502,2.2849706 6.9346638,2.8561386 8.5365111,1.5 9.9281767,3.0692696 12.012256,2.7905167 l 0.318473,2.0691397 1.904628,0.8871353 -0.855829,1.9120719 1.120473,1.7713639 -1.758415,1.1479365 z" />
 </svg>

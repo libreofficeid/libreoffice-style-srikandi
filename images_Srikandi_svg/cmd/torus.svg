@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 16 4 C 8.601562 4 2.769531 8.835938 2.070312 14.792969 C 2.023438 15.191406 2 15.59375 2 16 L 6 16 C 6 15.65625 6.015625 15.316406 6.050781 14.980469 C 6.566406 9.953125 10.84375 6 16 6 C 17.582031 5.445312 18.195312 4.824219 16 4 Z M 26 16 C 26 21.5 21.5 26 16 26 C 13.945312 26.714844 14.207031 28 16 28 C 23.890625 28 30 22.496094 30 16 C 28.710938 14.679688 27.382812 14.519531 26 16 Z M 26 16 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 16 2 C 7.164062 2 0 8.269531 0 16 C 0 23.730469 7.164062 30 16 30 C 24.835938 30 32 23.730469 32 16 C 32 8.269531 24.835938 2 16 2 Z M 16 4 C 16.941406 4.589844 17.304688 5.230469 16 6 C 10.5 6 6 10.5 6 16 C 4.808594 14.800781 3.550781 14.15625 2 16 C 2 9.503906 8.109375 4 16 4 Z M 16 8 C 20.214844 8 23.703125 11.269531 23.980469 15.476562 C 23.992188 15.652344 24 15.824219 24 16 C 24 20.417969 20.417969 24 16 24 C 11.785156 24 8.296875 20.730469 8.019531 16.523438 C 8.007812 16.347656 8 16.175781 8 16 C 8 11.582031 11.582031 8 16 8 Z M 26 16 C 27.167969 16.988281 28.382812 17.683594 30 16 C 30 22.496094 23.890625 28 16 28 C 15.449219 28 14.332031 26.597656 16 26 C 21.5 26 26 21.5 26 16 Z M 26 16 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+</g>
+</svg>

@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview49"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="7.5798618"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg47" />
+     inkscape:current-layer="svg47">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(-0.10576925,0,0,-0.10061195,3.907694,30.55771)"
@@ -142,19 +146,18 @@
        stop-opacity="0"
        id="stop30" />
   </linearGradient>
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect834"
+     width="3.4395833"
+     height="2.6458335"
+     x="0.39687502"
+     y="0.92604166"
+     rx="0.39687502"
+     ry="0.39687505" />
   <path
-     style="opacity:0.98999999;fill:#f3b7d9;stroke-width:0.125"
      inkscape:connector-curvature="0"
-     id="path39"
-     d="M 3.9687515,3.43958 H 0.264584 V 0.79375 h 3.7041675 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.98999999;fill:#f0e3ec;stroke-width:0.125"
-     id="path41"
-     d="M 3.5718765,3.042705 H 0.661459 V 1.1906225 h 2.9104175 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#e602b4;fill-rule:evenodd;stroke-width:0.125"
+     style="fill:#9d3a9b;fill-rule:evenodd;stroke-width:0.125"
      id="path43"
      d="M 3.7041666,1.3229162 V 1.5875 H 1.8520832 V 1.3229162 Z m -1.8520834,0 V 1.5875 H 1.3229166 V 1.3229162 Z m -0.7937499,0 V 1.5875 H 0.52916665 V 1.3229162 Z M 3.7041666,1.8520825 V 2.1166663 H 1.8520832 V 1.8520825 Z m -1.8520834,0 V 2.1166663 H 1.3229166 V 1.8520825 Z m -0.7937499,0 V 2.1166663 H 0.52916665 V 1.8520825 Z M 3.7041666,2.38125 V 2.6458325 H 1.8520832 V 2.38125 Z m -1.8520834,0 V 2.6458325 H 1.3229166 V 2.38125 Z m -0.7937499,0 V 2.6458325 H 0.52916665 V 2.38125 Z M 3.7041666,2.9104163 V 3.175 H 1.8520832 V 2.9104163 Z m -1.8520834,0 V 3.175 H 1.3229166 V 2.9104163 Z m -0.7937499,0 V 3.175 H 0.52916665 V 2.9104163 Z" />
 </svg>

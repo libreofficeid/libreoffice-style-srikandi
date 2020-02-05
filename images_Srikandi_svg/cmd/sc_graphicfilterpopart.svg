@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_graphicfilterpopart.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 17/sc_graphicfilterpopart.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -55,36 +55,30 @@
        id="grid4142" />
   </sodipodi:namedview>
   <g
-     id="g4754">
+     id="g4754"
+     transform="matrix(0.87288141,0,0,0.87288141,0.25112981,0.28700559)"
+     style="stroke-width:1.14563096">
     <g
-       id="g4144">
+       id="g4144"
+       style="stroke-width:1.14563096">
       <circle
          cx="1.32289"
-         cy="2.910443"
-         fill="#37a42c"
-         opacity=".77"
+         cy="2.9104431"
          r="1.322891"
-         stroke-width=".138886"
          id="circle4"
-         style="fill:#e602b4" />
+         style="opacity:0.76999996;fill:#e602b4;stroke-width:0.1591121" />
       <circle
-         cx="2.910448"
-         cy="2.910448"
-         fill="#00f"
-         opacity=".77"
+         cx="2.9104481"
+         cy="2.9104481"
          r="1.322886"
-         stroke-width=".138886"
          id="circle6"
-         style="fill:#f3b7d9" />
+         style="opacity:0.76999996;fill:#f3b7d9;stroke-width:0.1591121" />
       <circle
          cx="2.116667"
-         cy="1.322864"
-         fill="#bf0000"
-         opacity=".77"
-         r="1.322864"
-         stroke-width=".138883"
+         cy="1.3228641"
+         r="1.3228641"
          id="circle8"
-         style="fill:#9d3a9b" />
+         style="opacity:0.76999996;fill:#9d3a9b;stroke-width:0.15910865" />
     </g>
   </g>
 </svg>

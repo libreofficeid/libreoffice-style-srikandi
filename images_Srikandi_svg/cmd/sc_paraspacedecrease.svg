@@ -44,12 +44,13 @@
      id="namedview55"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="0.13559322"
+     inkscape:cx="-8.109991"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg53">
+     inkscape:current-layer="svg53"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid922" />
@@ -104,14 +105,14 @@
        id="stop14" />
   </linearGradient>
   <path
-     d="M 0.37302288,3.7166913 1.1342011,2.6292938 1.8953793,3.7166913 Z"
+     d="M 0.46574679,3.7422187 1.226925,2.6548212 1.9881032,3.7422187 Z"
      id="path31"
-     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.43495899;stroke-linejoin:round"
+     style="fill:#e602b4;stroke:#9d3a9b;stroke-width:0.43495899;stroke-linejoin:round"
      inkscape:connector-curvature="0" />
   <g
      id="g37"
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     transform="matrix(0,0.21747949,0.21747949,0,7.7263076,3.9720912)">
+     style="fill:#f3b7d9;fill-rule:evenodd"
+     transform="matrix(0,0.21747949,0.21747949,0,7.8190315,3.9976186)">
     <path
        d="m -1.1743633,-33.811394 -5,3.5 5,3.5 z"
        id="path33"
@@ -124,14 +125,14 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     d="M 0.37302288,0.51665243 1.1342011,1.6040499 1.8953793,0.51665243 Z"
+     d="M 0.47843076,0.49111474 1.239609,1.5785122 2.0007872,0.49111474 Z"
      id="path41"
-     style="fill:none;stroke:#e602b4;stroke-width:0.43495899;stroke-linejoin:round"
+     style="fill:none;stroke:#9d3a9b;stroke-width:0.43495899;stroke-linejoin:round"
      inkscape:connector-curvature="0" />
   <g
      id="g47"
-     style="fill-rule:evenodd;fill:#f3b7d9"
-     transform="matrix(0,-0.21747949,0.21747949,0,7.7263076,0.2612525)">
+     style="fill:#f3b7d9;fill-rule:evenodd"
+     transform="matrix(0,-0.21747949,0.21747949,0,7.8317155,0.23571481)">
     <path
        d="m -1.1743633,-33.811394 -5,3.5 5,3.5 z"
        id="path43"
@@ -144,7 +145,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 2.5135416,0.39687501 H 3.8364582"
      id="path924"
      inkscape:connector-curvature="0" />
@@ -152,9 +153,9 @@
      inkscape:connector-curvature="0"
      id="path926"
      d="M 2.5135418,0.92604168 H 3.8364584"
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 2.5135418,1.4552084 H 3.8364584"
      id="path928"
      inkscape:connector-curvature="0" />
@@ -162,9 +163,9 @@
      inkscape:connector-curvature="0"
      id="path930"
      d="M 2.5135417,2.5135417 H 3.8364583"
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      d="M 2.5135417,3.0427084 H 3.8364583"
      id="path932"
      inkscape:connector-curvature="0" />
@@ -172,5 +173,5 @@
      inkscape:connector-curvature="0"
      id="path934"
      d="M 2.5135417,3.5718751 H 3.8364583"
-     style="fill:none;stroke:#9d3a9b;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+     style="fill:#e602b4;stroke:#e602b4;stroke-width:0.26458335px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
 </svg>

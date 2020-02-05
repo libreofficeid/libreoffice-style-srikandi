@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_hangingindent.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 19/sc_hangingindent.png"
    inkscape:export-xdpi="90"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview47"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -49,7 +49,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4199">
     <inkscape:grid
        type="xygrid"
        id="grid4179" />
@@ -120,18 +120,18 @@
        style="fill:#9d3a9b;stroke:#9d3a9b;stroke-width:0.47625029;stroke-linejoin:round"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.89999999,0,0,0.89999999,-11.112509,-250.25325)"
+       transform="matrix(0.90000012,0,0,0.89999999,-11.112511,-250.25325)"
        id="g41"
-       style="fill:#f3b7d9;fill-rule:evenodd">
+       style="fill:#f3b7d9;fill-rule:evenodd;stroke-width:0.99999994">
       <path
          d="m 13.229177,279.63198 1.322916,0.92604 -1.322916,0.92604 z"
          id="path43"
-         style="fill:#f3b7d9"
+         style="fill:#f3b7d9;stroke-width:0.99999994"
          inkscape:connector-curvature="0" />
       <path
-         d="m 13.229177,279.63198 1.322916,0.92604 -1.322916,0 z"
+         d="m 13.229177,279.63198 1.322916,0.92604 h -1.322916 z"
          id="path45"
-         style="fill:#f3b7d9"
+         style="fill:#f3b7d9;stroke-width:0.99999994"
          inkscape:connector-curvature="0" />
     </g>
     <rect

@@ -42,14 +42,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview30"
-     showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     showgrid="true"
+     inkscape:zoom="16.8125"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg28">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientTransform="matrix(0.02735927,0,0,0.05144676,0.3718375,-1.1841975)"
@@ -101,25 +105,32 @@
        id="stop17" />
   </linearGradient>
   <rect
-     style="fill:#9d3a9b;stroke-width:0.125"
-     id="rect20"
-     y="-0.0082685873"
-     x="0.53267562"
-     width="3.1679831"
-     ry="0.0915865"
-     rx="0.094494"
-     height="4.2498698" />
-  <rect
-     style="fill:#f0e3ec;fill-rule:evenodd;stroke-width:0.125"
+     style="fill:#f0e3ec;fill-rule:evenodd;stroke:#9d3a9b;stroke-width:0.12488334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect22"
-     y="0.25631499"
-     x="0.80958575"
+     y="-2.8289957"
+     x="-8.2669678"
      width="2.6264896"
      rx="0.057877626"
-     height="3.7041667" />
-  <path
-     style="fill:#e602b4;stroke-width:0.068799"
-     inkscape:connector-curvature="0"
-     id="path24"
-     d="M 3.0639609,2.9835225 V 3.03581 H 2.362211 V 2.983522 q 0.1100784,-0.00275 0.1513579,-0.022015 0.041279,-0.019264 0.041279,-0.071551 0,-0.066047 -0.052287,-0.1843812 L 2.3897306,2.4413862 H 1.668717 l -0.1265901,0.32198 q -0.022016,0.057791 -0.022016,0.1073263 0,0.11283 0.1871334,0.11283 V 3.03581 H 1.1623563 V 2.9835225 Q 1.2641789,2.9780225 1.319218,2.9064675 1.3770092,2.832165 1.5035994,2.5322013 L 2.0760071,1.1809887 h 0.055039 L 2.8162845,2.7441025 Q 2.8823315,2.89546 2.9263629,2.93674 q 0.044031,0.041279 0.137598,0.046782 z M 1.7155004,2.3285562 H 2.3512031 L 2.0319757,1.5717675 Z" />
+     height="3.7041667"
+     ry="0.057877626" />
+  <rect
+     style="opacity:1;fill:#f0e3ec;fill-opacity:0.95049504;fill-rule:evenodd;stroke:#e602b4;stroke-width:0.26458335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect830"
+     width="2.3812501"
+     height="3.4395835"
+     x="0.92604166"
+     y="0.39687499"
+     rx="0.39687499"
+     ry="0.39687502" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.26276827px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+     x="1.2941505"
+     y="2.9154239"
+     id="text826"><tspan
+       sodipodi:role="line"
+       id="tspan824"
+       x="1.2941505"
+       y="2.9154239"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#9d3a9b;stroke-width:0.26458335">A</tspan></text>
 </svg>

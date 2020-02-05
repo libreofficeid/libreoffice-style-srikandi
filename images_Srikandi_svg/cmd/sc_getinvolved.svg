@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_getinvolved.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 14/sc_getinvolved.png"
    inkscape:export-xdpi="90"
@@ -40,16 +40,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview114"
      showgrid="true"
      inkscape:zoom="13.91371"
-     inkscape:cx="-2.6272387"
+     inkscape:cx="-4.5363928"
      inkscape:cy="9.6355305"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid4246" />
@@ -307,8 +308,8 @@
        id="feGaussianBlur84" />
   </filter>
   <path
-     style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:0.25112098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 2.245298,0.12556063 c -1.1738946,0 -2.11973751,0.93282537 -2.11973751,2.09056377 l 0,8.3583576 c 0,1.15774 0.94584291,2.090564 2.11973751,2.090564 l 1.1695105,0 -1.4836189,2.209412 4.5871675,-2.209412 7.2363449,0 c 1.173896,0 2.119738,-0.932824 2.119738,-2.090564 l 0,-8.3583576 c 0,-1.1577384 -0.945842,-2.09056377 -2.119738,-2.09056377 l -11.5094039,0 z"
+     style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 3.2497489,2.5000017 c -0.9689978,0 -1.749749,0.6957226 -1.749749,1.5591905 v 6.2338558 c 0,0.863469 0.7807512,1.559191 1.749749,1.559191 h 0.9653789 l -1.2246614,1.64783 3.7865028,-1.64783 H 12.75025 c 0.969,0 1.74975,-0.695722 1.74975,-1.559191 V 4.0591922 c 0,-0.8634679 -0.78075,-1.5591905 -1.74975,-1.5591905 z"
      id="rect4264"
      inkscape:connector-curvature="0" />
 </svg>

@@ -1,76 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   width="24"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="lc_linearrows.svg"
-   inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/lc_linearrows.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
-     id="namedview10"
-     showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="12.926695"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4142" />
-  </sodipodi:namedview>
-  <g
-     id="g4763">
-    <path
-       sodipodi:nodetypes="ccccc"
-       d="m 1.5000003,11.512969 18.2966097,0 0,1.495677 -18.2966097,0 z"
-       id="path11"
-       inkscape:connector-curvature="0"
-       style="opacity:0.98999999;fill:#9d3a9b" />
-    <path
-       d="M 3.149092e-7,12.260808 6.1875001,8.5216149 l -1.5,3.7391931 1.5,3.739192 z"
-       id="path15"
-       inkscape:connector-curvature="0"
-       style="fill:#9d3a9b;fill-opacity:0.99215698;fill-rule:evenodd" />
-    <path
-       style="fill:#9d3a9b;fill-opacity:0.99215698;fill-rule:evenodd"
-       inkscape:connector-curvature="0"
-       id="path4742"
-       d="m 24.018009,12.260808 -6.1875,-3.7391931 1.5,3.7391931 -1.5,3.739192 z" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 14.5 8.5 L 2.5 8.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 4 6 L 1.5 8.5 L 4 11 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12 6 L 14.5 8.5 L 12 11 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+</g>
 </svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style="fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 3.113281 1.5 L 12.886719 1.5 C 13.777344 1.5 14.5 2.169922 14.5 2.994141 L 14.5 13.005859 C 14.5 13.830078 13.777344 14.5 12.886719 14.5 L 3.113281 14.5 C 2.222656 14.5 1.5 13.830078 1.5 13.005859 L 1.5 2.994141 C 1.5 2.169922 2.222656 1.5 3.113281 1.5 Z M 3.113281 1.5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M -3.728087 -12.589178 C -3.729075 -10.502714 -5.42 -8.810429 -7.506464 -8.811417 C -9.593433 -8.810518 -11.285213 -10.50333 -11.284731 -12.587907 C -11.28563 -14.674876 -9.592818 -16.366656 -7.506354 -16.365668 C -5.421271 -16.367073 -3.728986 -14.676148 -3.728087 -12.589178 Z M -3.728087 -12.589178 " transform="matrix(-1.931852,0.517638,-0.517638,-1.931852,0,0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 4 8 L 28 8 L 28 10 L 4 10 Z M 4 8 "/>
+<path style="fill:none;stroke-width:1.602787;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 14.998966 14.000191 C 14.998966 14.000191 13.499483 9.999483 9.999647 11.001225 " transform="matrix(1.247826,0,0,1.247826,6.026086,6.393478)"/>
+<path style="fill:none;stroke-width:1.602787;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12 8.5 L 9.026078 10.766442 L 12 12.998449 " transform="matrix(1.247826,0,0,1.247826,6.026086,6.393478)"/>
+</g>
+</svg>

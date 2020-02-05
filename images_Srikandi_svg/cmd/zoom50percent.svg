@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 20 20 C 19.375 20.609375 17.09375 21.546875 17.703125 22.175781 L 19.875 24.472656 L 21.023438 23.386719 L 26.824219 29.515625 C 28.273438 31.089844 30.613281 28.875 29.121094 27.339844 L 23.324219 21.210938 L 24.472656 20.125 L 22.296875 17.824219 C 21.695312 17.171875 20.636719 19.378906 20 20 Z M 20 20 "/>
+<path style="fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.23629 9.050442 C 5.236081 11.72799 3.065092 13.898017 0.387543 13.897809 C -2.288586 13.898942 -4.458614 11.727952 -4.458405 9.050404 C -4.458196 6.372856 -2.288549 4.204247 0.387581 4.203114 C 3.065129 4.203322 5.236499 6.372893 5.23629 9.050442 Z M 5.23629 9.050442 " transform="matrix(1.452948,-1.374388,1.374388,1.452948,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(95.294118%,71.764708%,85.09804%);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 4.667969 3.482422 C 5.232422 3.130859 5.90625 2.9375 6.621094 2.962891 C 7.558594 2.996094 8.396484 3.394531 9.001953 4.019531 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M 11.501953 9.441406 L 9.501953 11.441406 " transform="matrix(2,0,0,2,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 8 11 L 6 11 L 6 9 L 10 9 L 10 19 L 7.992188 19 Z M 8 11 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 11 13 L 13 13 L 13 15 L 11 15 Z M 11 17 L 13 17 L 13 19 L 11 19 Z M 11 17 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 16 17 L 20 17 L 20 19 L 14 19 L 14 15 L 18 13 L 18 11 L 14 11 L 14 9 L 20 9 L 20 14 L 16 16 Z M 16 17 "/>
+</g>
+</svg>

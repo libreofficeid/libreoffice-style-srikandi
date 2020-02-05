@@ -43,7 +43,7 @@
      id="namedview93"
      showgrid="true"
      inkscape:zoom="32.150391"
-     inkscape:cx="2.5879351"
+     inkscape:cx="3.3007913"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -206,15 +206,11 @@
        x="114.59944" />
   </text>
   <path
-     d="M 4.613301,5.9944759 H 16 V 9 H 4.613301 Z"
-     id="path53"
-     style="fill:url(#b);stroke-width:0.125"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 4,5 V 5.5 9 9.5 10 H 4.625 9.375 10 13.375 14 16 V 9 H 14 V 6 h 2 V 5 H 14 13.375 10 9.375 4.625 Z m 0.625,1 h 4.75 V 9 H 4.625 Z M 10,6 h 3.375 V 9 H 10 Z"
+     d="m 5,5 v 5 H 9.375 10 13.375 14 15 V 9 H 14 V 6 h 1 V 5 H 14 13.375 10 9.375 Z M 6,6 H 9 V 9 H 6 Z m 4,0 h 3 v 3 h -3 z"
      id="path55"
      style="fill:#e602b4;stroke-width:0.125"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
   <text
      id="text61"
      y="-31.648705"
@@ -292,9 +288,23 @@
        y="-21.27487"
        x="29.917654" />
   </text>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:#9d3a9b;fill-rule:evenodd;stroke-width:0.125"
-     id="path87"
-     d="M 3,5 H 0 V 6 H 1 V 9 H 0 v 1 H 3 V 9 H 2 V 6 h 1 z" />
+  <g
+     id="g869"
+     transform="translate(5.5,0.5)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path860"
+       d="m -4,5 h 2"
+       style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path862"
+       d="M -3,5.5 V 8.5 9"
+       style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path864"
+       d="m -4,9 h 2"
+       style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
 </svg>

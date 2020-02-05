@@ -43,9 +43,9 @@
      inkscape:window-height="707"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-10.322356"
+     inkscape:cy="19.291001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -54,12 +54,15 @@
        type="xygrid"
        id="grid817" />
   </sodipodi:namedview>
-  <path
-     d="m4.1631957 296.81356v.11243h-1.5090475v-.11243q.2367134-.006.3254809-.0473.088767-.0414.088767-.15386 0-.14203-.1124389-.3965l-.2426306-.56816h-1.5504724l-.27222029.69239q-.0473427.12427-.0473427.23079 0 .24264.40241265.24264v.11243h-1.17173094v-.11243q.21895983-.0118.3373165-.1657.1242745-.15978.39649483-.80483l1.23090935-2.90565h.1183566l1.4735405 3.36132q.142028.32549.2367134.41425.094685.0888.2958916.10061zm-2.8997383-1.40845h1.3670195l-.6864687-1.6274z"
-     fill="none"
-     stroke="#000"
-     stroke-width=".147946"
-     transform="translate(0 -292.76665)"
-     id="path2"
-     style="fill:#f3b7d9;stroke:#9d3a9b" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:Nunito;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#e602b4;stroke-width:0.13229167;stroke-miterlimit:4;stroke-dasharray:none"
+     x="0.57784992"
+     y="3.6110334"
+     id="text818"><tspan
+       sodipodi:role="line"
+       id="tspan816"
+       x="0.57784992"
+       y="3.6110334"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333359px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.13229167;stroke:#e602b4;fill:none;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
 </svg>

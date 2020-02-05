@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_grafgamma.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 16/sc_grafgamma.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview36"
      showgrid="true"
      inkscape:zoom="14.75"
@@ -48,7 +48,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g4184">
     <inkscape:grid
        type="xygrid"
        id="grid4168" />
@@ -99,30 +99,27 @@
   </filter>
   <g
      id="g4184">
-    <g
-       id="g4179">
-      <rect
-         style="opacity:1;fill:#9d3a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4170"
-         width="14"
-         height="14"
-         x="1"
-         y="1"
-         rx="0"
-         ry="1" />
-      <rect
-         style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#f0e3ec;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4172"
-         width="10"
-         height="10"
-         x="3"
-         y="3" />
-      <path
-         style="fill:#e602b4;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-         d="m 13,4 c -2.082834,5.8088224 -5.4974356,7.539103 -9,9 l 0,0 -1,0 0,-1 c 5.4749279,-1.814097 7.844441,-5.1162056 9,-9 l 1,0 0,1 z"
-         id="path4176"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccc" />
-    </g>
+    <rect
+       ry="1"
+       rx="1"
+       y="2"
+       x="2"
+       height="12"
+       width="12"
+       id="rect4170"
+       style="opacity:1;fill:#e602b4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="3"
+       x="3"
+       height="10"
+       width="10"
+       id="rect4172"
+       style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4176"
+       d="m 13,4 c -2.082834,5.8088224 -5.4974356,7.539103 -9,9 v 0 H 3 v -1 c 5.4749279,-1.814097 7.844441,-5.1162056 9,-9 h 1 z"
+       style="fill:#e602b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

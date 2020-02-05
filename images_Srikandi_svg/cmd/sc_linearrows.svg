@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_linearrows.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-03/sc_linearrows.png"
    inkscape:export-xdpi="90"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview14"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-0.6779661"
-     inkscape:cy="8"
+     inkscape:zoom="29.5"
+     inkscape:cx="5.1287954"
+     inkscape:cy="5.1186441"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,29 +53,19 @@
        type="xygrid"
        id="grid4146" />
   </sodipodi:namedview>
-  <g
-     fill="#4d4d4d"
-     transform="matrix(.125 0 0 .125 .001381 0)"
-     id="g4"
-     style="fill:#9d3a9b">
-    <path
-       d="m7.9779 56h112.0221v8h-112.0221z"
-       opacity=".99"
-       id="path6"
-       style="fill:#9d3a9b" />
-    <g
-       fill-opacity=".992157"
-       fill-rule="evenodd"
-       id="g8"
-       style="fill:#9d3a9b">
-      <path
-         d="m-.0221 60 33-20-8 20 8 20z"
-         id="path10"
-         style="fill:#9d3a9b" />
-      <path
-         d="m128 60-33-20 8 20-8 20z"
-         id="path12"
-         style="fill:#9d3a9b" />
-    </g>
-  </g>
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 14.5,8.5 H 2.5"
+     id="path815"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 4,6 1.5,8.5 4,11"
+     id="path817"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path825"
+     d="M 12,6 14.5,8.5 12,11"
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
 </svg>

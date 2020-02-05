@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<g id="surface1">
+<path style="fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 8.005861 13.499725 L 17.000002 13.499725 C 17.552736 13.499725 18.000002 13.946991 18.000002 14.499725 L 18.000002 25.466522 C 18.000002 26.019256 17.552736 26.466522 17.000002 26.466522 L 8.005861 26.466522 C 7.45508 26.466522 7.005861 26.019256 7.005861 25.466522 L 7.005861 14.499725 C 7.005861 13.946991 7.45508 13.499725 8.005861 13.499725 Z M 8.005861 13.499725 " transform="matrix(2,0,0,2,-9.000004,-23.933044)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 8 18 L 16 18 L 16 24 L 8 24 Z M 8 18 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 8 6 L 18 6 L 18 10 L 8 10 Z M 8 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 12 12 L 22 12 L 22 16 L 12 16 Z M 12 12 "/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(94.117647%,89.019608%,92.54902%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10 5 L 13.5 5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(94.117647%,89.019608%,92.54902%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12 3 L 14 5 L 12 7 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10 5 L 13.5 5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12 3 L 14 5 L 12 7 " transform="matrix(2,0,0,2,0,0)"/>
+</g>
+</svg>

@@ -1,1 +1,12 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m4 1v22h6v-22zm8 1v1.7070312l2.792969 2.7929688-2.792969 2.7929688v1.7070312h1.707031l2.792969-2.7929688 2.792969 2.7929688h1.707031v-1.7070312l-2.792969-2.7929688 2.792969-2.7929688v-1.7070312h-1.707031l-2.792969 2.7929688-2.792969-2.7929688zm-6 1h2v2h-2zm0 4h2v2h-2zm0 4h2v2h-2zm6 2v1.707031l2.792969 2.792969-2.792969 2.792969v1.707031h1.707031l2.792969-2.792969 2.792969 2.792969h1.707031v-1.707031l-2.792969-2.792969 2.792969-2.792969v-1.707031h-1.707031l-2.792969 2.792969-2.792969-2.792969zm-6 2h2v2h-2zm0 4h2v2h-2z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.5 1.5 L 14.5 1.5 L 14.5 14.5 L 1.5 14.5 L 1.5 1.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 5.5 1.5 L 5.5 14.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 10.5 1.5 L 10.5 14.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 14.5 5.5 L 1.5 5.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 14.5 10.5 L 1.5 10.5 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 10.5 10.5 L 13.5 10.5 L 13.5 13.5 L 10.5 13.5 Z M 10.5 10.5 "/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(61.56863%,22.745098%,60.784316%);stroke-opacity:1;stroke-miterlimit:4;" d="M 12.5 8 C 12.5 10.484375 10.484375 12.5 8 12.5 C 5.515625 12.5 3.5 10.484375 3.5 8 C 3.5 5.515625 5.515625 3.5 8 3.5 C 10.484375 3.5 12.5 5.515625 12.5 8 Z M 12.5 8 " transform="matrix(1.5,0,0,1.5,0,0)"/>
+</g>
+</svg>

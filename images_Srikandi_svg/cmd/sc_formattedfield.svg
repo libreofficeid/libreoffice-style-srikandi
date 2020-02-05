@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_formattedfield.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 12/sc_formattedfield.png"
    inkscape:export-xdpi="90"
@@ -40,12 +40,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview38"
      showgrid="true"
-     inkscape:zoom="18.923077"
-     inkscape:cx="4.3333334"
-     inkscape:cy="6.8943089"
+     inkscape:zoom="6.690318"
+     inkscape:cx="36.188135"
+     inkscape:cy="26.618267"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -119,39 +119,33 @@
        stop-opacity="0"
        id="stop24" />
   </linearGradient>
-  <g
-     id="g4774">
-    <rect
-       style="fill:#9e3a9c;fill-opacity:1"
-       id="rect26"
-       y="3"
-       width="16"
-       stroke-width=".25"
-       rx="1.5"
-       height="10"
-       fill="url(#a)" />
-    <rect
-       x="1"
-       height="8"
-       rx="1.3125"
-       width="14"
-       y="4"
-       id="rect4183"
-       style="fill:#f3b7d9;fill-opacity:1;stroke-width:0.25" />
-    <g
-       transform="matrix(1.0965772,0,0,1.0801895,-0.19940886,-1.0934195)"
-       style="fill:#e601b4;fill-opacity:1;stroke:#f0e3ec;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="g32">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#e601b4;fill-opacity:1;stroke:#f0e3ec;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path34"
-         d="m 2.1307385,9.6133203 q 0,-0.3723182 0.205661,-0.6843566 Q 2.5456077,8.6169255 3.1306792,8.2020564 2.7867277,7.7836415 2.6697138,7.5283376 2.5526989,7.2730335 2.5526989,7.0212752 q 0,-0.5886175 0.3474975,-0.9219309 0.3474967,-0.3333138 0.9432063,-0.3333138 0.5318833,0 0.8793808,0.3120385 0.3474966,0.3084922 0.3474966,0.7800955 0,0.3120382 -0.1595649,0.5779799 Q 4.7546963,7.6985403 4.3611025,7.9893031 L 3.9816922,8.2694284 5.1305606,9.6416876 Q 5.3716815,9.1807219 5.3716815,8.6169255 l 0.5921627,0 q 0,0.9042017 -0.4361438,1.4999115 l 0.7375451,0.882926 -0.7871874,0 -0.3439515,-0.407777 q -0.2623955,0.234029 -0.6169852,0.358135 -0.3510426,0.12056 -0.7162688,0.12056 -0.7552746,0 -1.2126948,-0.400686 Q 2.1307385,10.26931 2.1307385,9.6133203 Z m 1.6701141,0.9219317 q 0.5212451,0 0.9538437,-0.39714 L 3.4959061,8.631109 3.3788913,8.7162103 q -0.5921636,0.4361443 -0.5921636,0.8971099 0,0.4184158 0.2694876,0.6701728 0.2730338,0.251759 0.7446373,0.251759 z M 3.208689,7 q 0,0.3404053 0.4184144,0.8510135 L 4.0455188,7.5567047 q 0.24112,-0.1702026 0.3297672,-0.322676 0.088647,-0.1560191 0.088647,-0.3758642 0,-0.2375747 -0.1772943,-0.3935938 -0.1772945,-0.1595649 -0.4467821,-0.1595649 -0.2907623,0 -0.4609654,0.1985697 Q 3.208689,6.6985995 3.208689,7 Z" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#e601b4;fill-opacity:1;stroke:#f0e3ec;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path36"
-         d="M 8,6 8,6.5 8,7 8,8 8,9 8,11 9,11 9,9 11,9 11,8 9,8 9,7 11,7 11,6 Z" />
-    </g>
-  </g>
+  <rect
+     x="1"
+     height="8"
+     rx="1.5"
+     width="14"
+     y="4"
+     id="rect26"
+     style="fill:#e602b4;fill-opacity:1;stroke-width:0.25"
+     ry="1.5" />
+  <rect
+     style="fill:#f0e3ec;fill-opacity:1;stroke-width:0.25"
+     id="rect4183"
+     y="5"
+     width="12"
+     rx="1.3125"
+     height="6"
+     x="2"
+     ry="1.3125" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:7.41192436px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     x="3.3784337"
+     y="10.608997"
+     id="text841"><tspan
+       sodipodi:role="line"
+       id="tspan839"
+       x="3.3784337"
+       y="10.608997"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:5.39670897;fill:#e602b4">&amp;F</tspan></text>
 </svg>

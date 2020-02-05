@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertspreadsheet.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-01/sc_insertspreadsheet.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="29.5"
@@ -85,21 +85,35 @@
        stop-color="#fff"
        id="stop12" />
   </linearGradient>
-  <g
-     id="g4154">
-    <g
-       id="g14"
-       transform="scale(.125)">
-      <path
-         style="fill:#f0e3ec"
-         id="path16"
-         fill="url(#a)"
-         d="m8 8h112v104.4853h-112z" />
-      <path
-         style="fill:#9d3a9b"
-         id="path18"
-         fill="url(#b)"
-         d="m0 8v4.707031 19.292969 4 44 4 24.11328 3.88672h8 32 8 32 8 32 8v-3.88672-100.11328h-120zm8 4.707031h32v19.292969h-32zm40 0h32v19.292969h-32zm40 0h32v19.292969h-32zm-80 23.292969h32v20h-32zm40 0h32v20h-32zm40 0h32v20h-32zm-80 24h32v20h-32zm40 0h32v20h-32zm40 0h32v20h-32zm-80 24h32v24.11328h-32zm40 0h32v24.11328h-32zm40 0h32v24.11328h-32z" />
-    </g>
-  </g>
+  <rect
+     y="1.4999996"
+     x="1.5000005"
+     height="12"
+     width="12"
+     id="rect922"
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <rect
+     y="4.4999995"
+     x="1.5000005"
+     height="6"
+     width="12"
+     id="rect926"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <rect
+     y="1.4999996"
+     x="4.5"
+     height="12"
+     width="6.000001"
+     id="rect924"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path931"
+     d="M 7.5,1.5 C 7.5,14 7.5,14 7.5,14"
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:#f3b7d9;stroke:#e602b4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 14,7.4999996 c -11.9999997,0 -11.9999997,0 -11.9999997,0"
+     id="path933"
+     inkscape:connector-curvature="0" />
 </svg>

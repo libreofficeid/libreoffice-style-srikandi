@@ -12,7 +12,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_insertauthorfield.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 23/sc_insertauthorfield.png"
    inkscape:export-xdpi="90"
@@ -40,17 +40,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview306"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="3.0067797"
+     inkscape:cx="-2.8237288"
      inkscape:cy="7.5963681"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     showguides="false">
+     inkscape:current-layer="g4270"
+     showguides="false"
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid4438" />
@@ -678,13 +679,14 @@
     <path
        inkscape:connector-curvature="0"
        id="path4538"
-       d="M 6.1355934,0.21632276 A 3.9797796,3.9845538 0 0 0 2.2179977,3.5367843 l -0.062184,0 c -0.3674664,0 -0.6632967,0.2961851 -0.6632967,0.6640923 l 0,0.6640924 c 0,0.367907 0.2958303,0.6640922 0.6632967,0.6640922 l 0.230599,0 A 3.9797796,3.9845538 0 0 0 4.809,7.9519605 l 0,0.8975621 -1.9898898,0 c -1.4698652,0 -2.65318642,1.1847414 -2.65318642,2.6563694 l 0,1.328185 11.93933922,0 0,-1.328185 c 0,-1.471628 -1.183321,-2.6563694 -2.6531867,-2.6563694 l -1.9898898,0 0,-0.894968 A 3.9797796,3.9845538 0 0 0 9.8821821,5.5290612 l 0.2331899,0 c 0.367467,0 0.663297,-0.2961852 0.663297,-0.6640922 l 0,-0.6640924 c 0,-0.3679072 -0.29583,-0.6640923 -0.663297,-0.6640923 l -0.05441,0 A 3.9797796,3.9845538 0 0 0 6.1355929,0.21632276 Z"
-       style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#9d3a9b;stroke-width:0.33184716;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="M 6.712715,1.5229388 A 3.4368397,3.5719382 0 0 0 3.3295757,4.499554 h -0.053701 c -0.3173349,0 -0.5728067,0.265514 -0.5728067,0.595323 v 0.5953231 c 0,0.3298088 0.2554718,0.5953229 0.5728067,0.5953229 H 3.4750148 A 3.4368397,3.5719382 0 0 0 5.5671016,8.457522 V 9.2621382 H 3.8486817 c -1.2693395,0 -2.2912266,1.0620568 -2.2912266,2.3812928 v 1.190646 H 11.867975 v -1.190646 c 0,-1.319236 -1.021887,-2.3812928 -2.2912269,-2.3812928 H 7.8583282 V 8.4598475 A 3.4368397,3.5719382 0 0 0 9.9481775,6.285523 h 0.2013765 c 0.317337,0 0.572807,-0.2655141 0.572807,-0.5953229 V 5.094877 c 0,-0.329809 -0.25547,-0.595323 -0.572807,-0.595323 h -0.04699 A 3.4368397,3.5719382 0 0 0 6.7127146,1.5229388 Z"
+       style="opacity:1;fill:#f3b7d9;fill-opacity:1;fill-rule:nonzero;stroke:#e602b4;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="matrix(0.99288235,0,0,1,0.05044281,0.10354519)"
-       id="g4264">
+       transform="matrix(0.87959716,0,0,0.87984671,0.85329556,0.96270915)"
+       id="g4264"
+       style="stroke-width:1.13267016">
       <ellipse
-         style="fill:#e602b4"
+         style="fill:#e602b4;stroke-width:1.13267016"
          id="circle284"
          transform="scale(-1,1)"
          cy="11.52351"
@@ -692,7 +694,7 @@
          rx="4.4884472"
          ry="4.3729448" />
       <ellipse
-         style="fill:#f3b7d9"
+         style="fill:#f3b7d9;stroke-width:1.13267016"
          id="circle288"
          transform="scale(-1,1)"
          cy="11.514486"
@@ -700,15 +702,15 @@
          rx="3.6078777"
          ry="3.5150359" />
       <path
-         style="fill:#9d3a9b"
-         d="m 10.999784,9 1,0 0,3 -1,0 z"
+         style="fill:#9d3a9b;stroke-width:1.13267016"
+         d="m 11.03522,8.8964548 h 1 v 3.0000002 h -1 z"
          id="path302"
          inkscape:connector-curvature="0" />
       <rect
-         style="fill:#9d3a9b"
+         style="fill:#9d3a9b;stroke-width:1.13267016"
          height="1.3789842"
-         rx="0.70770365"
-         ry="0.68949211"
+         rx="0.7988503"
+         ry="0.78365028"
          width="1.4154077"
          x="10.81673"
          y="12.793243"

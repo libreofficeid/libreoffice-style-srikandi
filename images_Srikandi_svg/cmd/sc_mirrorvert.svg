@@ -51,14 +51,18 @@
      inkscape:window-width="1366"
      inkscape:window-height="707"
      id="namedview48"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="0.13559322"
+     inkscape:cx="-16.474576"
      inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg46" />
+     inkscape:current-layer="g891">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"
@@ -134,32 +138,33 @@
   </mask>
   <g
      id="g891"
-     transform="rotate(90,15.898305,11.627118)">
+     transform="matrix(0,0.8784796,-0.8784796,0,25.145527,-2.7799868)"
+     style="stroke-width:1.13833034">
     <rect
        height="10"
-       rx="0.51826203"
-       ry="0.5"
+       rx="0.58995342"
+       ry="0.56916517"
        transform="matrix(0.96476382,0.26311741,0,-1,0,0)"
        width="11.401754"
        y="-22.164053"
        id="rect28"
        x="4.4271832"
-       style="fill:#e602b4" />
+       style="fill:#e602b4;stroke-width:1.13833034" />
     <path
        d="m 5.7711863,22.828924 7.9999997,2 c 0.277,0.0692 0.5,-0.098 0.5,-0.375 v -7 c 0,-0.277 -0.223,-0.55575 -0.5,-0.625 l -7.9999997,-2 c -0.277,-0.06925 -0.5,0.098 -0.5,0.375 v 7 c 0,0.277 0.223,0.55575 0.5,0.625 z"
        id="path30"
-       style="fill:#f0e3ec"
+       style="fill:#f0e3ec;stroke-width:1.13833034"
        inkscape:connector-curvature="0" />
     <circle
        transform="scale(1,-1)"
-       style="fill:#9d3a9b;fill-opacity:0.975;stroke-width:0.69188064"
+       style="fill:#9d3a9b;fill-opacity:0.975;stroke-width:0.78758872"
        id="circle32"
        r="4.4952474"
        cy="-17.335005"
        cx="15.775939" />
     <circle
        transform="scale(1,-1)"
-       style="fill:#dda2a2;fill-opacity:1;stroke-width:0.69188064"
+       style="fill:#f3b7d9;fill-opacity:1;stroke-width:0.78758872"
        id="circle34"
        r="3.4919996"
        cy="-17.335005"
@@ -167,19 +172,20 @@
     <g
        clip-path="url(#clipPath896)"
        id="g888"
-       transform="matrix(1,0,0,-1,4.2711863,27.828924)">
+       transform="matrix(1,0,0,-1,4.2711863,27.828924)"
+       style="stroke-width:1.13833034">
       <circle
          cx="0.49524757"
          cy="10.493917"
          r="4.4952474"
          id="circle38"
-         style="fill:#da9bd9;fill-opacity:0.975;stroke-width:0.69188064" />
+         style="fill:#da9bd9;fill-opacity:0.975;stroke-width:0.78758872" />
       <circle
          cx="0.49524757"
          cy="10.493917"
          r="3.4919996"
          id="circle40"
-         style="fill:#eac7c7;fill-opacity:1;stroke-width:0.69188064" />
+         style="fill:#eac7c7;fill-opacity:1;stroke-width:0.78758872" />
     </g>
   </g>
 </svg>

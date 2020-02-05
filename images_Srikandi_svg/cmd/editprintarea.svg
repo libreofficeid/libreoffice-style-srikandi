@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 4 4 L 4 18 L 8 18 L 8 17.179688 L 18 7.179688 L 18 4 Z M 4 4 "/>
+</g>
+</defs>
+<g id="surface1">
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 0 0 L 0 22 L 2 22 L 2 30 L 12 30 L 12 24 L 10 24 L 10 28 L 4 28 L 4 22 L 8 22 L 8 18 L 4 18 L 4 12 L 10 12 L 10 15.179688 L 12 13.179688 L 12 12 L 13.179688 12 L 15.179688 10 L 12 10 L 12 4 L 18 4 L 18 7.179688 L 22.601562 2.601562 L 23.179688 2 L 22 2 L 22 0 Z M 28 0 L 26 2 L 30 6 L 32 4 C 31.800781 1.28125 30.199219 0.199219 28 0 Z M 4 4 L 10 4 L 10 10 L 4 10 Z M 24 4 L 10 18 L 10 22 L 14 22 L 28 8 Z M 30 8.800781 L 26.800781 12 L 28 12 L 28 14 L 30 14 Z M 22.800781 16 L 20.800781 18 L 28 18 L 28 16 Z M 18.800781 20 L 14.800781 24 L 14 24 L 14 26 C 14 27.109375 14.890625 28 16 28 L 16 24 L 30 24 L 30 28 C 31.109375 28 32 27.109375 32 26 L 32 22 C 32 20.890625 31.109375 20 30 20 Z M 18 26 L 18 32 L 28 32 L 28 26 Z M 18 26 "/>
+</g>
+</svg>

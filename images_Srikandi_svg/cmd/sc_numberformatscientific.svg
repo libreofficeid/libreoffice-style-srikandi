@@ -43,14 +43,14 @@
      inkscape:window-height="707"
      id="namedview15"
      showgrid="true"
-     inkscape:snap-global="false"
-     inkscape:zoom="20.85965"
-     inkscape:cx="0.13559322"
-     inkscape:cy="8"
+     inkscape:snap-global="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="11.543189"
+     inkscape:cy="11.508446"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13">
+     inkscape:current-layer="g11">
     <inkscape:grid
        type="xygrid"
        id="grid826" />
@@ -74,15 +74,26 @@
      transform="matrix(1.0135964,0,0,1.0135964,0.13940014,-296.73726)"
      id="g11"
      style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.06525855;stroke-miterlimit:4;stroke-dasharray:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.4413681px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#e602b4;fill-opacity:1;stroke:none;stroke-width:0.01703471;"
+       x="-0.21015976"
+       y="296.31732"
+       id="text820"><tspan
+         sodipodi:role="line"
+         id="tspan818"
+         x="-0.21015976"
+         y="296.31732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17654753px;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:0.01703471;fill:#e602b4;">E</tspan></text>
     <path
-       d="m 0.8942625,295.87135 c 0,0.0759 0.020947,0.12307 0.062841,0.1414 0.0445124,0.0183 0.0333487,0.0253 0.2218717,0.0253 h 0.1060443 c 0.2801662,0 0.480472,-0.0327 0.6009173,-0.0982 0.1204453,-0.0681 0.2291079,-0.20816 0.3259878,-0.42025 H 2.3218963 L 2.145156,296.1834 H 0.02427146 v -0.0746 c 0.14401067,-0.0105 0.23696302,-0.0367 0.27885704,-0.0786 0.041894,-0.0445 0.062841,-0.13617 0.062841,-0.27492 v -1.74384 c 0,-0.13877 -0.020947,-0.22911 -0.062841,-0.27101 -0.041894,-0.0445 -0.13484635,-0.072 -0.27885704,-0.0825 v -0.0746 H 2.1098079 l 0.011783,0.56164 h -0.098189 c -0.034039,-0.17543 -0.086406,-0.28802 -0.1571026,-0.33777 -0.070696,-0.0497 -0.2173276,-0.0756 -0.4398871,-0.0746 l -0.4025401,0.002 c -0.0523669,2.4e-4 -0.0877156,0.009 -0.10604422,0.0275 -0.0157103,0.0157 -0.0235654,0.0511 -0.0235654,0.10605 v 0.87192 l 0.47716342,-0.002 c 0.1675801,-6.5e-4 0.3151126,-0.0249 0.3622433,-0.0746 0.049749,-0.0524 0.086407,-0.1519 0.1099718,-0.29849 h 0.090334 v 0.91119 H 1.843641 c -0.026184,-0.16234 -0.06415,-0.26577 -0.1138993,-0.31028 -0.049749,-0.0445 -0.1959767,-0.0668 -0.3583158,-0.0668 l -0.4771634,0.002 z"
-       id="path7"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.06525855;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#9d3a9b;stroke-width:0.26103422px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.3422948,294.84509 h 1.305171"
+       id="path822"
        inkscape:connector-curvature="0" />
     <path
-       d="m 2.9781118,294.887 v -0.78311 H 3.237331 v 0.78311 h 0.7849177 v 0.25922 H 3.237331 v 0.78491 H 2.9781118 v -0.78491 H 2.1950092 V 294.887 Z"
-       id="path9"
-       style="fill:#f3b7d9;stroke:#9d3a9b;stroke-width:0.06525855;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#9d3a9b;stroke-width:0.26103422px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.9948803,294.19251 v 1.30517"
+       id="path824"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

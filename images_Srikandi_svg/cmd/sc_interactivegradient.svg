@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_interactivegradient.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 7-01/sc_interactivegradient.png"
    inkscape:export-xdpi="90"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview23"
      showgrid="true"
      inkscape:zoom="20.85965"
@@ -48,7 +48,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="g9">
     <inkscape:grid
        type="xygrid"
        id="grid4155" />
@@ -70,39 +70,38 @@
        id="stop7" />
   </linearGradient>
   <g
-     id="g4157">
-    <g
-       id="g9"
-       transform="scale(.125)">
-      <path
-         style="fill:#f0e3ec"
-         id="path11"
-         fill="url(#a)"
-         d="m8 8h112v112h-112z" />
-      <path
-         style="fill:#9d3a9b"
-         id="path13"
-         transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)"
-         fill="#4d4d4d"
-         d="m-4 22.509668h8v136.000002h-8z" />
-      <path
-         style="fill:#9d3a9b"
-         id="path15"
-         fill="#4d4d4d"
-         d="m8 8h32v32h-32z" />
-      <path
-         id="path17"
-         fill="#fff"
-         d="m16 16h16v16h-16z" />
-      <path
-         style="fill:#9d3a9b"
-         id="path19"
-         fill="#4d4d4d"
-         d="m88 88h32v32h-32z" />
-      <path
-         id="path21"
-         fill="#fff"
-         d="m96 96h16v16h-16z" />
-    </g>
+     transform="scale(0.125)"
+     id="g9">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 8,8 H 120 V 120 H 8 Z"
+       id="path11"
+       style="fill:#f0e3ec" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M -4,22.509668 H 4 V 158.50967 h -8 z"
+       transform="rotate(-45)"
+       id="path13"
+       style="fill:#e602b4" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 8,8 H 40 V 40 H 8 Z"
+       id="path15"
+       style="fill:#e602b4" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="M 16,16 H 32 V 32 H 16 Z"
+       id="path17" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 88,88 h 32 v 32 H 88 Z"
+       id="path19"
+       style="fill:#e602b4" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 96,96 h 16 v 16 H 96 Z"
+       id="path21" />
   </g>
 </svg>

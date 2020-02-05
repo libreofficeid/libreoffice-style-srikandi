@@ -11,7 +11,7 @@
    width="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="sc_incrementlevel.svg"
    inkscape:export-filename="/home/tamara/Desktop/IKON/5_258 (tamara)/sc (222)/Tanggal 22/sc_incrementlevel.png"
    inkscape:export-xdpi="90"
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="707"
      id="namedview37"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="3.5357449"
-     inkscape:cy="7.1374324"
+     inkscape:zoom="20.85965"
+     inkscape:cx="1.9537433"
+     inkscape:cy="6.8018563"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -126,18 +126,14 @@
        stop-opacity="0"
        id="stop25" />
   </linearGradient>
-  <g
-     id="g4766">
-    <path
-       d="m 0.99995859,8 4.00000001,-4 0,3 10.0000004,0 0,2 -10.0000004,0 0,3 z"
-       id="path29"
-       style="fill:#e602b4;stroke:#9d3a9b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-       inkscape:connector-curvature="0" />
-  </g>
   <path
-     inkscape:connector-curvature="0"
-     style="fill:#f3b7d9;fill-rule:evenodd"
-     id="path31"
-     d="m 1,8 4.0099396,-4 0,3 L 15,7 l 0,2 -9.9900604,0 0,3 z"
-     sodipodi:nodetypes="cccccccc" />
+     style="fill:none;stroke:#e602b4;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="M 14.5,7.5 H 1.5"
+     id="path829"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#e602b4;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     d="m 5.5,4 -4,3.5 4,3.5"
+     id="path831"
+     inkscape:connector-curvature="0" />
 </svg>
