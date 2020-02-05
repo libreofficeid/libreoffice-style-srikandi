@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="32" height="32"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 16 8 C 9.371094 8 4 11.582031 4 16 C 4 20.417969 9.371094 24 16 24 C 22.628906 24 28 20.417969 28 16 C 28 11.582031 22.628906 8 16 8 Z M 16 8 "/>
-</g>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="16.933332" y1="295.385162" x2="16.933332" y2="264.748138" gradientTransform="matrix(0.944882,0,0,0.944882,0.00000180222,-248.629904)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.506438" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.822961" style="stop-color:rgb(94.509804%,94.509804%,94.509804%);stop-opacity:1;"/>
+<stop offset="0.90625" style="stop-color:rgb(91.764706%,91.764706%,91.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(87.450981%,87.450981%,87.450981%);stop-opacity:1;"/>
+</linearGradient>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 16 4 C 7.164062 4 0 9.371094 0 16 C 0 22.628906 7.164062 28 16 28 C 24.835938 28 32 22.628906 32 16 C 32 9.371094 24.835938 4 16 4 Z M 16 8 C 22.628906 8 28 11.582031 28 16 C 28 20.417969 22.628906 24 16 24 C 9.371094 24 4 20.417969 4 16 C 4 11.582031 9.371094 8 16 8 Z M 16 8 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 16 6 C 12.632812 6 9.277344 6.96875 6.78125 8.75 C 4.285156 10.535156 2.667969 13.207031 2.667969 16 C 2.667969 18.792969 4.285156 21.464844 6.78125 23.25 C 9.277344 25.03125 12.632812 26 16 26 C 19.367188 26 22.722656 25.03125 25.21875 23.25 C 27.714844 21.464844 29.332031 18.792969 29.332031 16 C 29.332031 13.207031 27.714844 10.535156 25.21875 8.75 C 22.722656 6.96875 19.367188 6 16 6 Z M 16 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 27.667969 16 C 27.667969 20.601562 22.445312 24.332031 16 24.332031 C 9.554688 24.332031 4.332031 20.601562 4.332031 16 C 4.332031 11.398438 9.554688 7.667969 16 7.667969 C 22.445312 7.667969 27.667969 11.398438 27.667969 16 Z M 27.667969 16 "/>
 </g>
 </svg>

@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="32" height="32"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 14 6 L 14 22 L 26 22 L 26 6 Z M 14 6 "/>
-</g>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="87.32769" y1="106.079689" x2="91.570328" y2="-17.663994" gradientTransform="matrix(0.244788,0,0,0.248591,-0.206474,-2.02917)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.425971" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.589278" style="stop-color:rgb(94.509804%,94.509804%,94.509804%);stop-opacity:1;"/>
+<stop offset="0.802198" style="stop-color:rgb(91.764706%,91.764706%,91.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(87.450981%,87.450981%,87.450981%);stop-opacity:1;"/>
+</linearGradient>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 10 2 L 10 12 L 4 12 L 2 30 L 6 30 L 7.777344 16 L 10 16 L 10 26 L 30 26 L 30 2 Z M 14 6 L 26 6 L 26 22 L 14 22 Z M 14 6 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 9.378906 2 C 8.617188 2 8 2.617188 8 3.375 L 8 22.625 C 8 23.382812 8.617188 24 9.378906 24 L 28.664062 24 C 29.421875 24 30.039062 23.382812 30.039062 22.625 L 30.039062 3.375 C 30.039062 2.617188 29.421875 2 28.664062 2 Z M 9.378906 2 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 10 4 L 28 4 L 28 22 L 10 22 Z M 10 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 4 4 L 2 26.8125 L 2 29 L 4 29 L 6 4 Z M 4 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 4 4.039062 L 10 4.039062 L 10 6 L 4 6 Z M 4 4.039062 "/>
 </g>
 </svg>

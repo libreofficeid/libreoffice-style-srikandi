@@ -6,18 +6,36 @@
 </filter>
 <mask id="mask0">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.75;stroke:none;"/>
   </g>
 </mask>
 <clipPath id="clip1">
   <rect x="0" y="0" width="32" height="32"/>
 </clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 8 16 L 2 22 L 12 22 L 12 16 Z M 20 16 L 20 22 L 24 22 L 30 16 Z M 8 24 L 2 30 L 24 30 L 30 24 L 20 24 L 20 28 L 12 28 L 12 24 Z M 8 24 "/>
+<g id="surface6" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 2 2.636719 L 2 17.363281 C 2 17.714844 2.332031 18 2.738281 18 L 17.261719 18 C 17.667969 18 18 17.714844 18 17.363281 L 18 2.636719 C 18 2.285156 17.667969 2 17.261719 2 L 2.738281 2 C 2.332031 2 2 2.285156 2 2.636719 Z M 2 2.636719 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.75;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface9" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 14 14.636719 L 14 29.363281 C 14 29.714844 14.332031 30 14.738281 30 L 29.261719 30 C 29.667969 30 30 29.714844 30 29.363281 L 30 14.636719 C 30 14.285156 29.667969 14 29.261719 14 L 14.738281 14 C 14.332031 14 14 14.285156 14 14.636719 Z M 14 14.636719 "/>
 </g>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 8 2 L 2 8 L 24 8 L 30 2 Z M 16 8 L 10 12 L 14 12 L 14 26 L 18 26 L 18 12 L 22 12 Z M 16 8 "/>
-<use xlink:href="#surface5" mask="url(#mask0)"/>
+<use xlink:href="#surface6" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 4 4.277344 L 4 15.722656 C 4 15.875 4.148438 16 4.332031 16 L 15.667969 16 C 15.851562 16 16 15.875 16 15.722656 L 16 4.277344 C 16 4.125 15.851562 4 15.667969 4 L 4.332031 4 C 4.148438 4 4 4.125 4 4.277344 Z M 4 4.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 16 7.929688 C 12.464844 11.132812 8.640625 14.132812 4 16 L 4 7.847656 C 8.441406 7.390625 12.457031 5.964844 16 4 Z M 16 7.929688 "/>
+<use xlink:href="#surface9" mask="url(#mask1)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 16 16.277344 L 16 27.722656 C 16 27.875 16.148438 28 16.332031 28 L 27.667969 28 C 27.851562 28 28 27.875 28 27.722656 L 28 16.277344 C 28 16.125 27.851562 16 27.667969 16 L 16.332031 16 C 16.148438 16 16 16.125 16 16.277344 Z M 16 16.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 28 19.929688 C 24.464844 23.132812 20.640625 26.132812 16 28 L 16 19.847656 C 20.441406 19.390625 24.457031 17.964844 28 16 Z M 28 19.929688 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 8 8.636719 L 8 23.363281 C 8 23.714844 8.332031 24 8.738281 24 L 23.261719 24 C 23.667969 24 24 23.714844 24 23.363281 L 24 8.636719 C 24 8.285156 23.667969 8 23.261719 8 L 8.738281 8 C 8.332031 8 8 8.285156 8 8.636719 Z M 8 8.636719 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 10 10.277344 L 10 21.722656 C 10 21.875 10.148438 22 10.332031 22 L 21.667969 22 C 21.851562 22 22 21.875 22 21.722656 L 22 10.277344 C 22 10.125 21.851562 10 21.667969 10 L 10.332031 10 C 10.148438 10 10 10.125 10 10.277344 Z M 10 10.277344 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.117647%,89.019608%,92.54902%);fill-opacity:1;" d="M 22 13.957031 C 18.464844 17.144531 14.640625 20.136719 10 22 L 10 13.871094 C 14.441406 13.417969 18.457031 11.996094 22 10.035156 Z M 22 13.957031 "/>
 </g>
 </svg>

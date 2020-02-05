@@ -1,1 +1,164 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m9 2v7h1 2c1.104569 0 2-.8954305 2-2s-.895431-2-2-2h-2v-3zm-6 2v1h3v1h-2.5c-.8284271 0-1.5.6715729-1.5 1.5 0 .828427.6715729 1.5 1.5 1.5h3.5v-4c0-.5522847-.4477153-1-1-1zm7 2h2c.552285 0 1 .4477153 1 1s-.447715 1-1 1h-2zm-6.5 1h2.5v1h-2.5c-.2761424 0-.5-.2238576-.5-.5s.2238576-.5.5-.5zm7.5 3v1h-1v1h1v2h-1v1h1v1h1v-1h2v1h1v-1h1v-1h-1v-2h1v-1h-1v-1h-1v1h-2v-1zm1 2h2v2h-2z" fill="#555753"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="sc_wordcountdialog.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview50"
+     showgrid="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="12.062065"
+     inkscape:cy="4.3825472"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg48">
+    <inkscape:grid
+       type="xygrid"
+       id="grid864"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="56"
+     x2="56"
+     y1="64"
+     y2="8.000001">
+    <stop
+       offset="0"
+       stop-color="#555"
+       id="stop2" />
+    <stop
+       offset="1"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="55.999977"
+     x2="47.999977"
+     y1="96"
+     y2="-7.999997">
+    <stop
+       offset="0"
+       stop-color="#0968ef"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#aecffc"
+       id="stop9" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="79.999977"
+     x2="79.999977"
+     y1="120"
+     y2="64">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop12" />
+    <stop
+       offset=".2857143"
+       stop-color="#fff"
+       id="stop14" />
+    <stop
+       offset=".71428573"
+       stop-color="#e5e5e5"
+       id="stop16" />
+    <stop
+       offset=".80219781"
+       stop-color="#eaeaea"
+       id="stop18" />
+    <stop
+       offset="1"
+       stop-color="#eee"
+       id="stop20" />
+  </linearGradient>
+  <linearGradient
+     id="d"
+     gradientUnits="userSpaceOnUse"
+     x1="63.999977"
+     x2="63.999977"
+     y1="56"
+     y2="152">
+    <stop
+       offset="0"
+       stop-color="#717174"
+       id="stop23" />
+    <stop
+       offset=".5"
+       stop-color="#9c9ca1"
+       id="stop25" />
+    <stop
+       offset="1"
+       stop-color="#cdcdd1"
+       id="stop27" />
+  </linearGradient>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none;"
+     x="2.2077374"
+     y="6.9243059"
+     id="text868"><tspan
+       sodipodi:role="line"
+       id="tspan866"
+       x="2.2077374"
+       y="6.9243059">AB</tspan></text>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#e602b4;stroke-width:1.08012342;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect882"
+     width="13"
+     height="7"
+     x="1.5"
+     y="7.5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#9d3a9b;fill-opacity:1;stroke:none"
+     x="2.9423885"
+     y="13.793524"
+     id="text868-1"><tspan
+       sodipodi:role="line"
+       id="tspan866-0"
+       x="2.9423885"
+       y="13.793524">12</tspan></text>
+</svg>

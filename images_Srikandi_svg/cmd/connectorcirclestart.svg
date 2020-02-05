@@ -6,18 +6,54 @@
 </filter>
 <mask id="mask0">
   <g filter="url(#alpha)">
-<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
   </g>
 </mask>
 <clipPath id="clip1">
   <rect x="0" y="0" width="32" height="32"/>
 </clipPath>
 <g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 6 6 C 4.894531 6 4 6.894531 4 8 C 4 9.105469 4.894531 10 6 10 C 7.105469 10 8 9.105469 8 8 C 8 6.894531 7.105469 6 6 6 Z M 6 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 5.5 6 L 16 6 L 16 7.664062 L 5.5 7.664062 Z M 5.5 6 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 16 6.007812 L 16 26 L 17.75 25.992188 L 17.75 6 Z M 16 6.007812 "/>
+</g>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 16.875 24.320312 L 24.75 24.320312 L 24.75 25.984375 L 16.875 25.984375 Z M 16.875 24.320312 "/>
+</g>
+<mask id="mask3">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.99;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip4">
+  <rect x="0" y="0" width="32" height="32"/>
+</clipPath>
+<g id="surface14" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 10.753906 6.378906 C 10.753906 8.792969 8.792969 10.753906 6.378906 10.753906 C 3.960938 10.753906 2 8.792969 2 6.378906 C 2 3.960938 3.960938 2 6.378906 2 C 8.792969 2 10.753906 3.960938 10.753906 6.378906 Z M 10.753906 6.378906 "/>
 </g>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 6 2 C 2.6875 2 0 4.6875 0 8 C 0 11.3125 2.6875 14 6 14 C 8.542969 14 10.804688 12.394531 11.652344 10 L 14 10 L 14 26 L 26 26 L 26 22 L 18 22 L 18 6 L 11.648438 6 C 10.800781 3.605469 8.539062 2.003906 6 2 Z M 6 6 C 7.105469 6 8 6.894531 8 8 C 8 9.105469 7.105469 10 6 10 C 4.894531 10 4 9.105469 4 8 C 4 6.894531 4.894531 6 6 6 Z M 6 6 "/>
 <use xlink:href="#surface5" mask="url(#mask0)"/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+<use xlink:href="#surface11" mask="url(#mask2)"/>
+<use xlink:href="#surface14" mask="url(#mask3)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(61.56863%,22.745098%,60.784316%);fill-opacity:1;" d="M 30 23 L 23 23 L 23 30 L 30 30 Z M 30 23 "/>
 </g>
 </svg>

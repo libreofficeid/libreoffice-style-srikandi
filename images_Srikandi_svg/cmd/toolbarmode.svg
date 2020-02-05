@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 2 2 L 2 14.800781 L 6 17 L 6 10 L 26 10 L 26 26 L 23 26 L 30 29.730469 L 30 2 Z M 0 16 L 0 32 L 30 32 Z M 4 22 L 14 28 L 4 28 Z M 4 22 "/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.5 1.5 L 6.5 1.5 L 6.5 4.5 C 6.5 5.5 5.5 6.5 4.5 6.5 L 1.5 6.5 Z M 1.5 1.5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 13.5 1.5 L 13.5 6.5 L 10.5 6.5 C 9.5 6.5 8.5 5.5 8.5 4.5 L 8.5 1.5 Z M 13.5 1.5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 13.5 13.5 L 8.5 13.5 L 8.5 10.5 C 8.5 9.5 9.5 8.5 10.5 8.5 L 13.5 8.5 Z M 13.5 13.5 " transform="matrix(2,0,0,2,0,0)"/>
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(90.196079%,0.784314%,70.588237%);stroke-opacity:1;stroke-miterlimit:4;" d="M 1.5 13.5 L 1.5 8.5 L 4.5 8.5 C 5.5 8.5 6.5 9.5 6.5 10.5 L 6.5 13.5 Z M 1.5 13.5 " transform="matrix(2,0,0,2,0,0)"/>
 </g>
 </svg>

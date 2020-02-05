@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" viewBox="0 0 32 32" version="1.1">
 <defs>
-<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
-  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="mask0">
-  <g filter="url(#alpha)">
-<rect x="0" y="0" width="32" height="32" style="fill:rgb(0%,0%,0%);fill-opacity:0.35;stroke:none;"/>
-  </g>
-</mask>
-<clipPath id="clip1">
-  <rect x="0" y="0" width="32" height="32"/>
-</clipPath>
-<g id="surface5" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 14 6.199219 C 9.34375 7.152344 6 11.246094 6 16 C 6 21.523438 10.476562 26 16 26 C 20.753906 26 24.847656 22.65625 25.800781 18 L 14 18 Z M 14 6.199219 "/>
-</g>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="63.999996" y1="121.896683" x2="63.999996" y2="6.103257" gradientTransform="matrix(0.25,0,0,0.25,0.00000180222,0)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.506438" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.822961" style="stop-color:rgb(94.509804%,94.509804%,94.509804%);stop-opacity:1;"/>
+<stop offset="0.90625" style="stop-color:rgb(91.764706%,91.764706%,91.764706%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(87.450981%,87.450981%,87.450981%);stop-opacity:1;"/>
+</linearGradient>
 </defs>
 <g id="surface1">
-<use xlink:href="#surface5" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(33.333334%,34.117648%,32.549021%);fill-opacity:1;" d="M 16 2 C 8.269531 2 2 8.269531 2 16 C 2 23.730469 8.269531 30 16 30 C 23.730469 30 30 23.730469 30 16 C 29.980469 15.328125 29.914062 14.660156 29.800781 14 L 18 14 L 18 2.15625 C 17.339844 2.054688 16.667969 2.003906 16 2 Z M 14 6.199219 L 14 18 L 25.800781 18 C 24.847656 22.65625 20.753906 26 16 26 C 10.476562 26 6 21.523438 6 16 C 6 11.246094 9.34375 7.152344 14 6.199219 Z M 14 6.199219 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,0.784314%,70.588237%);fill-opacity:1;" d="M 16 2 C 8.269531 2 2 8.269531 2.003906 16 C 2 23.730469 8.269531 30 16 30 C 23.730469 30 30 23.730469 30 16 C 29.992188 15.332031 29.941406 14.660156 29.839844 14 L 18 14 L 18 2.164062 C 17.339844 2.0625 16.667969 2.007812 16 2.003906 Z M 16 2 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 16 4 C 9.375 4 4 9.375 4 16 C 4 22.625 9.375 28 16 28 C 22.625 28 28 22.625 28 16 L 16 16 Z M 16 4 "/>
 </g>
 </svg>
