@@ -12,7 +12,7 @@
    version="1.1"
    id="svg53"
    sodipodi:docname="sc_datastreamsstop.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata59">
     <rdf:RDF>
@@ -36,20 +36,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview55"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="7.6742456"
-     inkscape:cy="9.1819771"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="41.7193"
+     inkscape:cx="8.2231517"
+     inkscape:cy="8.4333823"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg53">
     <inkscape:grid
        type="xygrid"
-       id="grid866" />
+       id="grid866"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <filter
      id="a">
@@ -148,29 +151,16 @@
        stop-color="#666"
        id="stop36" />
   </radialGradient>
-  <g
-     transform="scale(0.125)"
-     id="g51">
-    <circle
-       cx="58"
-       cy="58"
-       r="58"
-       transform="matrix(1.1034483,0,0,1.1034483,0,-3e-6)"
-       id="circle39"
-       style="fill:#9d3a9b;fill-opacity:1" />
-    <path
-       d="M 12,63.999999 C 12,92.672581 35.327414,116 63.999998,116 92.672584,116 116,92.672581 116,63.999999 116,35.327415 92.672584,12 63.999998,12 35.327414,12 12,35.327415 12,63.999999 Z"
-       id="path45"
-       inkscape:connector-curvature="0"
-       style="fill:#f0e3ec" />
-    <g
-       transform="matrix(1.0833333,0,0,1.0833333,1.166669,1.166669)"
-       id="g43"
-       style="opacity:0.8;filter:url(#a)" />
-    <path
-       d="M 40,40 H 88 V 88 H 40 Z"
-       id="path47"
-       inkscape:connector-curvature="0"
-       style="fill:#e602b4;fill-opacity:1" />
-  </g>
+  <circle
+     style="opacity:1;fill:#f0e3ec;fill-opacity:1;stroke:#e602b4;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path882"
+     cx="8"
+     cy="8"
+     r="6.5" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#e602b4;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 10.5,10.5 v -5 h -5 v 5 z"
+     id="path874"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
 </svg>
