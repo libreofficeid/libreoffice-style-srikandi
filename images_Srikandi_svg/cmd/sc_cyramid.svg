@@ -13,7 +13,7 @@
    version="1.1"
    id="svg47"
    sodipodi:docname="sc_cyramid.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata53">
     <rdf:RDF>
@@ -37,21 +37,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      id="namedview49"
      showgrid="true"
-     inkscape:zoom="22.627417"
-     inkscape:cx="5.9378524"
-     inkscape:cy="9.2029565"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="29.5"
+     inkscape:cx="10.726546"
+     inkscape:cy="6.2826013"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg47"
-     inkscape:snap-global="false">
+     inkscape:current-layer="svg47">
     <inkscape:grid
        type="xygrid"
-       id="grid4563" />
+       id="grid860"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <linearGradient
      id="a">
@@ -104,7 +106,7 @@
      id="f"
      cx="60"
      cy="42.99128"
-     gradientTransform="matrix(1 0 0 2.1165615 0 -66.993688)"
+     gradientTransform="matrix(1,0,0,2.1165615,0,-66.993688)"
      gradientUnits="userSpaceOnUse"
      r="26.458008"
      xlink:href="#b" />
@@ -165,22 +167,16 @@
        stdDeviation="2.8"
        id="feGaussianBlur28" />
   </filter>
-  <g
-     transform="matrix(0.12641382,0,0,0.12641382,0.21151094,0.61603471)"
-     id="g45">
-    <g
-       id="g41"
-       style="fill-rule:evenodd">
-      <path
-         d="M 48,4 4,116 h 96 z"
-         id="path33"
-         inkscape:connector-curvature="0"
-         style="fill:#f3b7d9;fill-opacity:1;stroke:#e602b4;stroke-width:1.95493591;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         d="m 48,4 68,76 -16,36 z"
-         id="path37"
-         inkscape:connector-curvature="0"
-         style="fill:#9d3a9b;stroke:#e602b4;stroke-width:1.95493591;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-  </g>
+  <path
+     style="opacity:1;vector-effect:none;fill:#f3b7d9;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 6.5,1.5 7,10 -2,3"
+     id="path868"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#f3b7d9;fill-opacity:1;stroke:#9d3a9b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 6.5,1.5 -5,13 h 10 z"
+     id="path862"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>
