@@ -12,7 +12,7 @@
    version="1.1"
    id="svg32"
    sodipodi:docname="sc_dbviewtables.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata38">
     <rdf:RDF>
@@ -37,19 +37,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-height="704"
      id="namedview34"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="6.7181841"
-     inkscape:cy="8.0774795"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="29.5"
+     inkscape:cx="8.9894428"
+     inkscape:cy="8.8241054"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg32">
+     inkscape:current-layer="svg32"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true">
     <inkscape:grid
        type="xygrid"
-       id="grid40" />
+       id="grid845"
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="2" />
   </sodipodi:namedview>
   <filter
      id="a">
@@ -59,7 +64,7 @@
   </filter>
   <linearGradient
      id="b"
-     gradientTransform="matrix(.1133598 0 0 .1691546 .642795 -76.95463)"
+     gradientTransform="matrix(0.1133598,0,0,0.1691546,0.642795,-76.95463)"
      gradientUnits="userSpaceOnUse"
      x1="399.77466"
      x2="399.77466"
@@ -78,47 +83,42 @@
        stop-color="#fff"
        id="stop9" />
   </linearGradient>
-  <g
-     transform="scale(0.125)"
-     id="g30">
-    <path
-       d="M 7.999997,16 H 120 v 96 H 7.999997 Z"
-       id="path14"
-       inkscape:connector-curvature="0"
-       style="fill:#f3b7d9" />
-    <path
-       d="m 78.20266,37.61897 v -2.7448 z"
-       id="path16"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:0.756881" />
-    <path
-       d="m 8,48 h 112 v 64 H 8 Z"
-       id="path18"
-       inkscape:connector-curvature="0"
-       style="fill:#f0e3ec" />
-    <g
-       id="g28"
-       style="fill:#cacacc">
-      <path
-         d="M 7.999997,88 H 120 v 8 H 7.999997 Z"
-         id="path20"
-         inkscape:connector-curvature="0"
-         style="fill:#f3b7d9" />
-      <path
-         d="M 7.999997,64 H 120 v 8 H 7.999997 Z"
-         id="path22"
-         inkscape:connector-curvature="0"
-         style="fill:#f3b7d9" />
-      <path
-         d="m 40,48 h 8 v 64 h -8 z"
-         id="path24"
-         inkscape:connector-curvature="0"
-         style="fill:#f3b7d9" />
-      <path
-         d="m 80,48 h 8 v 64 h -8 z"
-         id="path26"
-         inkscape:connector-curvature="0"
-         style="fill:#f3b7d9" />
-    </g>
-  </g>
+  <rect
+     style="fill:#f3b7d9;stroke:#9d3a9b"
+     id="rect61"
+     width="13"
+     height="11"
+     x="1.5"
+     y="2.5"
+     ry="1.5" />
+  <path
+     style="fill:#9d3a9b;stroke:#9d3a9b"
+     d="m 3,2.5 h 10 c 0.831,0 1.5,1.5 1.5,1.5 V 4 4.5 H 1.5 V 4 4 C 1.5,4 2.169,2.5 3,2.5 Z"
+     id="rect871"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssccsss" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1.5,7.5 h 13"
+     id="path875"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1.5,10.5 h 13"
+     id="path879"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 5.5,2.5 v 11"
+     id="path867"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;stroke:#9d3a9b;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 9.5,2.5 v 11"
+     id="path869"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc" />
 </svg>
